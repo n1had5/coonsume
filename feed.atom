@@ -2,38 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T23:37:27.923Z</updated>
+    <updated>2022-11-01T23:38:18.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Event Delegation in JavaScript –Explained with an Example]]></title>
-        <id>https://www.freecodecamp.org/news/event-delegation-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/event-delegation-javascript/"/>
-        <updated>2022-11-01T17:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]]]></summary>
+        <title type="html"><![CDATA[My Investment is in TROUBLE]]></title>
+        <id>https://yewtu.be/watch?v=m8lsUvil_S8</id>
+        <link href="https://yewtu.be/watch?v=m8lsUvil_S8"/>
+        <updated>2022-11-01T18:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to HP for sponsoring this video! you can learn more about the HP 845 G9 at: https://bit.ly/3ztZIJp
+
+For years, there’s been an unfriendly trend of replacing socketed, swappable components like RAM and SSDs for ones that come soldered to the motherboard. Great for keeping device thickness to a minimum, but not so great for reparability. Let’s see what HP did to buck that trend.
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://…]]></summary>
         <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/"/>
-        <updated>2022-11-01T16:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Errors in Python – the try, except, else, and finally Keywords Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-errors-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-in-python/"/>
-        <updated>2022-11-01T14:53:34.000Z</updated>
-        <summary type="html"><![CDATA[> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -58,53 +53,29 @@ Rendering External API Data in WordPress Blocks on the Back End originally publi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Event Bubbling in JavaScript – How Event Propagation Works with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/event-bubbling-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/event-bubbling-in-javascript/"/>
-        <updated>2022-10-31T21:04:17.000Z</updated>
-        <summary type="html"><![CDATA[HTML elements receive different types of events, from click, to blur, to scroll, and so on. One behavior these events have in common is Event Bubbling. I'll explain what this behavior means in this article. I also made a video version of this article which you can watch here [https://www.youtube.com/watch?v=KaHZdW02Tg0].]]></summary>
+        <title type="html"><![CDATA[This PC is TERRIFYING - Intel Extreme Tech Upgrade]]></title>
+        <id>https://yewtu.be/watch?v=Waabw_tp0LY</id>
+        <link href="https://yewtu.be/watch?v=Waabw_tp0LY"/>
+        <updated>2022-10-31T17:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to Intel for sponsoring this video! You can purchase an Intel 12700K at https://geni.us/RPyj54U
+
+Alex is hosting his first Intel Extreme Tech Upgrade, and we couldn't just make it easy for him. Tynan came ready to go with copper hardline tubing, a sick case and even an induction forge to make it all happen. Will these guys be able to make our most intense ETU yet?
+
+Discuss on the forum: https://linustechtips.com/topic/1464562-this-pc-is-terrifying-intel-extreme-tech-upgrade-sponsored/
+
+Buy an 011 Dynamic Evo Case: https://geni.us/KhGhgHx
+
+Buy an MSI MAG Z690 Tomahawk: https://geni.us/uBQD
+
+Buy an Intel 12700K: https://geni.us/RPyj54U
+
+Buy an EK Quantum Velocity2 Water Block: https://geni.us/w899P0
+
+Buy an EK Quantum Surface: https://geni.us/1q8XzJ
+
+Buy a kit of Crucial Ballistix DDR…]]></summary>
         <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeError: 'int' object is not subscriptable [Solved Python Error]]]></title>
-        <id>https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/</id>
-        <link href="https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/"/>
-        <updated>2022-10-31T17:37:23.000Z</updated>
-        <summary type="html"><![CDATA[The Python error "TypeError: 'int' object is not subscriptable" occurs when you try to treat an integer like a subscriptable object. In Python, a subscriptable object is one you can “subscript” or iterate over. Why the "TypeError: 'int' object is not subscriptable Error" Occurs You can iterate over a string,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Infrastructure as Code with AWS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/"/>
-        <updated>2022-10-31T17:07:04.000Z</updated>
-        <summary type="html"><![CDATA[Infrastructure as code is the process of provisioning and managing your cloud resources by writing a template file that is both human-readable and machine consumable.  For AWS cloud development, the built-in choice for infrastructure as code is AWS CloudFormation. Using IaC, developers can manage a project’s infrastructure efficiently, allowing]]></summary>
-        <author>
-            <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JavaScript's Proxy Object Works – Explained with Example Use Cases]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-proxy-object/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-proxy-object/"/>
-        <updated>2022-10-31T14:56:30.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you are going to learn what a proxy object is, along with its limitations. We will also look into some of the use cases that demonstrate how you can use proxy objects to solve various problems. Without further ado, let’s get started. Table of Contents  *]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Firebase Authentication in a React App]]></title>
-        <id>https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/</id>
-        <link href="https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/"/>
-        <updated>2022-10-31T14:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Almost every web application requires some form of authentication. This prevents unauthorized users from having access to the app's inner workings.  In this tutorial, you will learn how to authenticate your React app with the Firebase SDK. How to Authenticate with Firebase Authenticating with Firebase makes things easy for]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -129,23 +100,74 @@ The New CSS Media Query Range Syntax originally published on CSS-Tricks, which i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SEO Tips for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/tips-to-boost-your-seo/</id>
-        <link href="https://www.freecodecamp.org/news/tips-to-boost-your-seo/"/>
-        <updated>2022-10-29T00:09:34.000Z</updated>
-        <summary type="html"><![CDATA[SEO (Search Engine Optimization) is essential for your online marketing strategy. It's the process of optimizing your site and content to help you get as much traffic as you can from search engines. Reaching top positions in the search engine results pages (SERPs) with your website is one of the]]></summary>
+        <title type="html"><![CDATA[It’s time for some hard truth]]></title>
+        <id>https://yewtu.be/watch?v=NMFQ3YvR3Eo</id>
+        <link href="https://yewtu.be/watch?v=NMFQ3YvR3Eo"/>
+        <updated>2022-10-30T17:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Communicative effectively with the right tone at work! Sign up for an account and get 20% off Grammarly Premium: https://grammarly.com/LTT
+
+Check out SignalRGB and sync all your RGB peripherals at https://bit.ly/LinusTips
+
+Every industry has its fair share of people and companies aiming to perfect the craft... but that aim has lead to a number of shady snake oil solutions that don't actually improve anything. Today, we look at one of those. 
+
+Discuss on the forum: https://linustechtips.com/topic/1464349-it%E2%80%99s-time-for-some-hard-truth-aqvox-se-audiophile-network-switch/
+
+Buy a D-LINK DGS-108 Network Switch: https://geni.us/D8bYiZN
+Buy a JDS Labs Element 3 Dac & Amp: https://lmg.gg/pJnfv
+Buy the Abyss AB1266 Phi TC Headphones: https://lmg.gg/i0aDt
+
+Purchases made through some store li…]]></summary>
         <author>
-            <name>Edan Ben-Atar</name>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Julia by Coding 7 Projects – Hands-On Programming Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/</id>
-        <link href="https://www.freecodecamp.org/news/learn-julia-by-coding-7-projects/"/>
-        <updated>2022-10-28T23:54:26.000Z</updated>
-        <summary type="html"><![CDATA[The Julia programming language is used for a lot of really impactful and interesting challenges like Machine Learning and Data Science.  But before you can get to the complex stuff, it is worth exploring the basics to develop a solid foundation.  In this tutorial, we will go over]]></summary>
+        <title type="html"><![CDATA[DON'T Game at 8K]]></title>
+        <id>https://yewtu.be/watch?v=1y5jEK-72JQ</id>
+        <link href="https://yewtu.be/watch?v=1y5jEK-72JQ"/>
+        <updated>2022-10-29T17:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to MSI for sponsoring this video! You can purchase your own RTX 4090 SUPRIM Liquid X 24G at https://geni.us/2CGki. If you're looking for a great 4K monitor for your gaming, check out the MSI Optix MPG321UR-QD at https://geni.us/3rjRBV
+
+8K gaming is finally possible with the new RTX 4090, but does anyone REALLY care? How much of a difference can you even see in games on a giant 8K TV? 
+
+Discuss on the forum: https://linustechtips.com/topic/1464158-you-can-game-at-8k%E2%80%A6-but-don%E2%80%99t-sponsored/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcast…]]></summary>
         <author>
-            <name>Logan Kilpatrick</name>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gamer's GPUs Are Melting - WAN Show October 28, 2022]]></title>
+        <id>https://yewtu.be/watch?v=KEnd8OwRwbI</id>
+        <link href="https://yewtu.be/watch?v=KEnd8OwRwbI"/>
+        <updated>2022-10-29T03:43:08.000Z</updated>
+        <summary type="html"><![CDATA[Start using AnyDesk today at http://lmg.gg/AnyDesk
+Check out the Corsair Voyager A1600 Laptop at https://geni.us/VoyagerWAN
+Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html
+
+Podcast Download: https://spotifyanchor-web.app.link/e/Vjd1LukWzub
+
+Timestamps:
+0:00 Chapters
+1:26 Intro
+1:52 Topic #1 - RTX 4090's 12VHPWR adapters melting
+2:50 Paraphrasing Igor's Labs' findings
+5:08 Third party connectors, CableMod's instructions
+7:34 Linus skips RTX 4000 for his PC, reasoning behind it
+10:58 Topic #2 - AMD's Radeon RX 7000 series
+11:14 AMD's "Radeon 7xxx" will not feature 12VHPWR
+12:36 Linus on the word "left-angle" & adapter orientation
+14:38 Luke discusses very old hardware with FP
+15:36 LTT's video on increasing performance of AMD GPUs
+17:12…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -170,6 +192,43 @@ Fancy Image Decorations: Outlines and Complex Animations originally published on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Pray This Computer Sucks.. Cuz I’m gonna sell it for $1]]></title>
+        <id>https://yewtu.be/watch?v=CBfGIR0NqCE</id>
+        <link href="https://yewtu.be/watch?v=CBfGIR0NqCE"/>
+        <updated>2022-10-28T01:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Create your build at https://www.buildredux.com/linus
+
+Try FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus
+
+Today Linus is rolling dice to decide what does into a computer.. but there is a twist. Whatever computer he rolls must be sold for $1. Best case for Linus the computer will be $373, worst case it will be $16,795.]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Expensive SSDs Worth It? #SHORTS #pcgaming #ssd]]></title>
+        <id>https://yewtu.be/watch?v=GEKcLIQsjUc</id>
+        <link href="https://yewtu.be/watch?v=GEKcLIQsjUc"/>
+        <updated>2022-10-27T02:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Surely the more expensive SSD performs better, right? You'd be surprised- we tested CHEAP vs. EXPENSIVE SSDs to put this to rest...
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Holographic Trading Card Effect]]></title>
         <id>https://css-tricks.com/?p=374609</id>
         <link href="https://css-tricks.com/holographic-trading-card-effect/"/>
@@ -182,6 +241,30 @@ Holographic Trading Card Effect originally published on CSS-Tricks, which is par
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[They Sent a $45,000 Bill... Then Ghosted Us.]]></title>
+        <id>https://yewtu.be/watch?v=0rDex2Itb8o</id>
+        <link href="https://yewtu.be/watch?v=0rDex2Itb8o"/>
+        <updated>2022-10-26T16:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Check out the MSI RTX 4090 SUPRIM: https://www.msi.com/Graphics-Card/GeForce-RTX-4090-SUPRIM-X-24G
+
+TEAMGROUP's Black Friday/Cyber Monday Sale: https://bit.ly/3FffwDC
+TEAMGROUP Delta RGB DDR5 6400 - White at Micro Center: https://bit.ly/3CGMObR
+
+The lab is spending mucho money on an Anechoic EMC Chamber. What does that mean? It means a big box, it means carbon-impregnated, it means WIFI, it means FOAM. And a whole mess of an order.
+
+Discuss on the forum: https://linustechtips.com/topic/1463470-we-paid-45000-they-ghosted-us/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https:/…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Typographic Hierarchies]]></title>
         <id>https://smashingmagazine.com/2022/10/typographic-hierarchies/</id>
         <link href="https://smashingmagazine.com/2022/10/typographic-hierarchies/"/>
@@ -189,6 +272,28 @@ Holographic Trading Card Effect originally published on CSS-Tricks, which is par
         <summary type="html"><![CDATA[In this article, Alma Hoffmann discusses six basic variables to establish a typographic hierarchy, explains how to look at each differently, and in turn, designs pieces by intentionally modifying each variable to create a typographic hierarchy effectively.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alma Hoffmann)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I think I can fix the RTX 4090]]></title>
+        <id>https://yewtu.be/watch?v=yU4CFhtS95Q</id>
+        <link href="https://yewtu.be/watch?v=yU4CFhtS95Q"/>
+        <updated>2022-10-25T17:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Use link https://wealthfront.com/LTT to open a Wealthfront Cash Account and start saving today. Thanks Wealthfront!
+
+SmartDeploy: Claim your FREE IT software (worth $580!) at https://lmg.gg/SDOct
+
+Nvidia's RTX 4090 is the new king of GPUs. It laughs at last generation ray tracing performance, it shrugs off the most demanding of games, it... recommends a power supply with 850 to 1000 watts?! There's got to be a better way - and it starts with undervolting.
+
+Discuss on the forum: https://linustechtips.com/topic/1463304-i-think-i-can-fix-the-rtx-4090/
+
+Buy an ASUS ROG Thor 1000W PSU: https://geni.us/hYBuKg
+Buy an ASUS ROG Thor 850W PSU: https://geni.us/ISMMx
+Buy a Seasonic Prime TX-750 PSU: https://geni.us/QHMjmT2
+Buy a Seasonic Prime 650W PSU: https://geni.us/QJ4wC3
+Buy a Seasonic FOCUS GX-5…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -213,6 +318,30 @@ Creating Animated, Clickable Cards With the :has() Relational Pseudo Class origi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Roasting OUR worst setups!]]></title>
+        <id>https://yewtu.be/watch?v=VHByReaiJ4o</id>
+        <link href="https://yewtu.be/watch?v=VHByReaiJ4o"/>
+        <updated>2022-10-24T17:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to ORIGIN PC for sponsoring this video! Check out their new EVO 15-S system at: https://bit.ly/LTT_EVO15S
+
+The team at LMG are a diverse bunch with a wide-ranging skillset - and they often use those skills to cast a critical eye on the choices Linus makes with his setups. Today though, we play the uno reverse card: it’s time for Linus and Luke to judge the choices their own staff make, and publicly roast their setups!
+
+Discuss on the forum: https://linustechtips.com/topic/1463080-roasting-my-staff%E2%80%99s-pc-setups/
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twitt…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Is There Too Much CSS Now?]]></title>
         <id>https://css-tricks.com/?p=374364</id>
         <link href="https://css-tricks.com/is-there-too-much-css-now/"/>
@@ -221,6 +350,152 @@ Creating Animated, Clickable Cards With the :has() Relational Pseudo Class origi
 Is There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Sacha Greif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Gamed With THIS for a MONTH – Azeron Cyborg]]></title>
+        <id>https://yewtu.be/watch?v=HFjJvWPwuJo</id>
+        <link href="https://yewtu.be/watch?v=HFjJvWPwuJo"/>
+        <updated>2022-10-23T16:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!
+
+Plouffe was voluntold to daily drive the Azeron Cyborg for at least a MONTH. It definitely has a wide range of benefits, but do they outweigh the cons and annoyances? Is this the controller or gamepad replacement you've been looking for?
+
+Discuss on the forum: https://linustechtips.com/topic/1462872-i-gamed-with-this-for-a-month-%E2%80%93-azeron-cyborg/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech
+
+MUSIC CREDIT
+---------------------------------------------------
+Intro: Laszlo - Supernova
+Video Link: https://www.youtube.com/watch?v=PKfxmFU3lWY
+iTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712
+Artist Link: https://soundcloud.com/laszlomusic
+
+Outro: Approaching Nirvana - Sugar High
+Video Link: https://www.youtube.com/watch?v=ngsGBSCDwcI
+Listen on Spotify: http://spoti.fi/UxWkUw
+Artist Link: http://www.youtube.com/approachingnirvana
+
+Intro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/
+Monitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp
+Mechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4
+Mouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE
+
+CHAPTERS
+---------------------------------------------------
+0:00 Intro
+1:20 The Peripheral
+3:10 Adjusting It
+4:30 Thumbsticks
+6:45 Software
+9:09 Quick Fixes
+10:15 Comfort
+11:30 Conclusion
+13:34 Outro]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want this back, Nintendo? - 3DS Dev Kit]]></title>
+        <id>https://yewtu.be/watch?v=4YpRJtvFmP8</id>
+        <link href="https://yewtu.be/watch?v=4YpRJtvFmP8"/>
+        <updated>2022-10-22T17:31:21.000Z</updated>
+        <summary type="html"><![CDATA[See NordPass Business in action now with a 3-month free trial here: https://nordpass.com/linusbusiness and use code linusbusiness at the checkout! It’s risk free with 30 day money-back guarantee!
+
+UGREEN 100W GaN Charging Station (25% OFF):  https://amzn.to/3D6aUOC
+UGREEN Nexode Chargers: https://amzn.to/3glg2Fp
+
+Ever wanted to play your Nintendo 3DS games on the TV? We’ve got a Nintendo 3DS development unit, but it does more than just develop!
+
+Discuss on the forum: https://linustechtips.com/topic/1462687-want-this-back-nintendo/
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech
+
+MUSIC CREDIT
+---------------------------------------------------
+Intro: Laszlo - Supernova
+Video Link: https://www.youtube.com/watch?v=PKfxmFU3lWY
+iTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712
+Artist Link: https://soundcloud.com/laszlomusic
+
+Outro: Approaching Nirvana - Sugar High
+Video Link: https://www.youtube.com/watch?v=ngsGBSCDwcI
+Listen on Spotify: http://spoti.fi/UxWkUw
+Artist Link: http://www.youtube.com/approachingnirvana
+
+Intro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/
+Monitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp
+Mechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4
+Mouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE
+
+CHAPTERS
+---------------------------------------------------
+0:00 Intro
+1:37 What Makes it Special?
+2:47 Handheld Unit
+3:17 Software
+7:42 Let's Play a Game
+8:36 Exterior I/O
+11:39 Getting in the Guts
+18:15 Nitro CTR]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Backstabbed Me - WAN Show October 21, 2022]]></title>
+        <id>https://yewtu.be/watch?v=SqgSEgVph1U</id>
+        <link href="https://yewtu.be/watch?v=SqgSEgVph1U"/>
+        <updated>2022-10-22T02:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Keep your feet dry and get $25 off each pair at Vessi with offer code WANSHOW at https://www.vessi.com/wanshow 
+Check out MSI's Optix MPG321UR-QD: https://lmg.gg/MSIOptixWAN 
+45Drives Storage Solutions: https://lmg.gg/45DrivesWAN 
+
+Podcast Download: https://spotifyanchor-web.app.link/e/eFU0m9Apoub
+
+Timestamps: (Courtesy of NoKi1119)
+0:00 Chapters
+1:51 Intro
+2:19 Linus has no swear button, Luke on painkillers
+3:07 Topic #1 - YouTube raises Family Premium price
+4:36 Discussing Premium costs on iOS platforms
+6:22 Why is this allowed?
+9:16 Manifest - Coincidental timing? FP subscriptions
+16:12 Does Premium help content creators?
+20:14 Watchable resolution, Vimeo, Premium watch time
+22:11 Lack of concern with pushing users to ad-blocking
+27:20 Linus on the Family Premium service ft bullying
+32:…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
@@ -256,6 +531,27 @@ Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Pref
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[We were afraid to publish this video – Intel 13th Gen Review]]></title>
+        <id>https://yewtu.be/watch?v=3zcCX7yyiz4</id>
+        <link href="https://yewtu.be/watch?v=3zcCX7yyiz4"/>
+        <updated>2022-10-20T16:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html
+
+Create your build at https://www.buildredux.com/linus
+
+AMD ushered in the new generation of desktop CPUs with their Ryzen 7000 Series just last month, but Intel is clapping back in a major way with the Core i9-13900K and Core i5-13600K. Can Team Red afford to sit on their AM5/Ryzen laurels? Or will Intel's 13th Gen give them a run for their money… and customers? Find out by watching our review!
+
+Discuss on the forum: https://linustechtips.com/topic/1462263-we-were-afraid-to-publish-this-video-%E2%80%93-intel-13th-gen-review/
+
+Buy a Ryzen 5800X3D: https://geni.us/A7wA2sX
+Buy a Ryzen 7950X: https://geni.us/bSNf
+Buy a Ryzen 7600X: https://geni.us/bZGspc
+Buy a Ryzen 7900X: https://geni.us/z…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What’s New In DevTools: Halloween Edition 🎃]]></title>
         <id>https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/</id>
         <link href="https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/"/>
@@ -275,6 +571,28 @@ Video graphics are designed within a specific ratio and …
 Responsive Animations for Every Screen Size and Device originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Cassie Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube SHOULD charge for 4K. Hear me out.]]></title>
+        <id>https://yewtu.be/watch?v=MDsJJRNXjYI</id>
+        <link href="https://yewtu.be/watch?v=MDsJJRNXjYI"/>
+        <updated>2022-10-19T18:17:22.000Z</updated>
+        <summary type="html"><![CDATA[Play Enlisted for FREE on PC, Xbox Series X|S and PS®5: https://enplay.link/ltt. Follow the link to download the game and get your exclusive bonus now. See you in battle!
+
+YouTube has been exploring the idea of putting 4K video playback behind their Premium paywall. At the risk of kicking the hornet's nest, I argue that, not only is this a defensible business move for YouTube, it could actually be good for creators and audiences as well...
+
+Discuss on the forum: https://linustechtips.com/topic/1462074-youtube-should-charge-for-4k-hear-me-out/
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+FOLLOW US 
+------------------------------------------…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
         </author>
     </entry>
     <entry>
