@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T23:38:18.581Z</updated>
+    <updated>2022-11-02T01:27:35.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
@@ -743,16 +743,6 @@ Some Things I Took Away From An Event Apart 2022 in Denver originally published 
         <summary type="html"><![CDATA[We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delightful UI Animations With Shared Element Transitions API (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/</id>
-        <link href="https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/"/>
-        <updated>2022-10-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>

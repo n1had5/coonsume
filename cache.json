@@ -392,21 +392,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
-          "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
-          "publishedOn": "2022-10-03T13:00:00.000Z",
-          "wordCount": 7766,
-          "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg"
         }
       ]
     },
