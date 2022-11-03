@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374697",
+          "author": "Geoff Graham",
+          "description": "Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …\nSome Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-links-about-css-gradients/",
+          "publishedOn": "2022-11-02T12:59:02.000Z",
+          "wordCount": 1215,
+          "title": "Some Links About CSS Gradients",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
+        },
+        {
           "id": "https://css-tricks.com/?p=374381",
           "author": "Manoj Kumar",
           "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -168,6 +178,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
+          "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
+          "publishedOn": "2022-11-02T14:00:00.000Z",
+          "wordCount": 5887,
+          "title": "Designing The Perfect Mobile Navigation UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
           "author": "hello@smashingmagazine.com (William Lyon)",
@@ -400,6 +425,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=ieHv_bJ7mog",
+          "author": null,
+          "description": "Thanks to Amazon for sponsoring our 2022 Holiday Buyers Guide! We have our built out PC kits below, but if you're looking for gifts this season, check out Amazon's own Holiday Gift Guide at https://geni.us/nXANf7e and their Electronics Showcase at https://geni.us/Q9zJA.\n\nLooking to build a new PC for yourself or someone else? We've got you covered this holiday season at a ton of different price points in our latest Holiday Buyers Guide.\n\nDiscuss on the forum: https://linustechtips.com/topic/1465010-the-ultimate-holiday-buyers-guide-2022-sponsored/\n\n$300 Build\n\nBuy an AMD Ryzen 5 4600G: https://geni.us/5JoQ13\nBuy a Gigabyte GA A320M S2H Micro ATX: https://geni.us/Ams7Aa\nBuy a Kit of Patriot Signature Line 8GB DDR4: https://geni.us/w7kHXJ\nBuy a Teamgroup T-Force Vulcan Z 240GB SSD: https://g…",
+          "link": "https://yewtu.be/watch?v=ieHv_bJ7mog",
+          "publishedOn": "2022-11-02T17:04:47.000Z",
+          "wordCount": 1724,
+          "title": "The Holiday PC Buyer's Guide - 2022",
+          "imageUrl": "/vi/ieHv_bJ7mog/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=m8lsUvil_S8",
           "author": null,
