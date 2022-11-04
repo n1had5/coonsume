@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-03T01:19:21.134Z</updated>
+    <updated>2022-11-04T01:22:00.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between Web Sockets, Web Workers, and Service Workers]]></title>
+        <id>https://css-tricks.com/?p=374731</id>
+        <link href="https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/"/>
+        <updated>2022-11-03T12:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …
+The Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Aisha Bukar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Smashing Front-End & UX Workshops]]></title>
+        <id>https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/</id>
+        <link href="https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/"/>
+        <updated>2022-11-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? Would you like to level up with modern CSS? What are new, smart interface design patterns we could use? Let’s figure it all out together with our [brand new online workshops](https://smashingconf.com/online-workshops/) alongside our free community meetups.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Holiday PC Buyer's Guide - 2022]]></title>
         <id>https://yewtu.be/watch?v=ieHv_bJ7mog</id>
@@ -775,16 +796,6 @@ Some Things I Took Away From An Event Apart 2022 in Denver originally published 
         <summary type="html"><![CDATA[Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexander Godwin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Fluid Typography With clamp() Using Sass Functions]]></title>
-        <id>https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/</id>
-        <link href="https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/"/>
-        <updated>2022-10-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374731",
+          "author": "Aisha Bukar",
+          "description": "Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …\nThe Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/",
+          "publishedOn": "2022-11-03T12:56:58.000Z",
+          "wordCount": 2106,
+          "title": "The Difference Between Web Sockets, Web Workers, and Service Workers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374731"
+        },
+        {
           "id": "https://css-tricks.com/?p=374697",
           "author": "Geoff Graham",
           "description": "Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …\nSome Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -178,6 +188,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "What’s the state of HTML Email, Vue.js and Next.js? Would you like to level up with modern CSS? What are new, smart interface design patterns we could use? Let’s figure it all out together with our [brand new online workshops](https://smashingconf.com/online-workshops/) alongside our free community meetups.",
+          "link": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
+          "publishedOn": "2022-11-03T07:00:00.000Z",
+          "wordCount": 3276,
+          "title": "New Smashing Front-End & UX Workshops",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f0edf42-4421-4e65-9a71-0a8bf3dc41b0/online-workshops-2022.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f0edf42-4421-4e65-9a71-0a8bf3dc41b0/online-workshops-2022.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -402,21 +427,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e77a7ee4-c2ed-4b4c-a147-16df351a6b31/nodejs-authentication-twilio-verify-sharing-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.",
-          "link": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
-          "publishedOn": "2022-10-05T12:00:00.000Z",
-          "wordCount": 4155,
-          "title": "Easy Fluid Typography With clamp() Using Sass Functions",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg"
         }
       ]
     },
