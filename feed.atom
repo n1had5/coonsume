@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-04T01:22:00.076Z</updated>
+    <updated>2022-11-05T01:19:14.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I'm Frankly Disgusted - WAN Show November 4, 2022]]></title>
+        <id>https://yewtu.be/watch?v=CYoWAjUAI7A</id>
+        <link href="https://yewtu.be/watch?v=CYoWAjUAI7A"/>
+        <updated>2022-11-04T23:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off
+
+Get a 15-day free trial for unlimited backup at https://backblaze.com/WAN
+
+Start building your credit with debit today at https://www.extra.app/wanshow
+Extra debit card is issued by Evolve Bank and Trust, member of FDIC
+
+Podcast Download: TBD
+
+Timestamps: TBD]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Couple Changes Coming in Chrome 108]]></title>
+        <id>https://css-tricks.com/?p=374894</id>
+        <link href="https://css-tricks.com/a-couple-changes-coming-in-chrome-108/"/>
+        <updated>2022-11-04T13:13:08.000Z</updated>
+        <summary type="html"><![CDATA[“A change to overflow on replaced elements in CSS”:
+From Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.
+This 
+…
+A Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Steps To Build Transparency In Your Remote Business]]></title>
+        <id>https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/</id>
+        <link href="https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/"/>
+        <updated>2022-11-04T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Siobhan McKeown)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye NVIDIA. – AMD RDNA3 Announcement]]></title>
+        <id>https://yewtu.be/watch?v=YSAismB8ju4</id>
+        <link href="https://yewtu.be/watch?v=YSAismB8ju4"/>
+        <updated>2022-11-04T08:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Shop Micro Center’s Great Selection of Computer Parts: https://micro.center/7re
+Check out Micro Center’s Top Deals: https://micro.center/kso
+
+PDQ.com: Start your FREE trial now! At https://lmg.gg/PDQOct
+
+AMD just announced their RDNA3 GPUs and dang.. the RX 7900XT and RX 7900 XTX look amazing for gamers.
+
+Discuss on the forum: https://linustechtips.com/topic/1465351-goodbye-nvidia-%E2%80%93-amd-rdna3-announcement/
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech
+
+MUSIC CREDIT
+---------------------------------------------------
+Intro: Laszlo - Supernova
+Video Link: https://www.youtube.com/watch?v=PKfxmFU3lWY
+iTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712
+Artist Link: https://soundcloud.com/laszlomusic
+
+Outro: Approaching Nirvana - Sugar High
+Video Link: https://www.youtube.com/watch?v=ngsGBSCDwcI
+Listen on Spotify: http://spoti.fi/UxWkUw
+Artist Link: http://www.youtube.com/approachingnirvana
+
+Intro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/
+Monitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp
+Mechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4
+Mouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE
+
+CHAPTERS
+---------------------------------------------------
+0:00 - Intro
+1:05 - PDQ
+1:20 - LTT Intro
+1:29 - Performance Estimations
+3:37 - Pricing
+4:51 - Power consumption
+6:58 - DisplayPort 2.1
+7:54 - Media Engine
+8:55 - The bad stuff
+10:30 - Overall
+11:08 - Micro Center!
+11:40 - Outro]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Difference Between Web Sockets, Web Workers, and Service Workers]]></title>
         <id>https://css-tricks.com/?p=374731</id>
@@ -203,6 +309,16 @@ Purchases made through some store links may provide some compensation to Linus M
 ► PODCAST GEAR: https://lmg.gg/podcast…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create Advanced Animations With CSS]]></title>
+        <id>https://smashingmagazine.com/2022/10/advanced-animations-css/</id>
+        <link href="https://smashingmagazine.com/2022/10/advanced-animations-css/"/>
+        <updated>2022-10-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yosra Emad)</name>
         </author>
     </entry>
     <entry>
