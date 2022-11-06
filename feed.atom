@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-05T01:19:14.480Z</updated>
+    <updated>2022-11-06T01:17:56.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nvidia is Clearly Better, Right?]]></title>
+        <id>https://yewtu.be/watch?v=mkfFvEeVC4w</id>
+        <link href="https://yewtu.be/watch?v=mkfFvEeVC4w"/>
+        <updated>2022-11-05T17:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Play Enlisted for FREE on PC, Xbox Series X|S and PS®5: https://enplay.link/ltt. Follow the link to download the game and get your exclusive bonus now. See you in battle!
+
+Over the lifetime of RDNA2 AMD has apparently improved the experience a lot, making us wonder... should you actually choose Nvidia for your next GPU? Particularly when AMD left some performance on the table we hope to extract using the Radeon Monster Profile.
+
+Check our Hydra: https://www.overclock.net/threads/official-hydra-and-hydra-pro-thread.1796800/
+
+Check our 1usmus: https://twitter.com/1usmus?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+
+Discuss on the forum: https://linustechtips.com/topic/1465647-nvidia-is-clearly-better-right/
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm Frankly Disgusted - WAN Show November 4, 2022]]></title>
         <id>https://yewtu.be/watch?v=CYoWAjUAI7A</id>
@@ -892,26 +913,6 @@ Some Things I Took Away From An Event Apart 2022 in Denver originally published 
         <summary type="html"><![CDATA[In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Roadmap For Building A Business Chatbot]]></title>
-        <id>https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/</id>
-        <link href="https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/"/>
-        <updated>2022-10-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Devansh Bansal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Authentication With Twilio Verify]]></title>
-        <id>https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/</id>
-        <link href="https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/"/>
-        <updated>2022-10-07T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexander Godwin)</name>
         </author>
     </entry>
 </feed>
