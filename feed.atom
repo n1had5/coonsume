@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-07T01:15:31.292Z</updated>
+    <updated>2022-11-08T01:15:50.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Managing CSS Styles in a WordPress Block Theme]]></title>
+        <id>https://css-tricks.com/?p=374910</id>
+        <link href="https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/"/>
+        <updated>2022-11-07T14:05:11.000Z</updated>
+        <summary type="html"><![CDATA[The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …
+Managing CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s New In Next.js 13?]]></title>
+        <id>https://smashingmagazine.com/2022/11/whats-new-nextjs-13/</id>
+        <link href="https://smashingmagazine.com/2022/11/whats-new-nextjs-13/"/>
+        <updated>2022-11-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[eBay is FULL of Cheap Hard Drives! What's the Catch?]]></title>
         <id>https://yewtu.be/watch?v=xQMQW4sbXf8</id>

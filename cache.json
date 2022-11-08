@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374910",
+          "author": "Ganesh Dahal",
+          "description": "The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …\nManaging CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/",
+          "publishedOn": "2022-11-07T14:05:11.000Z",
+          "wordCount": 4131,
+          "title": "Managing CSS Styles in a WordPress Block Theme",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374910"
+        },
+        {
           "id": "https://css-tricks.com/?p=374894",
           "author": "Geoff Graham",
           "description": "“A change to overflow on replaced elements in CSS”:\nFrom Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.\nThis \n…\nA Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -198,6 +208,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.",
+          "link": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
+          "publishedOn": "2022-11-07T14:00:00.000Z",
+          "wordCount": 4116,
+          "title": "What’s New In Next.js 13?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
           "author": "hello@smashingmagazine.com (Siobhan McKeown)",
