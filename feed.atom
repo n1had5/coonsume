@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-08T01:15:50.659Z</updated>
+    <updated>2022-11-09T01:17:18.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your Router Sucks. Build Your Own Instead!]]></title>
+        <id>https://yewtu.be/watch?v=_IzyJTcnPu8</id>
+        <link href="https://yewtu.be/watch?v=_IzyJTcnPu8"/>
+        <updated>2022-11-08T20:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Save 59% on a year of Bitdefender Premium Security at: https://lmg.gg/qMMV8
+
+Did you know that you can build your own router that can perform better than off-the-shelf products? It’s easier than you might think to build your own opnSense or pfSense router, and we’ll show you how!
+
+Discuss on the forum: https://linustechtips.com/topic/1466389-your-router-sucks-build-your-own-instead-sponsored/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What CSS Do You Absolutely Have to Know in 2022?]]></title>
+        <id>https://css-tricks.com/?p=374775</id>
+        <link href="https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/"/>
+        <updated>2022-11-08T13:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Sacha Greif openly wondered whether CSS has gotten to be, you know, too big. With all the goodies that’ve shipped in browsers the past couple of years — container queries! relative color syntax! cascade layers! logical properties…
+What CSS Do You Absolutely Have to Know in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double your FPS for FREE!*** - Nvidia DLSS 3.0]]></title>
+        <id>https://yewtu.be/watch?v=PUTsE1q1bYI</id>
+        <link href="https://yewtu.be/watch?v=PUTsE1q1bYI"/>
+        <updated>2022-11-08T09:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to Mine for sponsoring this video! Discover where your data is, and take it back at https://bit.ly/Say-Mine-LTT
+
+Get Unlimited Data for $25/month at https://l.boostmobile.com/1hovqg
+
+Nvidia’s new DLSS 3.0 promises smoother gameplay by doubling your FPS – But how can it do that, and can its fake frame generation possibly look any good? And is it worth buying an RTX 4090 for?
+
+Discuss on the forum: https://linustechtips.com/topic/1466274-double-your-fps-for-free-nvidia-dlss-30/
+
+Check out Comrade Stinger's Async Timewarp demo: https://drive.google.com/file/d/1YgYrJK7LhUr9ulQTO_qJxziZVhuo3QGU/view
+Check out Comrade Stinger's YouTube channel: https://www.youtube.com/user/paimail21/
+2kliksphilip's YouTube channel: https://www.youtube.com/c/2kliksphilip
+Growling Sidewinder's YouTube chann…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Managing CSS Styles in a WordPress Block Theme]]></title>
         <id>https://css-tricks.com/?p=374910</id>
@@ -947,16 +1006,6 @@ Some Things I Took Away From An Event Apart 2022 in Denver originally published 
         <summary type="html"><![CDATA[Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delightful UI Animations With Shared Element Transitions API (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/</id>
-        <link href="https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/"/>
-        <updated>2022-10-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>

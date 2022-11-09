@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374775",
+          "author": "Geoff Graham",
+          "description": "Sacha Greif openly wondered whether CSS has gotten to be, you know, too big. With all the goodies that’ve shipped in browsers the past couple of years — container queries! relative color syntax! cascade layers! logical properties…\nWhat CSS Do You Absolutely Have to Know in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/",
+          "publishedOn": "2022-11-08T13:51:48.000Z",
+          "wordCount": 1572,
+          "title": "What CSS Do You Absolutely Have to Know in 2022?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374775"
+        },
+        {
           "id": "https://css-tricks.com/?p=374910",
           "author": "Ganesh Dahal",
           "description": "The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …\nManaging CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -447,21 +457,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "In this article, Adrian Bece will show how to create same-document page transitions for Single Page Apps using Shared Element Transitions API and check out its future implementation and potential for creating cross-document transitions in Multi-Page Apps.",
-          "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
-          "publishedOn": "2022-10-10T09:00:00.000Z",
-          "wordCount": 5513,
-          "title": "Delightful UI Animations With Shared Element Transitions API (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24c75fda-847f-4fc5-b9c2-9118523bda6b/ui-animations-shared-element-transitions-api.jpg"
         }
       ]
     },
@@ -470,6 +465,26 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=_IzyJTcnPu8",
+          "author": null,
+          "description": "Save 59% on a year of Bitdefender Premium Security at: https://lmg.gg/qMMV8\n\nDid you know that you can build your own router that can perform better than off-the-shelf products? It’s easier than you might think to build your own opnSense or pfSense router, and we’ll show you how!\n\nDiscuss on the forum: https://linustechtips.com/topic/1466389-your-router-sucks-build-your-own-instead-sponsored/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook…",
+          "link": "https://yewtu.be/watch?v=_IzyJTcnPu8",
+          "publishedOn": "2022-11-08T20:03:53.000Z",
+          "wordCount": 1035,
+          "title": "Your Router Sucks. Build Your Own Instead!",
+          "imageUrl": "/vi/_IzyJTcnPu8/maxres.jpg"
+        },
+        {
+          "id": "https://yewtu.be/watch?v=PUTsE1q1bYI",
+          "author": null,
+          "description": "Thanks to Mine for sponsoring this video! Discover where your data is, and take it back at https://bit.ly/Say-Mine-LTT\n\nGet Unlimited Data for $25/month at https://l.boostmobile.com/1hovqg\n\nNvidia’s new DLSS 3.0 promises smoother gameplay by doubling your FPS – But how can it do that, and can its fake frame generation possibly look any good? And is it worth buying an RTX 4090 for?\n\nDiscuss on the forum: https://linustechtips.com/topic/1466274-double-your-fps-for-free-nvidia-dlss-30/\n\nCheck out Comrade Stinger's Async Timewarp demo: https://drive.google.com/file/d/1YgYrJK7LhUr9ulQTO_qJxziZVhuo3QGU/view\nCheck out Comrade Stinger's YouTube channel: https://www.youtube.com/user/paimail21/\n2kliksphilip's YouTube channel: https://www.youtube.com/c/2kliksphilip\nGrowling Sidewinder's YouTube chann…",
+          "link": "https://yewtu.be/watch?v=PUTsE1q1bYI",
+          "publishedOn": "2022-11-08T09:32:15.000Z",
+          "wordCount": 1052,
+          "title": "Double your FPS for FREE!*** - Nvidia DLSS 3.0",
+          "imageUrl": "/vi/PUTsE1q1bYI/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=xQMQW4sbXf8",
           "author": null,
