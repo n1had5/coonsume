@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T01:17:19.342Z</updated>
+    <updated>2022-11-11T01:19:54.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THIS is how AMD wins]]></title>
+        <id>https://yewtu.be/watch?v=BeBDVQNqV0o</id>
+        <link href="https://yewtu.be/watch?v=BeBDVQNqV0o"/>
+        <updated>2022-11-10T19:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Check out MSI's holiday deals and the #TYMSI giveaway at https://msi.gm/3NzyMO3
+
+Create your build at https://www.buildredux.com/linus
+
+While Ryzen 7000 had a slow launch, especially after losing the crown to Intel’s 13th Gen, in the datacenter AMD show’s no signs of slowing down. With the launch of their 4th generation of Epyc CPUs, fully refreshed on the new Zen 4 Architecture promises huge gains in performance, up to 96 cores per CPU, and big improvements to power efficiency. Intel is uhh…. kinda screwed.
+
+Checkout Supermicro's new servers: https://lmg.gg/3Fabc
+
+Discuss on the forum: https://linustechtips.com/topic/1466823-this-is-how-amd-wins/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON …]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I couldn’t do my job without this.]]></title>
         <id>https://yewtu.be/watch?v=232opnNPGNo</id>
@@ -1030,16 +1053,6 @@ Some Things I Took Away From An Event Apart 2022 in Denver originally published 
         <summary type="html"><![CDATA[In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sustainable Web Development Strategies Within An Organization]]></title>
-        <id>https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/</id>
-        <link href="https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/"/>
-        <updated>2022-10-11T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
         </author>
     </entry>
 </feed>

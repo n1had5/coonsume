@@ -457,21 +457,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article, we’ll explore some of the ways we can raise awareness and effect change within an organization to create a more positive environmental impact.",
-          "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
-          "publishedOn": "2022-10-11T15:30:00.000Z",
-          "wordCount": 4997,
-          "title": "Sustainable Web Development Strategies Within An Organization",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg"
         }
       ]
     },
@@ -480,6 +465,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=BeBDVQNqV0o",
+          "author": null,
+          "description": "Check out MSI's holiday deals and the #TYMSI giveaway at https://msi.gm/3NzyMO3\n\nCreate your build at https://www.buildredux.com/linus\n\nWhile Ryzen 7000 had a slow launch, especially after losing the crown to Intel’s 13th Gen, in the datacenter AMD show’s no signs of slowing down. With the launch of their 4th generation of Epyc CPUs, fully refreshed on the new Zen 4 Architecture promises huge gains in performance, up to 96 cores per CPU, and big improvements to power efficiency. Intel is uhh…. kinda screwed.\n\nCheckout Supermicro's new servers: https://lmg.gg/3Fabc\n\nDiscuss on the forum: https://linustechtips.com/topic/1466823-this-is-how-amd-wins/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON …",
+          "link": "https://yewtu.be/watch?v=BeBDVQNqV0o",
+          "publishedOn": "2022-11-10T19:33:19.000Z",
+          "wordCount": 1045,
+          "title": "THIS is how AMD wins",
+          "imageUrl": "/vi/BeBDVQNqV0o/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=232opnNPGNo",
           "author": null,
