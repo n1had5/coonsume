@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374826",
+          "author": "Temani Afif",
+          "description": "After Part 1 and Part 2, I am back with a third article to explore more fancy shapes. Like the previous articles, we are going to combine CSS Grid with clipping and masking to create fancy layouts for image …\nCSS Grid and Custom Shapes, Part 3 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-3/",
+          "publishedOn": "2022-11-11T14:42:04.000Z",
+          "wordCount": 3601,
+          "title": "CSS Grid and Custom Shapes, Part 3",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374826"
+        },
+        {
           "id": "https://css-tricks.com/?p=374775",
           "author": "Geoff Graham",
           "description": "Sacha Greif openly wondered whether CSS has gotten to be, you know, too big. With all the goodies that’ve shipped in browsers the past couple of years — container queries! relative color syntax! cascade layers! logical properties…\nWhat CSS Do You Absolutely Have to Know in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -218,6 +228,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
+          "author": "hello@smashingmagazine.com (Andrew Stetsenko)",
+          "description": "Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.",
+          "link": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
+          "publishedOn": "2022-11-11T09:00:00.000Z",
+          "wordCount": 5942,
+          "title": "How To Search For A Developer Job Abroad",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -465,6 +490,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=EdyAdPXhxIw",
+          "author": null,
+          "description": "Have a PC that's been building dust over several years? Canned Air might be the standard for PC cleaning, but there's a better way... \n\n#SHORTS #pcgaming #pcbuilding #cleaning #gaming \n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech",
+          "link": "https://yewtu.be/watch?v=EdyAdPXhxIw",
+          "publishedOn": "2022-11-11T18:00:06.000Z",
+          "wordCount": 716,
+          "title": "This PC wasn't cleaned for 5 years...",
+          "imageUrl": "/vi/EdyAdPXhxIw/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=BeBDVQNqV0o",
           "author": null,
