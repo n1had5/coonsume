@@ -210,16 +210,6 @@
           "wordCount": 3247,
           "title": "Fancy Image Decorations: Single Element Magic",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373965"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374401",
-          "author": "Geoff Graham",
-          "description": "An Event Apart 2022 Denver wrapped up yesterday. And while I was unable to make it to all three days this time, I did catch yesterday’s action — and it was awesome. I’m not very social or outgoing, but …\nSome Things I Took Away From An Event Apart 2022 in Denver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-things-i-took-away-from-an-event-apart-2022-in-denver/",
-          "publishedOn": "2022-10-13T20:01:00.000Z",
-          "wordCount": 2129,
-          "title": "Some Things I Took Away From An Event Apart 2022 in Denver",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374401"
         }
       ]
     },
@@ -467,21 +457,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
-          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
-          "description": "In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.",
-          "link": "https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/",
-          "publishedOn": "2022-10-13T15:00:00.000Z",
-          "wordCount": 6068,
-          "title": "Effective Communication For Everyday Meetings",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3c62052-4769-4a7d-8473-828a3e05ff74/effective-communication-everyday-meetings.jpg"
         }
       ]
     },
@@ -490,6 +465,26 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=uXu4TgKyth0",
+          "author": null,
+          "description": "Try FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus\n\nTry Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html\n\nApple has a bigger presence at Linus Media Group than ever before: an increasing number of our staff are choosing their excellent M1 and M2 powered laptops as their work machine or use Macintosh systems at home. But this increased usage has led to more annoyances being discussed around the office… so we put together this list of some of the more noticeable omissions!\n\nDiscuss on the forum: https://linustechtips.com/topic/1467197-mac-users-deserve-better-%E2%80%93-7-unacceptable-problems-with-macos/\n\nBuy an Apple Magic Mouse 2: https://geni.us/BUikcN\nBuy a Logitech MX Master 3S for Mac: https:/…",
+          "link": "https://yewtu.be/watch?v=uXu4TgKyth0",
+          "publishedOn": "2022-11-12T18:00:25.000Z",
+          "wordCount": 1149,
+          "title": "Mac Users Deserve Better – 7 Unacceptable Problems with MacOS",
+          "imageUrl": "/vi/uXu4TgKyth0/maxres.jpg"
+        },
+        {
+          "id": "https://yewtu.be/watch?v=hNXgJlPzkCQ",
+          "author": null,
+          "description": "The first 200 people get 20% off their Brilliant annual premium subscription at https://www.brilliant.org/WAN/\nTry Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html\nVisit https://www.squarespace.com/WAN and use offer code WAN for 10% off\n\nPodcast Download: TBD\n\nTimestamps: TBD",
+          "link": "https://yewtu.be/watch?v=hNXgJlPzkCQ",
+          "publishedOn": "2022-11-12T03:41:50.000Z",
+          "wordCount": 725,
+          "title": "Verified WAN Show - WAN Show November 11, 2022",
+          "imageUrl": "/vi/hNXgJlPzkCQ/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=EdyAdPXhxIw",
           "author": null,
