@@ -190,26 +190,6 @@
           "wordCount": 2443,
           "title": "Pure CSS Bezier Curve Motion Paths",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373600"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374393",
-          "author": "Haley Mills",
-          "description": "Well, hey, welcome back to Behind the CSScenes! These posts are like little check-ins we’re doing each month to give you a peek behind what we’re doing here at CSS-Tricks, as well as a chance for us to pause …\nBehind the CSScenes, October 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/behind-the-csscenes-october-2022/",
-          "publishedOn": "2022-10-14T21:40:26.000Z",
-          "wordCount": 1619,
-          "title": "Behind the CSScenes, October 2022",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374393"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373965",
-          "author": "Temani Afif",
-          "description": "As the title says, we are going to decorate images! There’s a bunch of other articles out there that talk about this, but what we’re covering here is quite a bit different because it’s more of a challenge. The challenge? …\nFancy Image Decorations: Single Element Magic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fancy-image-decorations-single-element-magic/",
-          "publishedOn": "2022-10-14T15:37:28.000Z",
-          "wordCount": 3247,
-          "title": "Fancy Image Decorations: Single Element Magic",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373965"
         }
       ]
     },
@@ -465,6 +445,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=qMWAY8Cdsz0",
+          "author": null,
+          "description": "TEAMGROUP's Black Friday/Cyber Monday Sale: https://bit.ly/3FffwDC\nTEAMGROUP Delta RGB DDR5 6400 - White at Micro Center: https://bit.ly/3CGMObR\n\nBuy a Seasonic Prime TX-1600: https://geni.us/TBRYP9U\n\nPantone recently decided that their expensive plastic chips and colour matching binders were not making enough money. Now, even old files will stop working if you don’t pay up.\n\nDiscuss on the forum: https://linustechtips.com/topic/1467378-i-have-to-pirate-colours-now/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n--------------------------…",
+          "link": "https://yewtu.be/watch?v=qMWAY8Cdsz0",
+          "publishedOn": "2022-11-13T18:00:01.000Z",
+          "wordCount": 1135,
+          "title": "I Have to Pirate COLOURS Now??",
+          "imageUrl": "/vi/qMWAY8Cdsz0/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=uXu4TgKyth0",
           "author": null,

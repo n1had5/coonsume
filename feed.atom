@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-13T01:15:28.020Z</updated>
+    <updated>2022-11-14T01:13:39.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Have to Pirate COLOURS Now??]]></title>
+        <id>https://yewtu.be/watch?v=qMWAY8Cdsz0</id>
+        <link href="https://yewtu.be/watch?v=qMWAY8Cdsz0"/>
+        <updated>2022-11-13T18:00:01.000Z</updated>
+        <summary type="html"><![CDATA[TEAMGROUP's Black Friday/Cyber Monday Sale: https://bit.ly/3FffwDC
+TEAMGROUP Delta RGB DDR5 6400 - White at Micro Center: https://bit.ly/3CGMObR
+
+Buy a Seasonic Prime TX-1600: https://geni.us/TBRYP9U
+
+Pantone recently decided that their expensive plastic chips and colour matching binders were not making enough money. Now, even old files will stop working if you don’t pay up.
+
+Discuss on the forum: https://linustechtips.com/topic/1467378-i-have-to-pirate-colours-now/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+--------------------------…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mac Users Deserve Better – 7 Unacceptable Problems with MacOS]]></title>
         <id>https://yewtu.be/watch?v=uXu4TgKyth0</id>
@@ -1091,28 +1119,6 @@ Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nick Schäferhoff)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, October 2022]]></title>
-        <id>https://css-tricks.com/?p=374393</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-october-2022/"/>
-        <updated>2022-10-14T21:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Well, hey, welcome back to Behind the CSScenes! These posts are like little check-ins we’re doing each month to give you a peek behind what we’re doing here at CSS-Tricks, as well as a chance for us to pause …
-Behind the CSScenes, October 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Haley Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy Image Decorations: Single Element Magic]]></title>
-        <id>https://css-tricks.com/?p=373965</id>
-        <link href="https://css-tricks.com/fancy-image-decorations-single-element-magic/"/>
-        <updated>2022-10-14T15:37:28.000Z</updated>
-        <summary type="html"><![CDATA[As the title says, we are going to decorate images! There’s a bunch of other articles out there that talk about this, but what we’re covering here is quite a bit different because it’s more of a challenge. The challenge? …
-Fancy Image Decorations: Single Element Magic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>
