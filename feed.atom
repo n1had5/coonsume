@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-14T01:13:39.437Z</updated>
+    <updated>2022-11-15T01:13:21.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do NOT Plug This Into Anything – Hak5 Rubber Ducky]]></title>
+        <id>https://yewtu.be/watch?v=kfaHJwcG2mg</id>
+        <link href="https://yewtu.be/watch?v=kfaHJwcG2mg"/>
+        <updated>2022-11-14T18:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off
+
+Create your build at https://www.buildredux.com/linus
+
+The Hak5 Rubber Ducky is a dangerous hacking tool that disguises itself as an unassuming USB flash drive. It delivers payloads by injecting keystrokes while appearing to its host system as a regular old keyboard.
+
+Discuss on the forum: https://linustechtips.com/topic/1467579-do-not-plug-this-into-anything-%E2%80%93-hak5-rubber-ducky/
+
+Buy the Hak5 Rubber Ducky here: https://shop.hak5.org/products/usb-rubber-ducky
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCA…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Keyboard Accessibility: HTML And CSS (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/</id>
+        <link href="https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/"/>
+        <updated>2022-11-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classy and Cool Custom CSS Scrollbars: A Showcase]]></title>
+        <id>https://css-tricks.com/?p=375019</id>
+        <link href="https://css-tricks.com/classy-and-cool-custom-css-scrollbars-a-showcase/"/>
+        <updated>2022-11-14T13:54:26.000Z</updated>
+        <summary type="html"><![CDATA[In this article we will be diving into the world of scrollbars. I know, it doesn’t sound too glamorous, but trust me, a well-designed page goes hand-in-hand with a matching scrollbar. The old-fashioned chrome scrollbar just doesn’t fit in as …
+Classy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Saleh Mubashar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Have to Pirate COLOURS Now??]]></title>
         <id>https://yewtu.be/watch?v=qMWAY8Cdsz0</id>
