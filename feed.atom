@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-15T01:13:21.015Z</updated>
+    <updated>2022-11-16T01:13:39.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
+        <id>https://css-tricks.com/?p=375066</id>
+        <link href="https://css-tricks.com/behind-the-csscenes-november-2022/"/>
+        <updated>2022-11-15T15:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …
+Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Found One Good Thing About the GeForce RTX 4080...]]></title>
+        <id>https://yewtu.be/watch?v=0CunGt3cQXc</id>
+        <link href="https://yewtu.be/watch?v=0CunGt3cQXc"/>
+        <updated>2022-11-15T13:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Signup for Karma today and get $10 added to your account at: https://lpkarmanow.onelink.me/nSgX/Linusyt
+
+Check out Karma's mind-blowing commercial here: https://lpkarmanow.onelink.me/nSgX/Linuswatch
+
+Nvidia’s GeForce RTX 4080 is the latest Ada Lovelace GPU, but it’s got significantly less hardware than the bigger 4090. Can it deliver impressive gaming performance, or is it full of more hot air?
+
+Discuss on the forum: https://linustechtips.com/topic/1467746-nvidia-lied-in-a-good-way-rtx-4080-review/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLL…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do NOT Plug This Into Anything – Hak5 Rubber Ducky]]></title>
         <id>https://yewtu.be/watch?v=kfaHJwcG2mg</id>
@@ -1155,16 +1192,6 @@ Manuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is pa
 Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lu Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Full-Site Editing: A Deep Dive Into The New Feature]]></title>
-        <id>https://smashingmagazine.com/2022/10/wordpress-full-site-editing/</id>
-        <link href="https://smashingmagazine.com/2022/10/wordpress-full-site-editing/"/>
-        <updated>2022-10-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nick Schäferhoff)</name>
         </author>
     </entry>
 </feed>

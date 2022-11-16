@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375066",
+          "author": "Geoff Graham",
+          "description": "Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …\nBehind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/behind-the-csscenes-november-2022/",
+          "publishedOn": "2022-11-15T15:54:32.000Z",
+          "wordCount": 2643,
+          "title": "Behind the CSScenes, November 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375066"
+        },
+        {
           "id": "https://css-tricks.com/?p=375019",
           "author": "Saleh Mubashar",
           "description": "In this article we will be diving into the world of scrollbars. I know, it doesn’t sound too glamorous, but trust me, a well-designed page goes hand-in-hand with a matching scrollbar. The old-fashioned chrome scrollbar just doesn’t fit in as …\nClassy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -447,21 +457,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3509bd84-1307-4bb5-a00f-1b9da09b8acb/understanding-privacy-banner-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
-          "author": "hello@smashingmagazine.com (Nick Schäferhoff)",
-          "description": "In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.",
-          "link": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
-          "publishedOn": "2022-10-17T12:00:00.000Z",
-          "wordCount": 8366,
-          "title": "WordPress Full-Site Editing: A Deep Dive Into The New Feature",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg"
         }
       ]
     },
@@ -470,6 +465,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=0CunGt3cQXc",
+          "author": null,
+          "description": "Signup for Karma today and get $10 added to your account at: https://lpkarmanow.onelink.me/nSgX/Linusyt\n\nCheck out Karma's mind-blowing commercial here: https://lpkarmanow.onelink.me/nSgX/Linuswatch\n\nNvidia’s GeForce RTX 4080 is the latest Ada Lovelace GPU, but it’s got significantly less hardware than the bigger 4090. Can it deliver impressive gaming performance, or is it full of more hot air?\n\nDiscuss on the forum: https://linustechtips.com/topic/1467746-nvidia-lied-in-a-good-way-rtx-4080-review/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLL…",
+          "link": "https://yewtu.be/watch?v=0CunGt3cQXc",
+          "publishedOn": "2022-11-15T13:59:59.000Z",
+          "wordCount": 1029,
+          "title": "We Found One Good Thing About the GeForce RTX 4080...",
+          "imageUrl": "/vi/0CunGt3cQXc/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=kfaHJwcG2mg",
           "author": null,
