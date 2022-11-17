@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375385",
+          "author": "Haley Mills",
+          "description": "Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …\nDigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/",
+          "publishedOn": "2022-11-16T23:38:36.000Z",
+          "wordCount": 910,
+          "title": "DigitalOcean Welcomes Cloudways to the Family",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375385"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374792",
+          "author": "Geoff Graham",
+          "description": "I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …\nFinding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/finding-front-end-development-scholarships/",
+          "publishedOn": "2022-11-16T14:11:11.000Z",
+          "wordCount": 1598,
+          "title": "Finding Front-End Development Scholarships",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374792"
+        },
+        {
           "id": "https://css-tricks.com/?p=375066",
           "author": "Geoff Graham",
           "description": "Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …\nBehind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -200,16 +220,6 @@
           "wordCount": 1101,
           "title": "Manuel Matuzovic: max() Trickery",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374466"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373600",
-          "author": "Lu Wang",
-          "description": "Besides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas! Now, how about using Bezier curves as motion paths with CSS?\nPure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/pure-css-bezier-curve-motion-paths/",
-          "publishedOn": "2022-10-17T15:30:05.000Z",
-          "wordCount": 2443,
-          "title": "Pure CSS Bezier Curve Motion Paths",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373600"
         }
       ]
     },
@@ -218,6 +228,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
+          "author": "hello@smashingmagazine.com (Noah Mashni and Mark Steadman)",
+          "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
+          "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
+          "publishedOn": "2022-11-16T14:00:00.000Z",
+          "wordCount": 5489,
+          "title": "Using Automated Test Results To Improve Accessibility",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
           "author": "hello@smashingmagazine.com (Cristian Díaz)",
@@ -465,6 +490,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=M0VddWcJDe8",
+          "author": null,
+          "description": "Check out what you can fix with iFixit at https://www.iFixit.com/LTT\n\nOur staff often get to be hands-on with the newest tech before most people have a chance to order it… but what about at home? What sort of tech do they splurge on for passion projects and hobbies? It’s time for another round of show and tell!\n\nDiscuss on the forum: https://linustechtips.com/topic/1468025-tech-show-and-tell-%E2%80%93-our-team%E2%80%99s-coolest-gear/\n\nBuy a Hario V60 Buono Kettle: https://geni.us/ebRBtK\nBuy a Bonavita Digital Kettle: https://geni.us/7lQsINR\nBuy a Hario Pour Over Set: https://geni.us/byAKSjF\nBuy a 1Zpresso JX-Pro Grinder: https://geni.us/SZaVg\nBuy a Timemore Coffee Scale: https://geni.us/l9T0Y\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET…",
+          "link": "https://yewtu.be/watch?v=M0VddWcJDe8",
+          "publishedOn": "2022-11-16T21:52:00.000Z",
+          "wordCount": 1086,
+          "title": "Tech Show and Tell – Our Team’s Coolest Gear!",
+          "imageUrl": "/vi/M0VddWcJDe8/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=0CunGt3cQXc",
           "author": null,

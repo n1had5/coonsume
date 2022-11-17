@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T01:13:39.469Z</updated>
+    <updated>2022-11-17T01:12:36.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean Welcomes Cloudways to the Family]]></title>
+        <id>https://css-tricks.com/?p=375385</id>
+        <link href="https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/"/>
+        <updated>2022-11-16T23:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …
+DigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Haley Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Show and Tell – Our Team’s Coolest Gear!]]></title>
+        <id>https://yewtu.be/watch?v=M0VddWcJDe8</id>
+        <link href="https://yewtu.be/watch?v=M0VddWcJDe8"/>
+        <updated>2022-11-16T21:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out what you can fix with iFixit at https://www.iFixit.com/LTT
+
+Our staff often get to be hands-on with the newest tech before most people have a chance to order it… but what about at home? What sort of tech do they splurge on for passion projects and hobbies? It’s time for another round of show and tell!
+
+Discuss on the forum: https://linustechtips.com/topic/1468025-tech-show-and-tell-%E2%80%93-our-team%E2%80%99s-coolest-gear/
+
+Buy a Hario V60 Buono Kettle: https://geni.us/ebRBtK
+Buy a Bonavita Digital Kettle: https://geni.us/7lQsINR
+Buy a Hario Pour Over Set: https://geni.us/byAKSjF
+Buy a 1Zpresso JX-Pro Grinder: https://geni.us/SZaVg
+Buy a Timemore Coffee Scale: https://geni.us/l9T0Y
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Front-End Development Scholarships]]></title>
+        <id>https://css-tricks.com/?p=374792</id>
+        <link href="https://css-tricks.com/finding-front-end-development-scholarships/"/>
+        <updated>2022-11-16T14:11:11.000Z</updated>
+        <summary type="html"><![CDATA[I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …
+Finding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Automated Test Results To Improve Accessibility]]></title>
+        <id>https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/</id>
+        <link href="https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/"/>
+        <updated>2022-11-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noah Mashni and Mark Steadman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
         <id>https://css-tricks.com/?p=375066</id>
@@ -1181,17 +1236,6 @@ You’d be doing yourself a favor to read Manuel’s breakdown of …
 Manuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pure CSS Bezier Curve Motion Paths]]></title>
-        <id>https://css-tricks.com/?p=373600</id>
-        <link href="https://css-tricks.com/pure-css-bezier-curve-motion-paths/"/>
-        <updated>2022-10-17T15:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Besides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas! Now, how about using Bezier curves as motion paths with CSS?
-Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lu Wang</name>
         </author>
     </entry>
 </feed>
