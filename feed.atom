@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-17T01:12:36.498Z</updated>
+    <updated>2022-11-18T01:17:06.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Being an Early Adopter SUCKS]]></title>
+        <id>https://yewtu.be/watch?v=k-6yc1dA--0</id>
+        <link href="https://yewtu.be/watch?v=k-6yc1dA--0"/>
+        <updated>2022-11-17T19:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Amazon: https://amzn.to/3X3qaUb
+Website: https://bit.ly/3txiFqY
+
+https://www.msi.com/Graphics-Card/GeForce-RTX-4080-16GB-SUPRIM-X
+
+Dell-Alienware JUST launched the AW3423DW earlier this year, so how could the $200-cheaper DWF refresh possibly be any different? We did some digging to find out, and you might be surprised by how much of a difference a few months can make when working with a new technology.
+
+Discuss on the forum: https://linustechtips.com/topic/1468211-being-an-early-adopter-sucks/
+
+Buy an Alienware AW3423DW: https://lmg.gg/A3q28
+
+Buy an Alienware AW3423DWF: https://lmg.gg/4tQLc
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, …]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Settings UI for a Custom WordPress Block]]></title>
+        <id>https://css-tricks.com/?p=375098</id>
+        <link href="https://css-tricks.com/creating-a-settings-ui-for-a-custom-wordpress-block/"/>
+        <updated>2022-11-17T13:48:26.000Z</updated>
+        <summary type="html"><![CDATA[So far, we’ve covered how to work with data from an external API in a custom WordPress block. We walked through the process of fetching that data for use on the front end of a WordPress site, and how to …
+Creating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Manoj Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Image Optimization On Jamstack Sites]]></title>
+        <id>https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/</id>
+        <link href="https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/"/>
+        <updated>2022-11-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DigitalOcean Welcomes Cloudways to the Family]]></title>
         <id>https://css-tricks.com/?p=375385</id>
@@ -1200,42 +1248,6 @@ FOLLOW US
 ------------------------------------------…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Folder “Slit” Effect With CSS]]></title>
-        <id>https://css-tricks.com/?p=374376</id>
-        <link href="https://css-tricks.com/how-to-make-a-folder-slit-effect-with-css/"/>
-        <updated>2022-10-19T12:56:37.000Z</updated>
-        <summary type="html"><![CDATA[When you put something — say a regular sheet of paper — in a manilla folder, a part of that thing might peek out of the folder a little bit. The same sort of thing with a wallet and credit …
-How to Make a Folder “Slit” Effect With CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Privacy: A New Smashing Book Is Here]]></title>
-        <id>https://smashingmagazine.com/2022/10/understanding-privacy-book-release/</id>
-        <link href="https://smashingmagazine.com/2022/10/understanding-privacy-book-release/"/>
-        <updated>2022-10-19T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet Understanding Privacy, our brand new Smashing Book to make sense of privacy, and learn how to create inclusive, safe and privacy-aware digital experiences. eBook now available, print shipping in November.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuel Matuzovic: max() Trickery]]></title>
-        <id>https://css-tricks.com/?p=374466</id>
-        <link href="https://css-tricks.com/manuel-matuzovic-max-trickery/"/>
-        <updated>2022-10-18T13:54:38.000Z</updated>
-        <summary type="html"><![CDATA[By way of a post by Manuel Matuzović which is by way of a demo by Temani Afif.
-.wrapper {
-  margin-inline: max(0px, ((100% - 64rem) / 2)); 
-}
-You’d be doing yourself a favor to read Manuel’s breakdown of …
-Manuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
