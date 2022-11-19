@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-18T01:17:06.990Z</updated>
+    <updated>2022-11-19T01:14:15.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We've Made Some Big Mistakes - WAN Show November 18, 2022]]></title>
+        <id>https://yewtu.be/watch?v=vKZXiQOO52I</id>
+        <link href="https://yewtu.be/watch?v=vKZXiQOO52I"/>
+        <updated>2022-11-18T22:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Get Zerto Disaster Recovery and Replication by OVHcloud free for 30 days at https://bit.ly/3OfTu5W
+Vessi is giving away a pair of socks to the first 100 shoes sold using code SocksWanshow at https://Vessi.com/wanshow
+Check out 45Drives Storage Solutions: https://lmg.gg/45DrivesWAN
+
+Podcast Download: TBD
+
+Timestamps: TBD]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never forget THIS when building a PC...]]></title>
+        <id>https://yewtu.be/watch?v=i8MVxsDL_FA</id>
+        <link href="https://yewtu.be/watch?v=i8MVxsDL_FA"/>
+        <updated>2022-11-18T18:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Every PC builder talks about thermal paste, but is it really necessary? Well, it can help your CPU perform significantly better, and this is why...
+
+#pcbuilding #pcgaming #thermalpaste #cpucooler #techtips 
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Static Noise From a Weird CSS Gradient Bug]]></title>
+        <id>https://css-tricks.com/?p=374993</id>
+        <link href="https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/"/>
+        <updated>2022-11-18T13:55:24.000Z</updated>
+        <summary type="html"><![CDATA[What I will be doing here is kind of an experiment to explore tricks that leverage a bug with the way CSS gradients handle sub-pixel rendering to create a static noise effect — like you might see on a TV with no signal.
+Making Static Noise From a Weird CSS Gradient Bug originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 54 With Stéphanie Walter: What Is User Journey Mapping?]]></title>
+        <id>https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/</id>
+        <link href="https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/"/>
+        <updated>2022-11-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode we’re talking about User Journey Mapping. What is it, and how does it help us build better digital products? Vitaly talks to expert Stéphanie Walter to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Being an Early Adopter SUCKS]]></title>
         <id>https://yewtu.be/watch?v=k-6yc1dA--0</id>
@@ -1214,40 +1276,6 @@ Buy a Ryzen 7900X: https://geni.us/z…]]></summary>
         <summary type="html"><![CDATA[In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive Animations for Every Screen Size and Device]]></title>
-        <id>https://css-tricks.com/?p=374345</id>
-        <link href="https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/"/>
-        <updated>2022-10-20T12:42:30.000Z</updated>
-        <summary type="html"><![CDATA[Before I career jumped into development, I did a bunch of motion graphics work in After Effects. But even with that background, I still found animating on the web pretty baffling.
-Video graphics are designed within a specific ratio and …
-Responsive Animations for Every Screen Size and Device originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Cassie Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube SHOULD charge for 4K. Hear me out.]]></title>
-        <id>https://yewtu.be/watch?v=MDsJJRNXjYI</id>
-        <link href="https://yewtu.be/watch?v=MDsJJRNXjYI"/>
-        <updated>2022-10-19T18:17:22.000Z</updated>
-        <summary type="html"><![CDATA[Play Enlisted for FREE on PC, Xbox Series X|S and PS®5: https://enplay.link/ltt. Follow the link to download the game and get your exclusive bonus now. See you in battle!
-
-YouTube has been exploring the idea of putting 4K video playback behind their Premium paywall. At the risk of kicking the hornet's nest, I argue that, not only is this a defensible business move for YouTube, it could actually be good for creators and audiences as well...
-
-Discuss on the forum: https://linustechtips.com/topic/1462074-youtube-should-charge-for-4k-hear-me-out/
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-FOLLOW US 
-------------------------------------------…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
         </author>
     </entry>
 </feed>

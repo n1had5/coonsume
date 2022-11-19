@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374993",
+          "author": "Temani Afif",
+          "description": "What I will be doing here is kind of an experiment to explore tricks that leverage a bug with the way CSS gradients handle sub-pixel rendering to create a static noise effect — like you might see on a TV with no signal.\nMaking Static Noise From a Weird CSS Gradient Bug originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/",
+          "publishedOn": "2022-11-18T13:55:24.000Z",
+          "wordCount": 1869,
+          "title": "Making Static Noise From a Weird CSS Gradient Bug",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374993"
+        },
+        {
           "id": "https://css-tricks.com/?p=375098",
           "author": "Manoj Kumar",
           "description": "So far, we’ve covered how to work with data from an external API in a custom WordPress block. We walked through the process of fetching that data for use on the front end of a WordPress site, and how to …\nCreating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -200,16 +210,6 @@
           "wordCount": 1111,
           "title": "Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374470"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374345",
-          "author": "Cassie Evans",
-          "description": "Before I career jumped into development, I did a bunch of motion graphics work in After Effects. But even with that background, I still found animating on the web pretty baffling.\nVideo graphics are designed within a specific ratio and …\nResponsive Animations for Every Screen Size and Device originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/",
-          "publishedOn": "2022-10-20T12:42:30.000Z",
-          "wordCount": 3646,
-          "title": "Responsive Animations for Every Screen Size and Device",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374345"
         }
       ]
     },
@@ -218,6 +218,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode we’re talking about User Journey Mapping. What is it, and how does it help us build better digital products? Vitaly talks to expert Stéphanie Walter to find out.",
+          "link": "https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/",
+          "publishedOn": "2022-11-18T07:00:00.000Z",
+          "wordCount": 10609,
+          "title": "Smashing Podcast Episode 54 With Stéphanie Walter: What Is User Journey Mapping?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
           "author": "hello@smashingmagazine.com (Alba Silvente)",
@@ -480,6 +495,26 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=vKZXiQOO52I",
+          "author": null,
+          "description": "Get Zerto Disaster Recovery and Replication by OVHcloud free for 30 days at https://bit.ly/3OfTu5W\nVessi is giving away a pair of socks to the first 100 shoes sold using code SocksWanshow at https://Vessi.com/wanshow\nCheck out 45Drives Storage Solutions: https://lmg.gg/45DrivesWAN\n\nPodcast Download: TBD\n\nTimestamps: TBD",
+          "link": "https://yewtu.be/watch?v=vKZXiQOO52I",
+          "publishedOn": "2022-11-18T22:53:30.000Z",
+          "wordCount": 720,
+          "title": "We've Made Some Big Mistakes - WAN Show November 18, 2022",
+          "imageUrl": "/vi/vKZXiQOO52I/maxres.jpg"
+        },
+        {
+          "id": "https://yewtu.be/watch?v=i8MVxsDL_FA",
+          "author": null,
+          "description": "Every PC builder talks about thermal paste, but is it really necessary? Well, it can help your CPU perform significantly better, and this is why...\n\n#pcbuilding #pcgaming #thermalpaste #cpucooler #techtips \n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech",
+          "link": "https://yewtu.be/watch?v=i8MVxsDL_FA",
+          "publishedOn": "2022-11-18T18:00:19.000Z",
+          "wordCount": 725,
+          "title": "Never forget THIS when building a PC...",
+          "imageUrl": "/vi/i8MVxsDL_FA/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=k-6yc1dA--0",
           "author": null,
@@ -789,16 +824,6 @@
           "wordCount": 1159,
           "title": "We were afraid to publish this video – Intel 13th Gen Review",
           "imageUrl": "/vi/3zcCX7yyiz4/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=MDsJJRNXjYI",
-          "author": null,
-          "description": "Play Enlisted for FREE on PC, Xbox Series X|S and PS®5: https://enplay.link/ltt. Follow the link to download the game and get your exclusive bonus now. See you in battle!\n\nYouTube has been exploring the idea of putting 4K video playback behind their Premium paywall. At the risk of kicking the hornet's nest, I argue that, not only is this a defensible business move for YouTube, it could actually be good for creators and audiences as well...\n\nDiscuss on the forum: https://linustechtips.com/topic/1462074-youtube-should-charge-for-4k-hear-me-out/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n------------------------------------------…",
-          "link": "https://yewtu.be/watch?v=MDsJJRNXjYI",
-          "publishedOn": "2022-10-19T18:17:22.000Z",
-          "wordCount": 805,
-          "title": "YouTube SHOULD charge for 4K. Hear me out.",
-          "imageUrl": "/vi/MDsJJRNXjYI/maxres.jpg"
         }
       ]
     }
