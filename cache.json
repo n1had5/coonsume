@@ -190,26 +190,6 @@
           "wordCount": 3038,
           "title": "Is There Too Much CSS Now?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374194",
-          "author": "Temani Afif",
-          "description": "Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …\nFancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/",
-          "publishedOn": "2022-10-21T12:46:27.000Z",
-          "wordCount": 2874,
-          "title": "Fancy Image Decorations: Masks and Advanced Hover Effects",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374194"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374470",
-          "author": "Geoff Graham",
-          "description": "I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …\nInstant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/instant-articles-proprietary-syndication-user-fidelity-preferences/",
-          "publishedOn": "2022-10-20T19:59:46.000Z",
-          "wordCount": 1111,
-          "title": "Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374470"
         }
       ]
     },
@@ -457,36 +437,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/futuristic-css/",
-          "author": "hello@smashingmagazine.com (Sacha Greif)",
-          "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
-          "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
-          "publishedOn": "2022-10-21T12:00:00.000Z",
-          "wordCount": 4506,
-          "title": "Futuristic CSS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
-          "author": "hello@smashingmagazine.com (Patrick Brosset)",
-          "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
-          "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
-          "publishedOn": "2022-10-20T14:00:00.000Z",
-          "wordCount": 4954,
-          "title": "What’s New In DevTools: Halloween Edition 🎃",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg"
         }
       ]
     },
@@ -495,6 +445,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=WXp4g-KzdAI",
+          "author": null,
+          "description": "Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html\n\nCheck out The Ridge's new Beveled Ring Collection at https://Ridge.com/Linus\n\nAlthough Dell has a long and storied history history of proprietary BS.. but CAMM is different.\n\nDiscuss on the forum: https://linustechtips.com/topic/1468636-dell%E2%80%99s-proprietary-laptop-ram-is-a-good-thing-hear-me-out/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 - Dell have done it again!\n0:40 - Ridge!\n0:53 - Dell's recent blunders\n1:35 - Why SO-DIMM Sucks\n3:58 - CAMM and why it is good\n5:18 - Similarities to SO-DIMM\n6:23 - Potential problems\n8:24 - The Precision 7670\n10:05 - Zoho One!\n10:50 - Outro",
+          "link": "https://yewtu.be/watch?v=WXp4g-KzdAI",
+          "publishedOn": "2022-11-19T18:06:13.000Z",
+          "wordCount": 987,
+          "title": "Dell’s Proprietary laptop RAM is a GOOD thing - CAMM Explained",
+          "imageUrl": "/vi/WXp4g-KzdAI/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=vKZXiQOO52I",
           "author": null,
@@ -814,16 +774,6 @@
           "wordCount": 1379,
           "title": "YouTube Backstabbed Me - WAN Show October 21, 2022",
           "imageUrl": "/vi/SqgSEgVph1U/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=3zcCX7yyiz4",
-          "author": null,
-          "description": "Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html\n\nCreate your build at https://www.buildredux.com/linus\n\nAMD ushered in the new generation of desktop CPUs with their Ryzen 7000 Series just last month, but Intel is clapping back in a major way with the Core i9-13900K and Core i5-13600K. Can Team Red afford to sit on their AM5/Ryzen laurels? Or will Intel's 13th Gen give them a run for their money… and customers? Find out by watching our review!\n\nDiscuss on the forum: https://linustechtips.com/topic/1462263-we-were-afraid-to-publish-this-video-%E2%80%93-intel-13th-gen-review/\n\nBuy a Ryzen 5800X3D: https://geni.us/A7wA2sX\nBuy a Ryzen 7950X: https://geni.us/bSNf\nBuy a Ryzen 7600X: https://geni.us/bZGspc\nBuy a Ryzen 7900X: https://geni.us/z…",
-          "link": "https://yewtu.be/watch?v=3zcCX7yyiz4",
-          "publishedOn": "2022-10-20T16:26:09.000Z",
-          "wordCount": 1159,
-          "title": "We were afraid to publish this video – Intel 13th Gen Review",
-          "imageUrl": "/vi/3zcCX7yyiz4/maxres.jpg"
         }
       ]
     }

@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T01:14:15.547Z</updated>
+    <updated>2022-11-20T01:17:20.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dell’s Proprietary laptop RAM is a GOOD thing - CAMM Explained]]></title>
+        <id>https://yewtu.be/watch?v=WXp4g-KzdAI</id>
+        <link href="https://yewtu.be/watch?v=WXp4g-KzdAI"/>
+        <updated>2022-11-19T18:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html
+
+Check out The Ridge's new Beveled Ring Collection at https://Ridge.com/Linus
+
+Although Dell has a long and storied history history of proprietary BS.. but CAMM is different.
+
+Discuss on the forum: https://linustechtips.com/topic/1468636-dell%E2%80%99s-proprietary-laptop-ram-is-a-good-thing-hear-me-out/
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech
+
+MUSIC CREDIT
+---------------------------------------------------
+Intro: Laszlo - Supernova
+Video Link: https://www.youtube.com/watch?v=PKfxmFU3lWY
+iTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712
+Artist Link: https://soundcloud.com/laszlomusic
+
+Outro: Approaching Nirvana - Sugar High
+Video Link: https://www.youtube.com/watch?v=ngsGBSCDwcI
+Listen on Spotify: http://spoti.fi/UxWkUw
+Artist Link: http://www.youtube.com/approachingnirvana
+
+Intro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/
+Monitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp
+Mechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4
+Mouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE
+
+CHAPTERS
+---------------------------------------------------
+0:00 - Dell have done it again!
+0:40 - Ridge!
+0:53 - Dell's recent blunders
+1:35 - Why SO-DIMM Sucks
+3:58 - CAMM and why it is good
+5:18 - Similarities to SO-DIMM
+6:23 - Potential problems
+8:24 - The Precision 7670
+10:05 - Zoho One!
+10:50 - Outro]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We've Made Some Big Mistakes - WAN Show November 18, 2022]]></title>
         <id>https://yewtu.be/watch?v=vKZXiQOO52I</id>
@@ -1213,69 +1273,6 @@ Timestamps: (Courtesy of NoKi1119)
 32:…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy Image Decorations: Masks and Advanced Hover Effects]]></title>
-        <id>https://css-tricks.com/?p=374194</id>
-        <link href="https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/"/>
-        <updated>2022-10-21T12:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …
-Fancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Futuristic CSS]]></title>
-        <id>https://smashingmagazine.com/2022/10/futuristic-css/</id>
-        <link href="https://smashingmagazine.com/2022/10/futuristic-css/"/>
-        <updated>2022-10-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sacha Greif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences]]></title>
-        <id>https://css-tricks.com/?p=374470</id>
-        <link href="https://css-tricks.com/instant-articles-proprietary-syndication-user-fidelity-preferences/"/>
-        <updated>2022-10-20T19:59:46.000Z</updated>
-        <summary type="html"><![CDATA[I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …
-Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We were afraid to publish this video – Intel 13th Gen Review]]></title>
-        <id>https://yewtu.be/watch?v=3zcCX7yyiz4</id>
-        <link href="https://yewtu.be/watch?v=3zcCX7yyiz4"/>
-        <updated>2022-10-20T16:26:09.000Z</updated>
-        <summary type="html"><![CDATA[Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html
-
-Create your build at https://www.buildredux.com/linus
-
-AMD ushered in the new generation of desktop CPUs with their Ryzen 7000 Series just last month, but Intel is clapping back in a major way with the Core i9-13900K and Core i5-13600K. Can Team Red afford to sit on their AM5/Ryzen laurels? Or will Intel's 13th Gen give them a run for their money… and customers? Find out by watching our review!
-
-Discuss on the forum: https://linustechtips.com/topic/1462263-we-were-afraid-to-publish-this-video-%E2%80%93-intel-13th-gen-review/
-
-Buy a Ryzen 5800X3D: https://geni.us/A7wA2sX
-Buy a Ryzen 7950X: https://geni.us/bSNf
-Buy a Ryzen 7600X: https://geni.us/bZGspc
-Buy a Ryzen 7900X: https://geni.us/z…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New In DevTools: Halloween Edition 🎃]]></title>
-        <id>https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/</id>
-        <link href="https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/"/>
-        <updated>2022-10-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
         </author>
     </entry>
 </feed>
