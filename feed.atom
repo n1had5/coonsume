@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-21T01:14:14.888Z</updated>
+    <updated>2022-11-22T01:14:44.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We Built a PC for the Price of a Steam Deck!]]></title>
+        <id>https://yewtu.be/watch?v=qixXsJBmyd8</id>
+        <link href="https://yewtu.be/watch?v=qixXsJBmyd8"/>
+        <updated>2022-11-21T17:59:14.000Z</updated>
+        <summary type="html"><![CDATA[Thanks Jackery for sponsoring today's video! 
+Save up to $1,080 during their Black Friday Sales from Nov 24th to Nov 28th! Also, stay tuned for Jackery's Crazy Monday sweepstake with prizes worth $250,000 in total in Jackery Livestream on Nov 28th, 2:30PM PST! Every order placed during the Black Friday Sales will get a chance to win A TRAVEL TRAILER!
+Amazon: https://amzn.to/3X3qaUb
+Website: https://bit.ly/3txiFqY
+
+Discuss on the forum: https://linustechtips.com/topic/1469063-is-building-a-pc-dumb-when-the-steam-deck-exists/
+
+Buy a GTX 1070: https://geni.us/Dmi3qN
+Buy an Intel Core i3 12100F: https://geni.us/c2hXr
+Buy a 256GB Steam Deck: https://lmg.gg/62oFY
+Buy an MSI PRO B660M-G mATX Motherboard: https://geni.us/gHNh
+Buy a kit of Silicon Power Gaming DDR4 16GB: https://geni.us/lnu7QS
+Buy …]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taming the Cascade With BEM and Modern CSS Selectors]]></title>
+        <id>https://css-tricks.com/?p=375144</id>
+        <link href="https://css-tricks.com/taming-the-cascade-with-bem-and-modern-css-selectors/"/>
+        <updated>2022-11-21T13:59:15.000Z</updated>
+        <summary type="html"><![CDATA[BEM. Like seemingly all techniques in the world of front-end development, writing CSS in a BEM format can be polarizing. But it is – at least in my Twitter bubble – one of the better-liked CSS methodologies.
+Personally, I think …
+Taming the Cascade With BEM and Modern CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Liam Johnston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Keyboard Accessibility: JavaScript (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/</id>
+        <link href="https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/"/>
+        <updated>2022-11-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We Bought HD Movies on Cassette Tape and They're AMAZING!]]></title>
         <id>https://yewtu.be/watch?v=papQ8xQxizA</id>
@@ -1208,65 +1252,6 @@ CHAPTERS
 10:15 Comfort
 11:30 Conclusion
 13:34 Outro]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want this back, Nintendo? - 3DS Dev Kit]]></title>
-        <id>https://yewtu.be/watch?v=4YpRJtvFmP8</id>
-        <link href="https://yewtu.be/watch?v=4YpRJtvFmP8"/>
-        <updated>2022-10-22T17:31:21.000Z</updated>
-        <summary type="html"><![CDATA[See NordPass Business in action now with a 3-month free trial here: https://nordpass.com/linusbusiness and use code linusbusiness at the checkout! It’s risk free with 30 day money-back guarantee!
-
-UGREEN 100W GaN Charging Station (25% OFF):  https://amzn.to/3D6aUOC
-UGREEN Nexode Chargers: https://amzn.to/3glg2Fp
-
-Ever wanted to play your Nintendo 3DS games on the TV? We’ve got a Nintendo 3DS development unit, but it does more than just develop!
-
-Discuss on the forum: https://linustechtips.com/topic/1462687-want-this-back-nintendo/
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-
-FOLLOW US 
----------------------------------------------------  
-Twitter: https://twitter.com/linustech
-Facebook: http://www.facebook.com/LinusTech
-Instagram: https://www.instagram.com/linustech
-TikTok: https://www.tiktok.com/@linustech
-Twitch: https://www.twitch.tv/linustech
-
-MUSIC CREDIT
----------------------------------------------------
-Intro: Laszlo - Supernova
-Video Link: https://www.youtube.com/watch?v=PKfxmFU3lWY
-iTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712
-Artist Link: https://soundcloud.com/laszlomusic
-
-Outro: Approaching Nirvana - Sugar High
-Video Link: https://www.youtube.com/watch?v=ngsGBSCDwcI
-Listen on Spotify: http://spoti.fi/UxWkUw
-Artist Link: http://www.youtube.com/approachingnirvana
-
-Intro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/
-Monitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp
-Mechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4
-Mouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE
-
-CHAPTERS
----------------------------------------------------
-0:00 Intro
-1:37 What Makes it Special?
-2:47 Handheld Unit
-3:17 Software
-7:42 Let's Play a Game
-8:36 Exterior I/O
-11:39 Getting in the Guts
-18:15 Nitro CTR]]></summary>
         <author>
             <name>Linus Tech Tips</name>
         </author>
