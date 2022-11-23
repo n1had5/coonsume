@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-22T01:14:44.323Z</updated>
+    <updated>2022-11-23T01:06:02.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We Downgraded our Computers – Switching to Intel Arc Pt. 1]]></title>
+        <id>https://yewtu.be/watch?v=5nI0AI8k8cU</id>
+        <link href="https://yewtu.be/watch?v=5nI0AI8k8cU"/>
+        <updated>2022-11-22T19:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Vessi is giving away a pair of socks of your choice to the first 100 shoes sold using code SocksLinusTechTips at http://Vessi.com/LinusTechTips
+
+Get Unlimited Data for $25/month at https://l.boostmobile.com/1hovqg
+
+For the first time on this channel we're performing a downgrade.. so Linus and Luke can try Intel Arc!  
+
+Discuss on the forum: https://linustechtips.com/topic/1469334-we-downgraded-our-computers-%E2%80%93-switching-to-intel-arc-pt-1/
+
+Buy an Intel Arc A770: https://geni.us/AChNbx
+Buy a Logitech G Cloud: https://geni.us/l6AJu
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST …]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Developer Blog]]></title>
+        <id>https://css-tricks.com/?p=375599</id>
+        <link href="https://css-tricks.com/wordpress-developer-blog/"/>
+        <updated>2022-11-22T18:36:12.000Z</updated>
+        <summary type="html"><![CDATA[Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:
+The Make Core blog has a heavy 
+…
+WordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing A Vue App]]></title>
+        <id>https://smashingmagazine.com/2022/11/optimizing-vue-app/</id>
+        <link href="https://smashingmagazine.com/2022/11/optimizing-vue-app/"/>
+        <updated>2022-11-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We Built a PC for the Price of a Steam Deck!]]></title>
         <id>https://yewtu.be/watch?v=qixXsJBmyd8</id>
@@ -1182,76 +1231,6 @@ Discuss on the forum: https://linustechtips.com/topic/1463080-roasting-my-staff%
 FOLLOW US 
 ---------------------------------------------------  
 Twitt…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is There Too Much CSS Now?]]></title>
-        <id>https://css-tricks.com/?p=374364</id>
-        <link href="https://css-tricks.com/is-there-too-much-css-now/"/>
-        <updated>2022-10-24T12:59:16.000Z</updated>
-        <summary type="html"><![CDATA[As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …
-Is There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sacha Greif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Gamed With THIS for a MONTH – Azeron Cyborg]]></title>
-        <id>https://yewtu.be/watch?v=HFjJvWPwuJo</id>
-        <link href="https://yewtu.be/watch?v=HFjJvWPwuJo"/>
-        <updated>2022-10-23T16:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!
-
-Plouffe was voluntold to daily drive the Azeron Cyborg for at least a MONTH. It definitely has a wide range of benefits, but do they outweigh the cons and annoyances? Is this the controller or gamepad replacement you've been looking for?
-
-Discuss on the forum: https://linustechtips.com/topic/1462872-i-gamed-with-this-for-a-month-%E2%80%93-azeron-cyborg/
-
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-
-FOLLOW US 
----------------------------------------------------  
-Twitter: https://twitter.com/linustech
-Facebook: http://www.facebook.com/LinusTech
-Instagram: https://www.instagram.com/linustech
-TikTok: https://www.tiktok.com/@linustech
-Twitch: https://www.twitch.tv/linustech
-
-MUSIC CREDIT
----------------------------------------------------
-Intro: Laszlo - Supernova
-Video Link: https://www.youtube.com/watch?v=PKfxmFU3lWY
-iTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712
-Artist Link: https://soundcloud.com/laszlomusic
-
-Outro: Approaching Nirvana - Sugar High
-Video Link: https://www.youtube.com/watch?v=ngsGBSCDwcI
-Listen on Spotify: http://spoti.fi/UxWkUw
-Artist Link: http://www.youtube.com/approachingnirvana
-
-Intro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/
-Monitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp
-Mechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4
-Mouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE
-
-CHAPTERS
----------------------------------------------------
-0:00 Intro
-1:20 The Peripheral
-3:10 Adjusting It
-4:30 Thumbsticks
-6:45 Software
-9:09 Quick Fixes
-10:15 Comfort
-11:30 Conclusion
-13:34 Outro]]></summary>
         <author>
             <name>Linus Tech Tips</name>
         </author>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375599",
+          "author": "Geoff Graham",
+          "description": "Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:\nThe Make Core blog has a heavy \n…\nWordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wordpress-developer-blog/",
+          "publishedOn": "2022-11-22T18:36:12.000Z",
+          "wordCount": 988,
+          "title": "WordPress Developer Blog",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375599"
+        },
+        {
           "id": "https://css-tricks.com/?p=375144",
           "author": "Liam Johnston",
           "description": "BEM. Like seemingly all techniques in the world of front-end development, writing CSS in a BEM format can be polarizing. But it is – at least in my Twitter bubble – one of the better-liked CSS methodologies.\nPersonally, I think …\nTaming the Cascade With BEM and Modern CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -190,16 +200,6 @@
           "wordCount": 2729,
           "title": "Creating Animated, Clickable Cards With the :has() Relational Pseudo Class",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374690"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374364",
-          "author": "Sacha Greif",
-          "description": "As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …\nIs There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/is-there-too-much-css-now/",
-          "publishedOn": "2022-10-24T12:59:16.000Z",
-          "wordCount": 3038,
-          "title": "Is There Too Much CSS Now?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
         }
       ]
     },
@@ -208,6 +208,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
+          "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
+          "publishedOn": "2022-11-22T16:00:00.000Z",
+          "wordCount": 5535,
+          "title": "Optimizing A Vue App",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
           "author": "hello@smashingmagazine.com (Cristian Díaz)",
@@ -470,6 +485,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=5nI0AI8k8cU",
+          "author": null,
+          "description": "Vessi is giving away a pair of socks of your choice to the first 100 shoes sold using code SocksLinusTechTips at http://Vessi.com/LinusTechTips\n\nGet Unlimited Data for $25/month at https://l.boostmobile.com/1hovqg\n\nFor the first time on this channel we're performing a downgrade.. so Linus and Luke can try Intel Arc!  \n\nDiscuss on the forum: https://linustechtips.com/topic/1469334-we-downgraded-our-computers-%E2%80%93-switching-to-intel-arc-pt-1/\n\nBuy an Intel Arc A770: https://geni.us/AChNbx\nBuy a Logitech G Cloud: https://geni.us/l6AJu\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST …",
+          "link": "https://yewtu.be/watch?v=5nI0AI8k8cU",
+          "publishedOn": "2022-11-22T19:12:48.000Z",
+          "wordCount": 1030,
+          "title": "We Downgraded our Computers – Switching to Intel Arc Pt. 1",
+          "imageUrl": "/vi/5nI0AI8k8cU/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=qixXsJBmyd8",
           "author": null,
@@ -789,16 +814,6 @@
           "wordCount": 1205,
           "title": "Roasting OUR worst setups!",
           "imageUrl": "/vi/VHByReaiJ4o/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=HFjJvWPwuJo",
-          "author": null,
-          "description": "Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!\n\nPlouffe was voluntold to daily drive the Azeron Cyborg for at least a MONTH. It definitely has a wide range of benefits, but do they outweigh the cons and annoyances? Is this the controller or gamepad replacement you've been looking for?\n\nDiscuss on the forum: https://linustechtips.com/topic/1462872-i-gamed-with-this-for-a-month-%E2%80%93-azeron-cyborg/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n1:20 The Peripheral\n3:10 Adjusting It\n4:30 Thumbsticks\n6:45 Software\n9:09 Quick Fixes\n10:15 Comfort\n11:30 Conclusion\n13:34 Outro",
-          "link": "https://yewtu.be/watch?v=HFjJvWPwuJo",
-          "publishedOn": "2022-10-23T16:57:20.000Z",
-          "wordCount": 989,
-          "title": "I Gamed With THIS for a MONTH – Azeron Cyborg",
-          "imageUrl": "/vi/HFjJvWPwuJo/maxres.jpg"
         }
       ]
     }
