@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375343",
+          "author": "Geoff Graham",
+          "description": "Well, color me this! I was griping to myself last night about just how gosh dang hard it is to read text messages in Apple Messages. You know, not the blue bubbles that you get when messaging other iPhone users. …\nApple Messages & Color Contrast originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/apple-messages-color-contrast/",
+          "publishedOn": "2022-11-23T14:25:03.000Z",
+          "wordCount": 1075,
+          "title": "Apple Messages & Color Contrast",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375343"
+        },
+        {
           "id": "https://css-tricks.com/?p=375599",
           "author": "Geoff Graham",
           "description": "Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:\nThe Make Core blog has a heavy \n…\nWordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -462,21 +472,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ed9186f-f287-412d-a930-0cd2ae7ae196/typographic-hierarchies.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
-          "author": "hello@smashingmagazine.com (Lea Verou)",
-          "description": "The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.",
-          "link": "https://smashingmagazine.com/2022/10/state-css-survey-2022/",
-          "publishedOn": "2022-10-24T19:00:00.000Z",
-          "wordCount": 3081,
-          "title": "State Of CSS Survey: Influence The Future Of CSS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg"
         }
       ]
     },
@@ -485,6 +480,26 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=0BHNeSQvhCQ",
+          "author": null,
+          "description": "Thanks Insta360 for sponsoring this video! How does the WAN Show set work? Take a quick tour with Bell and the Insta360 Link. \n\nWatch our full ShortCircuit video on the Insta360 Link or get one here: https://linktr.ee/linustech\nhttps://store.insta360.com/product/link?insrc=INRYAAB\n\n#shorts #wanshow #linustechtips #studiotour #settour\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech",
+          "link": "https://yewtu.be/watch?v=0BHNeSQvhCQ",
+          "publishedOn": "2022-11-23T22:00:00.000Z",
+          "wordCount": 769,
+          "title": "What Goes on Behind the Scenes of the WAN Show?",
+          "imageUrl": "/vi/0BHNeSQvhCQ/maxres.jpg"
+        },
+        {
+          "id": "https://yewtu.be/watch?v=sF9MrFyEF5E",
+          "author": null,
+          "description": "Check out MSI's holiday deals and the #TYMSI giveaway at https://msi.gm/3NzyMO3\n\nTry SimpleMDM FREE for 30 days on unlimited devices at https://lmg.gg/SimpleMDMSept\n\nLinus is going to upgrade to the next generation, but does he stick with AMD or has Intel clawed their way back on top? We built overkill computers for each team and drag raced them in his favorite games to determine the winner.\n\nDiscuss on the forum: https://linustechtips.com/topic/1469551-i-need-a-new-cpu/\n\nBuy a Corsair 5000D Airflow Case: https://geni.us/PXITxIN\n\nBuy an H150i Elite Capellix 360mm AIO Cooler: https://geni.us/cAQEwrx\n\nBuy a Seasonic Prime TX-1300 PSU: https://geni.us/dqrj0hS\n\nBuy a Sabrent Rocket 4+ 8TB NVMe SSD: https://geni.us/AmCm\n\nBuy an RTX 4090 Founders Edition: https://geni.us/yxLdP\n\nBuy a Ryzen 9 795…",
+          "link": "https://yewtu.be/watch?v=sF9MrFyEF5E",
+          "publishedOn": "2022-11-23T18:59:47.000Z",
+          "wordCount": 1172,
+          "title": "I Bought the Two FASTEST CPUs... but I'm only keeping the winner",
+          "imageUrl": "/vi/sF9MrFyEF5E/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=5nI0AI8k8cU",
           "author": null,
@@ -804,16 +819,6 @@
           "wordCount": 1421,
           "title": "I think I can fix the RTX 4090",
           "imageUrl": "/vi/yU4CFhtS95Q/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=VHByReaiJ4o",
-          "author": null,
-          "description": "Thanks to ORIGIN PC for sponsoring this video! Check out their new EVO 15-S system at: https://bit.ly/LTT_EVO15S\n\nThe team at LMG are a diverse bunch with a wide-ranging skillset - and they often use those skills to cast a critical eye on the choices Linus makes with his setups. Today though, we play the uno reverse card: it’s time for Linus and Luke to judge the choices their own staff make, and publicly roast their setups!\n\nDiscuss on the forum: https://linustechtips.com/topic/1463080-roasting-my-staff%E2%80%99s-pc-setups/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitt…",
-          "link": "https://yewtu.be/watch?v=VHByReaiJ4o",
-          "publishedOn": "2022-10-24T17:00:01.000Z",
-          "wordCount": 1205,
-          "title": "Roasting OUR worst setups!",
-          "imageUrl": "/vi/VHByReaiJ4o/maxres.jpg"
         }
       ]
     }

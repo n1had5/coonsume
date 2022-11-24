@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-23T01:06:02.817Z</updated>
+    <updated>2022-11-24T01:12:00.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Goes on Behind the Scenes of the WAN Show?]]></title>
+        <id>https://yewtu.be/watch?v=0BHNeSQvhCQ</id>
+        <link href="https://yewtu.be/watch?v=0BHNeSQvhCQ"/>
+        <updated>2022-11-23T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks Insta360 for sponsoring this video! How does the WAN Show set work? Take a quick tour with Bell and the Insta360 Link. 
+
+Watch our full ShortCircuit video on the Insta360 Link or get one here: https://linktr.ee/linustech
+https://store.insta360.com/product/link?insrc=INRYAAB
+
+#shorts #wanshow #linustechtips #studiotour #settour
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Bought the Two FASTEST CPUs... but I'm only keeping the winner]]></title>
+        <id>https://yewtu.be/watch?v=sF9MrFyEF5E</id>
+        <link href="https://yewtu.be/watch?v=sF9MrFyEF5E"/>
+        <updated>2022-11-23T18:59:47.000Z</updated>
+        <summary type="html"><![CDATA[Check out MSI's holiday deals and the #TYMSI giveaway at https://msi.gm/3NzyMO3
+
+Try SimpleMDM FREE for 30 days on unlimited devices at https://lmg.gg/SimpleMDMSept
+
+Linus is going to upgrade to the next generation, but does he stick with AMD or has Intel clawed their way back on top? We built overkill computers for each team and drag raced them in his favorite games to determine the winner.
+
+Discuss on the forum: https://linustechtips.com/topic/1469551-i-need-a-new-cpu/
+
+Buy a Corsair 5000D Airflow Case: https://geni.us/PXITxIN
+
+Buy an H150i Elite Capellix 360mm AIO Cooler: https://geni.us/cAQEwrx
+
+Buy a Seasonic Prime TX-1300 PSU: https://geni.us/dqrj0hS
+
+Buy a Sabrent Rocket 4+ 8TB NVMe SSD: https://geni.us/AmCm
+
+Buy an RTX 4090 Founders Edition: https://geni.us/yxLdP
+
+Buy a Ryzen 9 795…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Messages & Color Contrast]]></title>
+        <id>https://css-tricks.com/?p=375343</id>
+        <link href="https://css-tricks.com/apple-messages-color-contrast/"/>
+        <updated>2022-11-23T14:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Well, color me this! I was griping to myself last night about just how gosh dang hard it is to read text messages in Apple Messages. You know, not the blue bubbles that you get when messaging other iPhone users. …
+Apple Messages & Color Contrast originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We Downgraded our Computers – Switching to Intel Arc Pt. 1]]></title>
         <id>https://yewtu.be/watch?v=5nI0AI8k8cU</id>
@@ -1199,40 +1266,6 @@ Buy a Seasonic FOCUS GX-5…]]></summary>
 Creating Animated, Clickable Cards With the :has() Relational Pseudo Class originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Brecht De Ruyte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Of CSS Survey: Influence The Future Of CSS]]></title>
-        <id>https://smashingmagazine.com/2022/10/state-css-survey-2022/</id>
-        <link href="https://smashingmagazine.com/2022/10/state-css-survey-2022/"/>
-        <updated>2022-10-24T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The annual survey for anyone who writes CSS, [State of CSS](https://stateofcss.com/en-us/?source=smashing_magazine_css_survey), is nearing the end of its response period for 2022. The survey is available in many different languages and all questions are optional.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lea Verou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roasting OUR worst setups!]]></title>
-        <id>https://yewtu.be/watch?v=VHByReaiJ4o</id>
-        <link href="https://yewtu.be/watch?v=VHByReaiJ4o"/>
-        <updated>2022-10-24T17:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to ORIGIN PC for sponsoring this video! Check out their new EVO 15-S system at: https://bit.ly/LTT_EVO15S
-
-The team at LMG are a diverse bunch with a wide-ranging skillset - and they often use those skills to cast a critical eye on the choices Linus makes with his setups. Today though, we play the uno reverse card: it’s time for Linus and Luke to judge the choices their own staff make, and publicly roast their setups!
-
-Discuss on the forum: https://linustechtips.com/topic/1463080-roasting-my-staff%E2%80%99s-pc-setups/
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-
-FOLLOW US 
----------------------------------------------------  
-Twitt…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
         </author>
     </entry>
 </feed>
