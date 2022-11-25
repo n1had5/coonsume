@@ -200,16 +200,6 @@
           "wordCount": 712,
           "title": "Holographic Trading Card Effect",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374609"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374690",
-          "author": "Brecht De Ruyte",
-          "description": "The CSS :has() pseudo class is rolling out in many browsers with Chrome and Safari already fully supporting it. It’s often referred to it as “the parent selector” — as in, we can select style a parent element from a …\nCreating Animated, Clickable Cards With the :has() Relational Pseudo Class originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-animated-clickable-cards-with-the-has-relational-pseudo-class/",
-          "publishedOn": "2022-10-25T14:15:17.000Z",
-          "wordCount": 2729,
-          "title": "Creating Animated, Clickable Cards With the :has() Relational Pseudo Class",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374690"
         }
       ]
     },
@@ -218,6 +208,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
+          "author": "hello@smashingmagazine.com (Pearl Akpan)",
+          "description": "In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.",
+          "link": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
+          "publishedOn": "2022-11-24T16:00:00.000Z",
+          "wordCount": 7296,
+          "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
           "author": "hello@smashingmagazine.com (Michelle Barker)",
@@ -480,6 +485,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=VDsfO2b6_Hc",
+          "author": null,
+          "description": "Shop Micro Center’s Black Friday Deals: https://micro.center/hku\nCheck out Micro Center’s PC Builder: https://micro.center/ctx\nSubmit your Build to Micro Center’s Build Showcase: https://micro.center/0fx\nVisit Micro Center’s Community Forum: https://micro.center/m2q\n\nJackery has amazing discounts up to $1080 OFF during Black Friday Sales from Nov 24th to Nov 28th!\nAmazon: https://amzn.to/3X3qaUb\nWebsite: https://bit.ly/3txiFqY\n\nMy rack-mounted gaming computers are putting out major HEAT into my mechanical room and I only have one way to cool this mess: water cooling the whole room using a PT Cruiser radiator in my backyard. It's not as stupid as it sounds!\n\nDiscuss on the forum: https://linustechtips.com/topic/1469785-water-cooling-my-house/\n\nPurchases made through some store links may pro…",
+          "link": "https://yewtu.be/watch?v=VDsfO2b6_Hc",
+          "publishedOn": "2022-11-24T18:04:00.000Z",
+          "wordCount": 1046,
+          "title": "Water Cooling My House",
+          "imageUrl": "/vi/VDsfO2b6_Hc/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=0BHNeSQvhCQ",
           "author": null,
@@ -809,16 +824,6 @@
           "wordCount": 1001,
           "title": "They Sent a $45,000 Bill... Then Ghosted Us.",
           "imageUrl": "/vi/0rDex2Itb8o/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=yU4CFhtS95Q",
-          "author": null,
-          "description": "Use link https://wealthfront.com/LTT to open a Wealthfront Cash Account and start saving today. Thanks Wealthfront!\n\nSmartDeploy: Claim your FREE IT software (worth $580!) at https://lmg.gg/SDOct\n\nNvidia's RTX 4090 is the new king of GPUs. It laughs at last generation ray tracing performance, it shrugs off the most demanding of games, it... recommends a power supply with 850 to 1000 watts?! There's got to be a better way - and it starts with undervolting.\n\nDiscuss on the forum: https://linustechtips.com/topic/1463304-i-think-i-can-fix-the-rtx-4090/\n\nBuy an ASUS ROG Thor 1000W PSU: https://geni.us/hYBuKg\nBuy an ASUS ROG Thor 850W PSU: https://geni.us/ISMMx\nBuy a Seasonic Prime TX-750 PSU: https://geni.us/QHMjmT2\nBuy a Seasonic Prime 650W PSU: https://geni.us/QJ4wC3\nBuy a Seasonic FOCUS GX-5…",
-          "link": "https://yewtu.be/watch?v=yU4CFhtS95Q",
-          "publishedOn": "2022-10-25T17:01:53.000Z",
-          "wordCount": 1421,
-          "title": "I think I can fix the RTX 4090",
-          "imageUrl": "/vi/yU4CFhtS95Q/maxres.jpg"
         }
       ]
     }
