@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-25T01:06:38.321Z</updated>
+    <updated>2022-11-26T01:02:18.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[here in my garage]]></title>
+        <id>https://yewtu.be/watch?v=9_6MA0IACi0</id>
+        <link href="https://yewtu.be/watch?v=9_6MA0IACi0"/>
+        <updated>2022-11-26T00:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Black Friday LTT Store Deal: Buy a WAN Hoodie and WAN Sweatpants combo for only $69.99 (that’s 55% off while quantities last) - https://www.lttstore.com/collections/wan
+-----------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech
+ 
+MUSIC CREDIT
+---------------------------------------------------
+Intro: Laszlo - Supernova
+Video Link: https://www.youtube.com/watch?v=PKfxmFU3lWY
+iTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712
+Artist Link: https://soundcloud.com/laszlomusic
+
+Outro: Approaching Nirvana - Sugar High
+Video Link: https://www.youtube.com/watch?v=ngsGBSCDwcI
+Listen on Spotify: http://spoti.fi/UxWkUw
+Artist Link: http://www.youtube.com/approachingnirvana
+
+Intro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/
+Monitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp
+Mechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4
+Mouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE
+
+CHAPTERS
+---------------------------------------------------
+0:00 Intro]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Water Cooling My House]]></title>
         <id>https://yewtu.be/watch?v=VDsfO2b6_Hc</id>
@@ -1197,75 +1234,6 @@ Try FreshBooks free, for 30 days, no credit card required at https://www.freshbo
 Today Linus is rolling dice to decide what does into a computer.. but there is a twist. Whatever computer he rolls must be sold for $1. Best case for Linus the computer will be $373, worst case it will be $16,795.]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Expensive SSDs Worth It? #SHORTS #pcgaming #ssd]]></title>
-        <id>https://yewtu.be/watch?v=GEKcLIQsjUc</id>
-        <link href="https://yewtu.be/watch?v=GEKcLIQsjUc"/>
-        <updated>2022-10-27T02:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Surely the more expensive SSD performs better, right? You'd be surprised- we tested CHEAP vs. EXPENSIVE SSDs to put this to rest...
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-FOLLOW US 
----------------------------------------------------  
-Twitter: https://twitter.com/linustech
-Facebook: http://www.facebook.com/LinusTech
-Instagram: https://www.instagram.com/linustech
-TikTok: https://www.tiktok.com/@linustech
-Twitch: https://www.twitch.tv/linustech]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holographic Trading Card Effect]]></title>
-        <id>https://css-tricks.com/?p=374609</id>
-        <link href="https://css-tricks.com/holographic-trading-card-effect/"/>
-        <updated>2022-10-26T17:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Simon Goellner (@simeydotme)’s collection of Holographic Trading Cards have captured our attention.
-Under the hood there is a suite of filter(), background-blend-mode(), mix-blend-mode(), and clip-path() combinations that have been painstakingly tweaked to reach the desired effect. I …
-Holographic Trading Card Effect originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Bradley Kouchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They Sent a $45,000 Bill... Then Ghosted Us.]]></title>
-        <id>https://yewtu.be/watch?v=0rDex2Itb8o</id>
-        <link href="https://yewtu.be/watch?v=0rDex2Itb8o"/>
-        <updated>2022-10-26T16:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Check out the MSI RTX 4090 SUPRIM: https://www.msi.com/Graphics-Card/GeForce-RTX-4090-SUPRIM-X-24G
-
-TEAMGROUP's Black Friday/Cyber Monday Sale: https://bit.ly/3FffwDC
-TEAMGROUP Delta RGB DDR5 6400 - White at Micro Center: https://bit.ly/3CGMObR
-
-The lab is spending mucho money on an Anechoic EMC Chamber. What does that mean? It means a big box, it means carbon-impregnated, it means WIFI, it means FOAM. And a whole mess of an order.
-
-Discuss on the forum: https://linustechtips.com/topic/1463470-we-paid-45000-they-ghosted-us/
-
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https:/…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typographic Hierarchies]]></title>
-        <id>https://smashingmagazine.com/2022/10/typographic-hierarchies/</id>
-        <link href="https://smashingmagazine.com/2022/10/typographic-hierarchies/"/>
-        <updated>2022-10-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Alma Hoffmann discusses six basic variables to establish a typographic hierarchy, explains how to look at each differently, and in turn, designs pieces by intentionally modifying each variable to create a typographic hierarchy effectively.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alma Hoffmann)</name>
         </author>
     </entry>
 </feed>
