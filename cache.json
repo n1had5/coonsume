@@ -180,16 +180,6 @@
           "wordCount": 2639,
           "title": "The New CSS Media Query Range Syntax",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374670"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374302",
-          "author": "Temani Afif",
-          "description": "We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …\nFancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/",
-          "publishedOn": "2022-10-28T12:45:47.000Z",
-          "wordCount": 1602,
-          "title": "Fancy Image Decorations: Outlines and Complex Animations",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374302"
         }
       ]
     },
@@ -460,6 +450,26 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=kZOe7aaiqqE",
+          "author": null,
+          "description": "Thanks UGREEN for sponsoring today's video! Check out their Black Friday and Cyber Monday deals below:\nUGREEN Nexode 45w Charger: http://bit.ly/3tUO86G (25% OFF Coupon 11/24-28)\nUGREEN Nexode 100w Charger: http://bit.ly/3gA9kMn (31% OFF Coupon 11/21-27)\nUGREEN Nexode 200w Charger: http://bit.ly/3ED4XrI ($40 OFF Coupon 11/24-28)\nUGREEN DigiNest 65W Charging Station: http://bit.ly/3Ey5fjW (25% OFF Coupon 11/24-28)\n\nUGREEN Black Friday (Up to 40% off): http://bit.ly/3EXRhZS (11/24-28)\n\nDiscuss on the forum: https://linustechtips.com/topic/1470228-how-to-put-usb-c-power-on-anything-almost/\n\nBuy a QIANRENON D-Type Panel Mount: https://geni.us/I5IVV\nBuy a USB Type-C Trigger Module: https://geni.us/xJHIwH\n\nPurchases made through some store links may provide some compensation to Linus Media Group.…",
+          "link": "https://yewtu.be/watch?v=kZOe7aaiqqE",
+          "publishedOn": "2022-11-26T18:00:21.000Z",
+          "wordCount": 1066,
+          "title": "How to Put USB-C Power on ANYTHING (almost)",
+          "imageUrl": "/vi/kZOe7aaiqqE/maxres.jpg"
+        },
+        {
+          "id": "https://yewtu.be/watch?v=zYpyS2HaZHM",
+          "author": null,
+          "description": "Start learning at https://melscience.com/sBLd and use code WAN to save 50% on your first month\nCheck out Newegg at https://newegg.io/ltt_blackfriday\nGet one of 100 free pairs of socks with code SocksWanshow at http://www.Vessi.com/wanshow \n\nPodcast Download: TBD\n\nTimestamps: TBD",
+          "link": "https://yewtu.be/watch?v=zYpyS2HaZHM",
+          "publishedOn": "2022-11-26T03:41:55.000Z",
+          "wordCount": 661,
+          "title": "Where Will This End? - WAN Show November 25, 2022",
+          "imageUrl": "/vi/zYpyS2HaZHM/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=9_6MA0IACi0",
           "author": null,
@@ -779,16 +789,6 @@
           "wordCount": 1808,
           "title": "Gamer's GPUs Are Melting - WAN Show October 28, 2022",
           "imageUrl": "/vi/KEnd8OwRwbI/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=CBfGIR0NqCE",
-          "author": null,
-          "description": "Create your build at https://www.buildredux.com/linus\n\nTry FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus\n\nToday Linus is rolling dice to decide what does into a computer.. but there is a twist. Whatever computer he rolls must be sold for $1. Best case for Linus the computer will be $373, worst case it will be $16,795.",
-          "link": "https://yewtu.be/watch?v=CBfGIR0NqCE",
-          "publishedOn": "2022-10-28T01:45:15.000Z",
-          "wordCount": 754,
-          "title": "I Pray This Computer Sucks.. Cuz I’m gonna sell it for $1",
-          "imageUrl": "/vi/CBfGIR0NqCE/maxres.jpg"
         }
       ]
     }

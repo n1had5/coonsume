@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-26T01:02:18.110Z</updated>
+    <updated>2022-11-27T01:11:25.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Put USB-C Power on ANYTHING (almost)]]></title>
+        <id>https://yewtu.be/watch?v=kZOe7aaiqqE</id>
+        <link href="https://yewtu.be/watch?v=kZOe7aaiqqE"/>
+        <updated>2022-11-26T18:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Thanks UGREEN for sponsoring today's video! Check out their Black Friday and Cyber Monday deals below:
+UGREEN Nexode 45w Charger: http://bit.ly/3tUO86G (25% OFF Coupon 11/24-28)
+UGREEN Nexode 100w Charger: http://bit.ly/3gA9kMn (31% OFF Coupon 11/21-27)
+UGREEN Nexode 200w Charger: http://bit.ly/3ED4XrI ($40 OFF Coupon 11/24-28)
+UGREEN DigiNest 65W Charging Station: http://bit.ly/3Ey5fjW (25% OFF Coupon 11/24-28)
+
+UGREEN Black Friday (Up to 40% off): http://bit.ly/3EXRhZS (11/24-28)
+
+Discuss on the forum: https://linustechtips.com/topic/1470228-how-to-put-usb-c-power-on-anything-almost/
+
+Buy a QIANRENON D-Type Panel Mount: https://geni.us/I5IVV
+Buy a USB Type-C Trigger Module: https://geni.us/xJHIwH
+
+Purchases made through some store links may provide some compensation to Linus Media Group.…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Will This End? - WAN Show November 25, 2022]]></title>
+        <id>https://yewtu.be/watch?v=zYpyS2HaZHM</id>
+        <link href="https://yewtu.be/watch?v=zYpyS2HaZHM"/>
+        <updated>2022-11-26T03:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Start learning at https://melscience.com/sBLd and use code WAN to save 50% on your first month
+Check out Newegg at https://newegg.io/ltt_blackfriday
+Get one of 100 free pairs of socks with code SocksWanshow at http://www.Vessi.com/wanshow 
+
+Podcast Download: TBD
+
+Timestamps: TBD]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[here in my garage]]></title>
         <id>https://yewtu.be/watch?v=9_6MA0IACi0</id>
@@ -1209,31 +1248,6 @@ Timestamps:
         <summary type="html"><![CDATA[If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Yaphi Berhanu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy Image Decorations: Outlines and Complex Animations]]></title>
-        <id>https://css-tricks.com/?p=374302</id>
-        <link href="https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/"/>
-        <updated>2022-10-28T12:45:47.000Z</updated>
-        <summary type="html"><![CDATA[We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …
-Fancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Pray This Computer Sucks.. Cuz I’m gonna sell it for $1]]></title>
-        <id>https://yewtu.be/watch?v=CBfGIR0NqCE</id>
-        <link href="https://yewtu.be/watch?v=CBfGIR0NqCE"/>
-        <updated>2022-10-28T01:45:15.000Z</updated>
-        <summary type="html"><![CDATA[Create your build at https://www.buildredux.com/linus
-
-Try FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus
-
-Today Linus is rolling dice to decide what does into a computer.. but there is a twist. Whatever computer he rolls must be sold for $1. Best case for Linus the computer will be $373, worst case it will be $16,795.]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
         </author>
     </entry>
 </feed>
