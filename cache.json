@@ -412,36 +412,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
-          "author": "hello@smashingmagazine.com (Yosra Emad)",
-          "description": "In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.",
-          "link": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
-          "publishedOn": "2022-10-29T12:00:00.000Z",
-          "wordCount": 4628,
-          "title": "How To Create Advanced Animations With CSS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
-          "author": "hello@smashingmagazine.com (Yaphi Berhanu)",
-          "description": "If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.",
-          "link": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
-          "publishedOn": "2022-10-28T14:00:00.000Z",
-          "wordCount": 4896,
-          "title": "Motion Controls In The Browser",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1666964645/motion-controls-browser_eenha4.jpg"
         }
       ]
     },
@@ -450,6 +420,26 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=2BhKx0iQ4K8",
+          "author": null,
+          "description": "Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!\n\nPTM7950 looks like any other thermal paste that you might find pre-applied to a heatsink or squeeze out of a tube… only it’s not, because once this material gets above 45 degrees, it starts to MELT! But what does that actually mean the components you would use it on?\n\nDiscuss on the forum: https://linustechtips.com/topic/1470425-reddit-told-me-to-buy-this-%E2%80%93-ptm7950-thermal-pad/\n\nBuy Noctua NT-H2 Thermal Compound: https://geni.us/ILGpc\nBuy Thermal Grizzly Conductonaut Liquid Metal: https://geni.us/t4QPe0\nBuy IC Graphite Thermal Pad: https://geni.us/ofvCl\nBuy Honeywell PTM7950 from modDIY: https://lmg.gg/iBCQ1\nPurchases made through some store lin…",
+          "link": "https://yewtu.be/watch?v=2BhKx0iQ4K8",
+          "publishedOn": "2022-11-27T18:00:20.000Z",
+          "wordCount": 1101,
+          "title": "Reddit told me to buy this – PTM7950 Thermal Pad",
+          "imageUrl": "/vi/2BhKx0iQ4K8/maxres.jpg"
+        },
+        {
+          "id": "https://yewtu.be/watch?v=C0i4VhKB5fE",
+          "author": null,
+          "description": "Are your PC fans installed properly? From placement, airflow, air pressure, and fan speed, everything matters!\n\n#shorts #pcbuilding #pcgaming #techtips #airflow \n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech",
+          "link": "https://yewtu.be/watch?v=C0i4VhKB5fE",
+          "publishedOn": "2022-11-27T04:00:06.000Z",
+          "wordCount": 718,
+          "title": "You need to install your PC fans like this!",
+          "imageUrl": "/vi/C0i4VhKB5fE/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=kZOe7aaiqqE",
           "author": null,
@@ -779,16 +769,6 @@
           "wordCount": 1039,
           "title": "DON'T Game at 8K",
           "imageUrl": "/vi/1y5jEK-72JQ/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=KEnd8OwRwbI",
-          "author": null,
-          "description": "Start using AnyDesk today at http://lmg.gg/AnyDesk\nCheck out the Corsair Voyager A1600 Laptop at https://geni.us/VoyagerWAN\nTry Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html\n\nPodcast Download: https://spotifyanchor-web.app.link/e/Vjd1LukWzub\n\nTimestamps:\n0:00 Chapters\n1:26 Intro\n1:52 Topic #1 - RTX 4090's 12VHPWR adapters melting\n2:50 Paraphrasing Igor's Labs' findings\n5:08 Third party connectors, CableMod's instructions\n7:34 Linus skips RTX 4000 for his PC, reasoning behind it\n10:58 Topic #2 - AMD's Radeon RX 7000 series\n11:14 AMD's \"Radeon 7xxx\" will not feature 12VHPWR\n12:36 Linus on the word \"left-angle\" & adapter orientation\n14:38 Luke discusses very old hardware with FP\n15:36 LTT's video on increasing performance of AMD GPUs\n17:12…",
-          "link": "https://yewtu.be/watch?v=KEnd8OwRwbI",
-          "publishedOn": "2022-10-29T03:43:08.000Z",
-          "wordCount": 1808,
-          "title": "Gamer's GPUs Are Melting - WAN Show October 28, 2022",
-          "imageUrl": "/vi/KEnd8OwRwbI/maxres.jpg"
         }
       ]
     }

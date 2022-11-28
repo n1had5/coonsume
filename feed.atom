@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-27T01:11:25.236Z</updated>
+    <updated>2022-11-28T01:04:06.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reddit told me to buy this – PTM7950 Thermal Pad]]></title>
+        <id>https://yewtu.be/watch?v=2BhKx0iQ4K8</id>
+        <link href="https://yewtu.be/watch?v=2BhKx0iQ4K8"/>
+        <updated>2022-11-27T18:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!
+
+PTM7950 looks like any other thermal paste that you might find pre-applied to a heatsink or squeeze out of a tube… only it’s not, because once this material gets above 45 degrees, it starts to MELT! But what does that actually mean the components you would use it on?
+
+Discuss on the forum: https://linustechtips.com/topic/1470425-reddit-told-me-to-buy-this-%E2%80%93-ptm7950-thermal-pad/
+
+Buy Noctua NT-H2 Thermal Compound: https://geni.us/ILGpc
+Buy Thermal Grizzly Conductonaut Liquid Metal: https://geni.us/t4QPe0
+Buy IC Graphite Thermal Pad: https://geni.us/ofvCl
+Buy Honeywell PTM7950 from modDIY: https://lmg.gg/iBCQ1
+Purchases made through some store lin…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You need to install your PC fans like this!]]></title>
+        <id>https://yewtu.be/watch?v=C0i4VhKB5fE</id>
+        <link href="https://yewtu.be/watch?v=C0i4VhKB5fE"/>
+        <updated>2022-11-27T04:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Are your PC fans installed properly? From placement, airflow, air pressure, and fan speed, everything matters!
+
+#shorts #pcbuilding #pcgaming #techtips #airflow 
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Put USB-C Power on ANYTHING (almost)]]></title>
         <id>https://yewtu.be/watch?v=kZOe7aaiqqE</id>
@@ -1200,54 +1245,6 @@ Purchases made through some store links may provide some compensation to Linus M
 ► PODCAST GEAR: https://lmg.gg/podcast…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create Advanced Animations With CSS]]></title>
-        <id>https://smashingmagazine.com/2022/10/advanced-animations-css/</id>
-        <link href="https://smashingmagazine.com/2022/10/advanced-animations-css/"/>
-        <updated>2022-10-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yosra Emad)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gamer's GPUs Are Melting - WAN Show October 28, 2022]]></title>
-        <id>https://yewtu.be/watch?v=KEnd8OwRwbI</id>
-        <link href="https://yewtu.be/watch?v=KEnd8OwRwbI"/>
-        <updated>2022-10-29T03:43:08.000Z</updated>
-        <summary type="html"><![CDATA[Start using AnyDesk today at http://lmg.gg/AnyDesk
-Check out the Corsair Voyager A1600 Laptop at https://geni.us/VoyagerWAN
-Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html
-
-Podcast Download: https://spotifyanchor-web.app.link/e/Vjd1LukWzub
-
-Timestamps:
-0:00 Chapters
-1:26 Intro
-1:52 Topic #1 - RTX 4090's 12VHPWR adapters melting
-2:50 Paraphrasing Igor's Labs' findings
-5:08 Third party connectors, CableMod's instructions
-7:34 Linus skips RTX 4000 for his PC, reasoning behind it
-10:58 Topic #2 - AMD's Radeon RX 7000 series
-11:14 AMD's "Radeon 7xxx" will not feature 12VHPWR
-12:36 Linus on the word "left-angle" & adapter orientation
-14:38 Luke discusses very old hardware with FP
-15:36 LTT's video on increasing performance of AMD GPUs
-17:12…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motion Controls In The Browser]]></title>
-        <id>https://smashingmagazine.com/2022/10/motion-controls-browser/</id>
-        <link href="https://smashingmagazine.com/2022/10/motion-controls-browser/"/>
-        <updated>2022-10-28T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yaphi Berhanu)</name>
         </author>
     </entry>
 </feed>
