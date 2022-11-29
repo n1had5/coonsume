@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375273",
+          "author": "Daniel Schwarz",
+          "description": "HTML lists are boring. They don’t do much, so we don’t really think about them despite how widely used they are. And we’re still able to do the same things we’ve always done to customize them, like removing markers, reversing …\nNewer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/",
+          "publishedOn": "2022-11-28T14:05:11.000Z",
+          "wordCount": 2148,
+          "title": "Newer Things to Know About Good Ol’ HTML Lists",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375273"
+        },
+        {
           "id": "https://css-tricks.com/?p=375343",
           "author": "Geoff Graham",
           "description": "Well, color me this! I was griping to myself last night about just how gosh dang hard it is to read text messages in Apple Messages. You know, not the blue bubbles that you get when messaging other iPhone users. …\nApple Messages & Color Contrast originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -421,6 +431,16 @@
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
         {
+          "id": "https://yewtu.be/watch?v=tdhNpxyQLGo",
+          "author": null,
+          "description": "Vessi is giving away a pair of socks of your choice to the first 100 shoes sold using code SocksLinusTechTips at Vessi.com/LinusTechTips\n\nPDQ.com: Start your FREE trial now! At https://lmg.gg/PDQOct\n\nThe G Cloud is a handheld gaming device from Logitech that's specifically designed for game streaming...other than that it's just an android tablet with a built in controller. I originally thought there was no way this thing could compete with the Steam Deck or other handhelds from Aya or OneXPlayer, but now that I've used it....I think maybe it could :|\n\nDiscuss on the forum: https://linustechtips.com/topic/1470660-they-sent-this-for-a-sponsorship-i-reviewed-it-instead-lol-%E2%80%93-logitech-g-cloud/\n\nBuy a Logitech G Cloud: https://geni.us/RJnxyHO\nBuy a Steam Deck:https://lmg.gg/zyKDA\nBuy an…",
+          "link": "https://yewtu.be/watch?v=tdhNpxyQLGo",
+          "publishedOn": "2022-11-28T17:52:32.000Z",
+          "wordCount": 1186,
+          "title": "They sent this for a sponsorship. I reviewed it instead lol – Logitech G Cloud",
+          "imageUrl": "/vi/tdhNpxyQLGo/maxres.jpg"
+        },
+        {
           "id": "https://yewtu.be/watch?v=2BhKx0iQ4K8",
           "author": null,
           "description": "Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!\n\nPTM7950 looks like any other thermal paste that you might find pre-applied to a heatsink or squeeze out of a tube… only it’s not, because once this material gets above 45 degrees, it starts to MELT! But what does that actually mean the components you would use it on?\n\nDiscuss on the forum: https://linustechtips.com/topic/1470425-reddit-told-me-to-buy-this-%E2%80%93-ptm7950-thermal-pad/\n\nBuy Noctua NT-H2 Thermal Compound: https://geni.us/ILGpc\nBuy Thermal Grizzly Conductonaut Liquid Metal: https://geni.us/t4QPe0\nBuy IC Graphite Thermal Pad: https://geni.us/ofvCl\nBuy Honeywell PTM7950 from modDIY: https://lmg.gg/iBCQ1\nPurchases made through some store lin…",
@@ -759,16 +779,6 @@
           "wordCount": 804,
           "title": "It’s time for some hard truth",
           "imageUrl": "/vi/NMFQ3YvR3Eo/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=1y5jEK-72JQ",
-          "author": null,
-          "description": "Thanks to MSI for sponsoring this video! You can purchase your own RTX 4090 SUPRIM Liquid X 24G at https://geni.us/2CGki. If you're looking for a great 4K monitor for your gaming, check out the MSI Optix MPG321UR-QD at https://geni.us/3rjRBV\n\n8K gaming is finally possible with the new RTX 4090, but does anyone REALLY care? How much of a difference can you even see in games on a giant 8K TV? \n\nDiscuss on the forum: https://linustechtips.com/topic/1464158-you-can-game-at-8k%E2%80%A6-but-don%E2%80%99t-sponsored/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcast…",
-          "link": "https://yewtu.be/watch?v=1y5jEK-72JQ",
-          "publishedOn": "2022-10-29T17:02:45.000Z",
-          "wordCount": 1039,
-          "title": "DON'T Game at 8K",
-          "imageUrl": "/vi/1y5jEK-72JQ/maxres.jpg"
         }
       ]
     }

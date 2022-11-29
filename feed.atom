@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-28T01:04:06.490Z</updated>
+    <updated>2022-11-29T01:06:34.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[They sent this for a sponsorship. I reviewed it instead lol – Logitech G Cloud]]></title>
+        <id>https://yewtu.be/watch?v=tdhNpxyQLGo</id>
+        <link href="https://yewtu.be/watch?v=tdhNpxyQLGo"/>
+        <updated>2022-11-28T17:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Vessi is giving away a pair of socks of your choice to the first 100 shoes sold using code SocksLinusTechTips at Vessi.com/LinusTechTips
+
+PDQ.com: Start your FREE trial now! At https://lmg.gg/PDQOct
+
+The G Cloud is a handheld gaming device from Logitech that's specifically designed for game streaming...other than that it's just an android tablet with a built in controller. I originally thought there was no way this thing could compete with the Steam Deck or other handhelds from Aya or OneXPlayer, but now that I've used it....I think maybe it could :|
+
+Discuss on the forum: https://linustechtips.com/topic/1470660-they-sent-this-for-a-sponsorship-i-reviewed-it-instead-lol-%E2%80%93-logitech-g-cloud/
+
+Buy a Logitech G Cloud: https://geni.us/RJnxyHO
+Buy a Steam Deck:https://lmg.gg/zyKDA
+Buy an…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newer Things to Know About Good Ol’ HTML Lists]]></title>
+        <id>https://css-tricks.com/?p=375273</id>
+        <link href="https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/"/>
+        <updated>2022-11-28T14:05:11.000Z</updated>
+        <summary type="html"><![CDATA[HTML lists are boring. They don’t do much, so we don’t really think about them despite how widely used they are. And we’re still able to do the same things we’ve always done to customize them, like removing markers, reversing …
+Newer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reddit told me to buy this – PTM7950 Thermal Pad]]></title>
         <id>https://yewtu.be/watch?v=2BhKx0iQ4K8</id>
@@ -1222,27 +1253,6 @@ Buy a JDS Labs Element 3 Dac & Amp: https://lmg.gg/pJnfv
 Buy the Abyss AB1266 Phi TC Headphones: https://lmg.gg/i0aDt
 
 Purchases made through some store li…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DON'T Game at 8K]]></title>
-        <id>https://yewtu.be/watch?v=1y5jEK-72JQ</id>
-        <link href="https://yewtu.be/watch?v=1y5jEK-72JQ"/>
-        <updated>2022-10-29T17:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to MSI for sponsoring this video! You can purchase your own RTX 4090 SUPRIM Liquid X 24G at https://geni.us/2CGki. If you're looking for a great 4K monitor for your gaming, check out the MSI Optix MPG321UR-QD at https://geni.us/3rjRBV
-
-8K gaming is finally possible with the new RTX 4090, but does anyone REALLY care? How much of a difference can you even see in games on a giant 8K TV? 
-
-Discuss on the forum: https://linustechtips.com/topic/1464158-you-can-game-at-8k%E2%80%A6-but-don%E2%80%99t-sponsored/
-
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcast…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
         </author>
