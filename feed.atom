@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-29T01:06:34.571Z</updated>
+    <updated>2022-11-30T01:07:18.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We Forgot About Luke - Switching to Intel Arc Pt. 2]]></title>
+        <id>https://yewtu.be/watch?v=xfv6xX0kLLY</id>
+        <link href="https://yewtu.be/watch?v=xfv6xX0kLLY"/>
+        <updated>2022-11-29T19:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Check out Secret Lab at https://lmg.gg/SecretLabLTT
+
+SmartDeploy: Claim your FREE IT software (worth $580!) at https://lmg.gg/SDOct
+
+Part 1 of Switching to Intel Arc ended up being almost entirely hardware-related, and Luke has a lot of complaints on the software side of things only one week into the 30-day challenge. Intel usually makes software that works, just how bad could Arc Control be?
+
+Discuss on the forum: https://linustechtips.com/topic/1470904-we-forgot-about-luke-switching-to-intel-arc-pt-2/
+
+Buy an Intel Arc a770: https://geni.us/rhzygCx
+
+Buy an Intel Arc a750: https://geni.us/thR3r
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIAT…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Than “Slapping Paint on a Website”]]></title>
+        <id>https://css-tricks.com/?p=375190</id>
+        <link href="https://css-tricks.com/more-than-slapping-paint-on-a-website/"/>
+        <updated>2022-11-29T15:03:20.000Z</updated>
+        <summary type="html"><![CDATA[I’m a sucker for anything about front-end job titles.
+Anselm Hannemann:
+CSS evolved and we’re beyond the point where everyone can just do it as a side interest. We all can learn it and build amazing stuff with it, 
+…
+More Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[They sent this for a sponsorship. I reviewed it instead lol – Logitech G Cloud]]></title>
         <id>https://yewtu.be/watch?v=tdhNpxyQLGo</id>
@@ -1210,49 +1250,6 @@ Buy an EK Quantum Velocity2 Water Block: https://geni.us/w899P0
 Buy an EK Quantum Surface: https://geni.us/1q8XzJ
 
 Buy a kit of Crucial Ballistix DDR…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New CSS Media Query Range Syntax]]></title>
-        <id>https://css-tricks.com/?p=374670</id>
-        <link href="https://css-tricks.com/the-new-css-media-query-range-syntax/"/>
-        <updated>2022-10-31T13:05:38.000Z</updated>
-        <summary type="html"><![CDATA[The Media Queries Level 4 specification has introduced a new syntax for targeting a range of viewport widths using common mathematical comparison operators, like , and =, that make more sense syntactically while writing less code for responsive web design.
-The New CSS Media Query Range Syntax originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi Selvam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On The Edge Of November (2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/</id>
-        <link href="https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/"/>
-        <updated>2022-10-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s time for some hard truth]]></title>
-        <id>https://yewtu.be/watch?v=NMFQ3YvR3Eo</id>
-        <link href="https://yewtu.be/watch?v=NMFQ3YvR3Eo"/>
-        <updated>2022-10-30T17:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Communicative effectively with the right tone at work! Sign up for an account and get 20% off Grammarly Premium: https://grammarly.com/LTT
-
-Check out SignalRGB and sync all your RGB peripherals at https://bit.ly/LinusTips
-
-Every industry has its fair share of people and companies aiming to perfect the craft... but that aim has lead to a number of shady snake oil solutions that don't actually improve anything. Today, we look at one of those. 
-
-Discuss on the forum: https://linustechtips.com/topic/1464349-it%E2%80%99s-time-for-some-hard-truth-aqvox-se-audiophile-network-switch/
-
-Buy a D-LINK DGS-108 Network Switch: https://geni.us/D8bYiZN
-Buy a JDS Labs Element 3 Dac & Amp: https://lmg.gg/pJnfv
-Buy the Abyss AB1266 Phi TC Headphones: https://lmg.gg/i0aDt
-
-Purchases made through some store li…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
         </author>
