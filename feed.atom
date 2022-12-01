@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-30T01:07:18.940Z</updated>
+    <updated>2022-12-01T01:14:29.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USB4 is a Glorious Mess]]></title>
+        <id>https://yewtu.be/watch?v=C6aCCp-Umcw</id>
+        <link href="https://yewtu.be/watch?v=C6aCCp-Umcw"/>
+        <updated>2022-11-30T18:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to ORIGIN PC for sponsoring this video! Check out the VOYAGER – ORIGIN Edition at https://bit.ly/3PNcvfr
+
+USB has never been easy to understand, and USB4 is no exception. How compatible is it with Thunderbolt 3? What about Thunderbolt 4? What cables can and can’t be used? Is a USB4 cable interchangeable with a Thunderbolt 4 cable?
+
+Buy a CalDigit TB4/USB4 Element Hub: https://geni.us/P2wVa
+
+Buy a CalDigit TS3: https://geni.us/OlDKmxA
+
+Buy a CalDigit TS4: https://geni.us/Uqke
+
+Buy a CalDigit Connect 10G: https://geni.us/T83obF6
+
+Buy a Sabrent M.2 NVMe Thunderbolt 3 Enclosure: https://geni.us/HobsT
+
+Buy a Satechi USB4 Multiport Adapter: https://geni.us/tpH7
+
+Buy Infinite Cables USB4 240W Cable: https://geni.us/SHl39Ky
+
+Discuss on the forum: https://linustechtips.com/topic/1471105-usb4…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using The New Constrained Layout In WordPress Block Themes]]></title>
+        <id>https://css-tricks.com/?p=375278</id>
+        <link href="https://css-tricks.com/using-the-new-constrained-layout-in-wordpress-block-themes/"/>
+        <updated>2022-11-30T14:11:10.000Z</updated>
+        <summary type="html"><![CDATA[One of the main goals of the WordPress Site Editor (and, yes, that is now the “official” name) is to move basic block styling from CSS to structured JSON. JSON files are machine-readable, which makes it consumable by …
+Using The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/</id>
+        <link href="https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/"/>
+        <updated>2022-11-30T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We Forgot About Luke - Switching to Intel Arc Pt. 2]]></title>
         <id>https://yewtu.be/watch?v=xfv6xX0kLLY</id>
@@ -1203,53 +1252,6 @@ FOLLOW US
 ---------------------------------------------------  
 Twitter: https://twitter.com/linustech
 Facebook: http://…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rendering External API Data in WordPress Blocks on the Back End]]></title>
-        <id>https://css-tricks.com/?p=374381</id>
-        <link href="https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/"/>
-        <updated>2022-11-01T12:57:22.000Z</updated>
-        <summary type="html"><![CDATA[This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …
-Rendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Manoj Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Putting The Graph In GraphQL With The Neo4j GraphQL Library]]></title>
-        <id>https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/</id>
-        <link href="https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/"/>
-        <updated>2022-11-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (William Lyon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This PC is TERRIFYING - Intel Extreme Tech Upgrade]]></title>
-        <id>https://yewtu.be/watch?v=Waabw_tp0LY</id>
-        <link href="https://yewtu.be/watch?v=Waabw_tp0LY"/>
-        <updated>2022-10-31T17:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to Intel for sponsoring this video! You can purchase an Intel 12700K at https://geni.us/RPyj54U
-
-Alex is hosting his first Intel Extreme Tech Upgrade, and we couldn't just make it easy for him. Tynan came ready to go with copper hardline tubing, a sick case and even an induction forge to make it all happen. Will these guys be able to make our most intense ETU yet?
-
-Discuss on the forum: https://linustechtips.com/topic/1464562-this-pc-is-terrifying-intel-extreme-tech-upgrade-sponsored/
-
-Buy an 011 Dynamic Evo Case: https://geni.us/KhGhgHx
-
-Buy an MSI MAG Z690 Tomahawk: https://geni.us/uBQD
-
-Buy an Intel 12700K: https://geni.us/RPyj54U
-
-Buy an EK Quantum Velocity2 Water Block: https://geni.us/w899P0
-
-Buy an EK Quantum Surface: https://geni.us/1q8XzJ
-
-Buy a kit of Crucial Ballistix DDR…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
         </author>

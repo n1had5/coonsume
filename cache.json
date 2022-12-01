@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375278",
+          "author": "Ganesh Dahal",
+          "description": "One of the main goals of the WordPress Site Editor (and, yes, that is now the “official” name) is to move basic block styling from CSS to structured JSON. JSON files are machine-readable, which makes it consumable by …\nUsing The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-the-new-constrained-layout-in-wordpress-block-themes/",
+          "publishedOn": "2022-11-30T14:11:10.000Z",
+          "wordCount": 2774,
+          "title": "Using The New Constrained Layout In WordPress Block Themes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375278"
+        },
+        {
           "id": "https://css-tricks.com/?p=375190",
           "author": "Geoff Graham",
           "description": "I’m a sucker for anything about front-end job titles.\nAnselm Hannemann:\nCSS evolved and we’re beyond the point where everyone can just do it as a side interest. We all can learn it and build amazing stuff with it, \n…\nMore Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -180,16 +190,6 @@
           "wordCount": 1215,
           "title": "Some Links About CSS Gradients",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374381",
-          "author": "Manoj Kumar",
-          "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/",
-          "publishedOn": "2022-11-01T12:57:22.000Z",
-          "wordCount": 2807,
-          "title": "Rendering External API Data in WordPress Blocks on the Back End",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374381"
         }
       ]
     },
@@ -198,6 +198,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.",
+          "link": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
+          "publishedOn": "2022-11-30T11:15:00.000Z",
+          "wordCount": 5139,
+          "title": "Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
           "author": "hello@smashingmagazine.com (Pearl Akpan)",
@@ -392,21 +407,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
-          "author": "hello@smashingmagazine.com (William Lyon)",
-          "description": "If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!",
-          "link": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
-          "publishedOn": "2022-11-01T11:00:00.000Z",
-          "wordCount": 4667,
-          "title": "Putting The Graph In GraphQL With The Neo4j GraphQL Library",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7b065dae-2f88-4864-bd8e-db6c92b7beea/open-source-neo4j-graphql-library.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7b065dae-2f88-4864-bd8e-db6c92b7beea/open-source-neo4j-graphql-library.jpg"
         }
       ]
     },
@@ -415,6 +415,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=C6aCCp-Umcw",
+          "author": null,
+          "description": "Thanks to ORIGIN PC for sponsoring this video! Check out the VOYAGER – ORIGIN Edition at https://bit.ly/3PNcvfr\n\nUSB has never been easy to understand, and USB4 is no exception. How compatible is it with Thunderbolt 3? What about Thunderbolt 4? What cables can and can’t be used? Is a USB4 cable interchangeable with a Thunderbolt 4 cable?\n\nBuy a CalDigit TB4/USB4 Element Hub: https://geni.us/P2wVa\n\nBuy a CalDigit TS3: https://geni.us/OlDKmxA\n\nBuy a CalDigit TS4: https://geni.us/Uqke\n\nBuy a CalDigit Connect 10G: https://geni.us/T83obF6\n\nBuy a Sabrent M.2 NVMe Thunderbolt 3 Enclosure: https://geni.us/HobsT\n\nBuy a Satechi USB4 Multiport Adapter: https://geni.us/tpH7\n\nBuy Infinite Cables USB4 240W Cable: https://geni.us/SHl39Ky\n\nDiscuss on the forum: https://linustechtips.com/topic/1471105-usb4…",
+          "link": "https://yewtu.be/watch?v=C6aCCp-Umcw",
+          "publishedOn": "2022-11-30T18:00:17.000Z",
+          "wordCount": 1125,
+          "title": "USB4 is a Glorious Mess",
+          "imageUrl": "/vi/C6aCCp-Umcw/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=xfv6xX0kLLY",
           "author": null,
@@ -754,16 +764,6 @@
           "wordCount": 916,
           "title": "My Investment is in TROUBLE",
           "imageUrl": "/vi/m8lsUvil_S8/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=Waabw_tp0LY",
-          "author": null,
-          "description": "Thanks to Intel for sponsoring this video! You can purchase an Intel 12700K at https://geni.us/RPyj54U\n\nAlex is hosting his first Intel Extreme Tech Upgrade, and we couldn't just make it easy for him. Tynan came ready to go with copper hardline tubing, a sick case and even an induction forge to make it all happen. Will these guys be able to make our most intense ETU yet?\n\nDiscuss on the forum: https://linustechtips.com/topic/1464562-this-pc-is-terrifying-intel-extreme-tech-upgrade-sponsored/\n\nBuy an 011 Dynamic Evo Case: https://geni.us/KhGhgHx\n\nBuy an MSI MAG Z690 Tomahawk: https://geni.us/uBQD\n\nBuy an Intel 12700K: https://geni.us/RPyj54U\n\nBuy an EK Quantum Velocity2 Water Block: https://geni.us/w899P0\n\nBuy an EK Quantum Surface: https://geni.us/1q8XzJ\n\nBuy a kit of Crucial Ballistix DDR…",
-          "link": "https://yewtu.be/watch?v=Waabw_tp0LY",
-          "publishedOn": "2022-10-31T17:00:30.000Z",
-          "wordCount": 1146,
-          "title": "This PC is TERRIFYING - Intel Extreme Tech Upgrade",
-          "imageUrl": "/vi/Waabw_tp0LY/maxres.jpg"
         }
       ]
     }
