@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-01T01:14:29.480Z</updated>
+    <updated>2022-12-02T01:02:26.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I’m Embarrassed I Didn’t Think of This.. - Asynchronous Reprojection]]></title>
+        <id>https://yewtu.be/watch?v=IvqrlgKuowE</id>
+        <link href="https://yewtu.be/watch?v=IvqrlgKuowE"/>
+        <updated>2022-12-01T18:24:27.000Z</updated>
+        <summary type="html"><![CDATA[Get up to 25% Off Pulseway's IT Management Software at https://lmg.gg/PulsewayLTT
+
+Save up to *40% off and get Free Worldwide Shipping until Dec. 22nd at https://www.ridge.com/LINUS
+
+What if you didn’t need the best frame rate to reduce input latency? What if your display’s refresh rate was enough all on its own? With Async reprojection, anything is possible… Even turning 30 FPS into 240.
+
+Discuss on the forum: https://linustechtips.com/topic/1471349-i%E2%80%99m-embarrassed-i-didn%E2%80%99t-think-of-this-%E2%80%93-desktop-async-reprojection/
+
+Comrade Stinger's original video + download links: https://www.youtube.com/watch?v=VvFyOFacljg
+
+2kliksphilip's video about async reprojection: https://www.youtube.com/watch?v=f8piCZz0p-Y
+
+Purchases made through some store links may provide some compen…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digging Deeper Into Container Style Queries]]></title>
+        <id>https://css-tricks.com/?p=375607</id>
+        <link href="https://css-tricks.com/digging-deeper-into-container-style-queries/"/>
+        <updated>2022-12-01T13:59:06.000Z</updated>
+        <summary type="html"><![CDATA[I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …
+Digging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FabUnit: A Smart Way To Control And Synchronize Typo And Space]]></title>
+        <id>https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/</id>
+        <link href="https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/"/>
+        <updated>2022-12-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Fabienne Bielmann)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USB4 is a Glorious Mess]]></title>
         <id>https://yewtu.be/watch?v=C6aCCp-Umcw</id>
@@ -1218,42 +1261,6 @@ Buy a Teamgroup T-Force Vulcan Z 240GB SSD: https://g…]]></summary>
         <summary type="html"><![CDATA[When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Links About CSS Gradients]]></title>
-        <id>https://css-tricks.com/?p=374697</id>
-        <link href="https://css-tricks.com/some-links-about-css-gradients/"/>
-        <updated>2022-11-02T12:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …
-Some Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Investment is in TROUBLE]]></title>
-        <id>https://yewtu.be/watch?v=m8lsUvil_S8</id>
-        <link href="https://yewtu.be/watch?v=m8lsUvil_S8"/>
-        <updated>2022-11-01T18:18:48.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to HP for sponsoring this video! you can learn more about the HP 845 G9 at: https://bit.ly/3ztZIJp
-
-For years, there’s been an unfriendly trend of replacing socketed, swappable components like RAM and SSDs for ones that come soldered to the motherboard. Great for keeping device thickness to a minimum, but not so great for reparability. Let’s see what HP did to buck that trend.
-
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-
-FOLLOW US 
----------------------------------------------------  
-Twitter: https://twitter.com/linustech
-Facebook: http://…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
         </author>
     </entry>
 </feed>

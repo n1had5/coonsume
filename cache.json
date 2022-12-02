@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375607",
+          "author": "Geoff Graham",
+          "description": "I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …\nDigging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/digging-deeper-into-container-style-queries/",
+          "publishedOn": "2022-12-01T13:59:06.000Z",
+          "wordCount": 2245,
+          "title": "Digging Deeper Into Container Style Queries",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375607"
+        },
+        {
           "id": "https://css-tricks.com/?p=375278",
           "author": "Ganesh Dahal",
           "description": "One of the main goals of the WordPress Site Editor (and, yes, that is now the “official” name) is to move basic block styling from CSS to structured JSON. JSON files are machine-readable, which makes it consumable by …\nUsing The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -180,16 +190,6 @@
           "wordCount": 2106,
           "title": "The Difference Between Web Sockets, Web Workers, and Service Workers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374731"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374697",
-          "author": "Geoff Graham",
-          "description": "Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …\nSome Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-links-about-css-gradients/",
-          "publishedOn": "2022-11-02T12:59:02.000Z",
-          "wordCount": 1215,
-          "title": "Some Links About CSS Gradients",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
         }
       ]
     },
@@ -198,6 +198,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
+          "author": "hello@smashingmagazine.com (Fabienne Bielmann)",
+          "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
+          "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
+          "publishedOn": "2022-12-01T09:00:00.000Z",
+          "wordCount": 4976,
+          "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -415,6 +430,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=IvqrlgKuowE",
+          "author": null,
+          "description": "Get up to 25% Off Pulseway's IT Management Software at https://lmg.gg/PulsewayLTT\n\nSave up to *40% off and get Free Worldwide Shipping until Dec. 22nd at https://www.ridge.com/LINUS\n\nWhat if you didn’t need the best frame rate to reduce input latency? What if your display’s refresh rate was enough all on its own? With Async reprojection, anything is possible… Even turning 30 FPS into 240.\n\nDiscuss on the forum: https://linustechtips.com/topic/1471349-i%E2%80%99m-embarrassed-i-didn%E2%80%99t-think-of-this-%E2%80%93-desktop-async-reprojection/\n\nComrade Stinger's original video + download links: https://www.youtube.com/watch?v=VvFyOFacljg\n\n2kliksphilip's video about async reprojection: https://www.youtube.com/watch?v=f8piCZz0p-Y\n\nPurchases made through some store links may provide some compen…",
+          "link": "https://yewtu.be/watch?v=IvqrlgKuowE",
+          "publishedOn": "2022-12-01T18:24:27.000Z",
+          "wordCount": 1088,
+          "title": "I’m Embarrassed I Didn’t Think of This.. - Asynchronous Reprojection",
+          "imageUrl": "/vi/IvqrlgKuowE/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=C6aCCp-Umcw",
           "author": null,
@@ -754,16 +779,6 @@
           "wordCount": 1724,
           "title": "The Holiday PC Buyer's Guide - 2022",
           "imageUrl": "/vi/ieHv_bJ7mog/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=m8lsUvil_S8",
-          "author": null,
-          "description": "Thanks to HP for sponsoring this video! you can learn more about the HP 845 G9 at: https://bit.ly/3ztZIJp\n\nFor years, there’s been an unfriendly trend of replacing socketed, swappable components like RAM and SSDs for ones that come soldered to the motherboard. Great for keeping device thickness to a minimum, but not so great for reparability. Let’s see what HP did to buck that trend.\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://…",
-          "link": "https://yewtu.be/watch?v=m8lsUvil_S8",
-          "publishedOn": "2022-11-01T18:18:48.000Z",
-          "wordCount": 916,
-          "title": "My Investment is in TROUBLE",
-          "imageUrl": "/vi/m8lsUvil_S8/maxres.jpg"
         }
       ]
     }
