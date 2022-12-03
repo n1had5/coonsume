@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375308",
+          "author": "Temani Afif",
+          "description": "Image sliders (also called carousels) are everywhere. There are a lot of CSS tricks to create the common slider where the images slide from left to right (or the opposite). It’s the same deal with the many JavaScript libraries out …\nCSS Infinite and Circular Rotating Image Slider originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-only-infinite-and-circular-image-slider/",
+          "publishedOn": "2022-12-02T14:12:57.000Z",
+          "wordCount": 2394,
+          "title": "CSS Infinite and Circular Rotating Image Slider",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375308"
+        },
+        {
           "id": "https://css-tricks.com/?p=375607",
           "author": "Geoff Graham",
           "description": "I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …\nDigging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -180,16 +190,6 @@
           "wordCount": 1282,
           "title": "A Couple Changes Coming in Chrome 108",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374894"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374731",
-          "author": "Aisha Bukar",
-          "description": "Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …\nThe Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/",
-          "publishedOn": "2022-11-03T12:56:58.000Z",
-          "wordCount": 2106,
-          "title": "The Difference Between Web Sockets, Web Workers, and Service Workers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374731"
         }
       ]
     },
@@ -198,6 +198,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
+          "author": "hello@smashingmagazine.com (Dan Donald)",
+          "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
+          "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
+          "publishedOn": "2022-12-02T09:00:00.000Z",
+          "wordCount": 6411,
+          "title": "The Anatomy Of Themed Design System Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
           "author": "hello@smashingmagazine.com (Fabienne Bielmann)",
@@ -392,36 +407,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "What’s the state of HTML Email, Vue.js and Next.js? Would you like to level up with modern CSS? What are new, smart interface design patterns we could use? Let’s figure it all out together with our [brand new online workshops](https://smashingconf.com/online-workshops/) alongside our free community meetups.",
-          "link": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
-          "publishedOn": "2022-11-03T07:00:00.000Z",
-          "wordCount": 3276,
-          "title": "New Smashing Front-End & UX Workshops",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f0edf42-4421-4e65-9a71-0a8bf3dc41b0/online-workshops-2022.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f0edf42-4421-4e65-9a71-0a8bf3dc41b0/online-workshops-2022.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
-          "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
-          "publishedOn": "2022-11-02T14:00:00.000Z",
-          "wordCount": 5887,
-          "title": "Designing The Perfect Mobile Navigation UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg"
         }
       ]
     },
@@ -769,16 +754,6 @@
           "wordCount": 939,
           "title": "Goodbye NVIDIA. – AMD RDNA3 Announcement",
           "imageUrl": "/vi/YSAismB8ju4/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=ieHv_bJ7mog",
-          "author": null,
-          "description": "Thanks to Amazon for sponsoring our 2022 Holiday Buyers Guide! We have our built out PC kits below, but if you're looking for gifts this season, check out Amazon's own Holiday Gift Guide at https://geni.us/nXANf7e and their Electronics Showcase at https://geni.us/Q9zJA.\n\nLooking to build a new PC for yourself or someone else? We've got you covered this holiday season at a ton of different price points in our latest Holiday Buyers Guide.\n\nDiscuss on the forum: https://linustechtips.com/topic/1465010-the-ultimate-holiday-buyers-guide-2022-sponsored/\n\n$300 Build\n\nBuy an AMD Ryzen 5 4600G: https://geni.us/5JoQ13\nBuy a Gigabyte GA A320M S2H Micro ATX: https://geni.us/Ams7Aa\nBuy a Kit of Patriot Signature Line 8GB DDR4: https://geni.us/w7kHXJ\nBuy a Teamgroup T-Force Vulcan Z 240GB SSD: https://g…",
-          "link": "https://yewtu.be/watch?v=ieHv_bJ7mog",
-          "publishedOn": "2022-11-02T17:04:47.000Z",
-          "wordCount": 1724,
-          "title": "The Holiday PC Buyer's Guide - 2022",
-          "imageUrl": "/vi/ieHv_bJ7mog/maxres.jpg"
         }
       ]
     }

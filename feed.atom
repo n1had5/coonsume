@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-02T01:02:26.517Z</updated>
+    <updated>2022-12-03T00:59:23.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Infinite and Circular Rotating Image Slider]]></title>
+        <id>https://css-tricks.com/?p=375308</id>
+        <link href="https://css-tricks.com/css-only-infinite-and-circular-image-slider/"/>
+        <updated>2022-12-02T14:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Image sliders (also called carousels) are everywhere. There are a lot of CSS tricks to create the common slider where the images slide from left to right (or the opposite). It’s the same deal with the many JavaScript libraries out …
+CSS Infinite and Circular Rotating Image Slider originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anatomy Of Themed Design System Components]]></title>
+        <id>https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/</id>
+        <link href="https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/"/>
+        <updated>2022-12-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dan Donald)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’m Embarrassed I Didn’t Think of This.. - Asynchronous Reprojection]]></title>
         <id>https://yewtu.be/watch?v=IvqrlgKuowE</id>
@@ -1209,58 +1230,6 @@ CHAPTERS
 11:40 - Outro]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Difference Between Web Sockets, Web Workers, and Service Workers]]></title>
-        <id>https://css-tricks.com/?p=374731</id>
-        <link href="https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/"/>
-        <updated>2022-11-03T12:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …
-The Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Aisha Bukar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Smashing Front-End & UX Workshops]]></title>
-        <id>https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/</id>
-        <link href="https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/"/>
-        <updated>2022-11-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s the state of HTML Email, Vue.js and Next.js? Would you like to level up with modern CSS? What are new, smart interface design patterns we could use? Let’s figure it all out together with our [brand new online workshops](https://smashingconf.com/online-workshops/) alongside our free community meetups.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Holiday PC Buyer's Guide - 2022]]></title>
-        <id>https://yewtu.be/watch?v=ieHv_bJ7mog</id>
-        <link href="https://yewtu.be/watch?v=ieHv_bJ7mog"/>
-        <updated>2022-11-02T17:04:47.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to Amazon for sponsoring our 2022 Holiday Buyers Guide! We have our built out PC kits below, but if you're looking for gifts this season, check out Amazon's own Holiday Gift Guide at https://geni.us/nXANf7e and their Electronics Showcase at https://geni.us/Q9zJA.
-
-Looking to build a new PC for yourself or someone else? We've got you covered this holiday season at a ton of different price points in our latest Holiday Buyers Guide.
-
-Discuss on the forum: https://linustechtips.com/topic/1465010-the-ultimate-holiday-buyers-guide-2022-sponsored/
-
-$300 Build
-
-Buy an AMD Ryzen 5 4600G: https://geni.us/5JoQ13
-Buy a Gigabyte GA A320M S2H Micro ATX: https://geni.us/Ams7Aa
-Buy a Kit of Patriot Signature Line 8GB DDR4: https://geni.us/w7kHXJ
-Buy a Teamgroup T-Force Vulcan Z 240GB SSD: https://g…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing The Perfect Mobile Navigation UX]]></title>
-        <id>https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/</id>
-        <link href="https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/"/>
-        <updated>2022-11-02T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
