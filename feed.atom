@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-04T01:03:23.218Z</updated>
+    <updated>2022-12-05T01:01:20.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It Took MONTHS to Solve This WiFi Problem… but I DID!]]></title>
+        <id>https://yewtu.be/watch?v=f-dGcs6bb5U</id>
+        <link href="https://yewtu.be/watch?v=f-dGcs6bb5U"/>
+        <updated>2022-12-04T17:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Try FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus
+
+Learn more about Seasonic Power Supplies at https://www.seasonic.com
+
+My family has been hounding me to figure out an audio issue that's ruining our movie nights. Problem is, it's really a Wi-Fi issue, and diagnosing it - even with cool Wi-Spy tools from MetaGeek - could be quite the rabbithole...
+
+Educational Materials: https://www.digikey.ca/en/articles/learn-the-fundamentals-of-software-defined-radio
+
+Discuss on the forum: https://linustechtips.com/topic/1471905-it-took-months-to-solve-this-wifi-problem%E2%80%A6-but-i-did/
+
+Check out MetaGeek products: https://www.metageek.com/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lt…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft is Forcing me to Buy MacBooks - Windows Modern Standby]]></title>
         <id>https://yewtu.be/watch?v=OHKKcd3sx2c</id>
@@ -1167,39 +1191,6 @@ Discuss on the forum: https://linustechtips.com/topic/1465647-nvidia-is-clearly-
 ► SUPPORT US ON FLOATPLANE: https://www.…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm Frankly Disgusted - WAN Show November 4, 2022]]></title>
-        <id>https://yewtu.be/watch?v=CYoWAjUAI7A</id>
-        <link href="https://yewtu.be/watch?v=CYoWAjUAI7A"/>
-        <updated>2022-11-04T23:35:27.000Z</updated>
-        <summary type="html"><![CDATA[Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off
-
-Get a 15-day free trial for unlimited backup at https://backblaze.com/WAN
-
-Start building your credit with debit today at https://www.extra.app/wanshow
-Extra debit card is issued by Evolve Bank and Trust, member of FDIC
-
-Podcast Download: TBD
-
-Timestamps: TBD]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Couple Changes Coming in Chrome 108]]></title>
-        <id>https://css-tricks.com/?p=374894</id>
-        <link href="https://css-tricks.com/a-couple-changes-coming-in-chrome-108/"/>
-        <updated>2022-11-04T13:13:08.000Z</updated>
-        <summary type="html"><![CDATA[“A change to overflow on replaced elements in CSS”:
-From Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.
-This 
-…
-A Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>

@@ -180,16 +180,6 @@
           "wordCount": 4131,
           "title": "Managing CSS Styles in a WordPress Block Theme",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374910"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374894",
-          "author": "Geoff Graham",
-          "description": "“A change to overflow on replaced elements in CSS”:\nFrom Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.\nThis \n…\nA Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-couple-changes-coming-in-chrome-108/",
-          "publishedOn": "2022-11-04T13:13:08.000Z",
-          "wordCount": 1282,
-          "title": "A Couple Changes Coming in Chrome 108",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374894"
         }
       ]
     },
@@ -400,6 +390,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=f-dGcs6bb5U",
+          "author": null,
+          "description": "Try FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus\n\nLearn more about Seasonic Power Supplies at https://www.seasonic.com\n\nMy family has been hounding me to figure out an audio issue that's ruining our movie nights. Problem is, it's really a Wi-Fi issue, and diagnosing it - even with cool Wi-Spy tools from MetaGeek - could be quite the rabbithole...\n\nEducational Materials: https://www.digikey.ca/en/articles/learn-the-fundamentals-of-software-defined-radio\n\nDiscuss on the forum: https://linustechtips.com/topic/1471905-it-took-months-to-solve-this-wifi-problem%E2%80%A6-but-i-did/\n\nCheck out MetaGeek products: https://www.metageek.com/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lt…",
+          "link": "https://yewtu.be/watch?v=f-dGcs6bb5U",
+          "publishedOn": "2022-12-04T17:54:18.000Z",
+          "wordCount": 1031,
+          "title": "It Took MONTHS to Solve This WiFi Problem… but I DID!",
+          "imageUrl": "/vi/f-dGcs6bb5U/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=OHKKcd3sx2c",
           "author": null,
@@ -739,16 +739,6 @@
           "wordCount": 1018,
           "title": "Nvidia is Clearly Better, Right?",
           "imageUrl": "/vi/mkfFvEeVC4w/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=CYoWAjUAI7A",
-          "author": null,
-          "description": "Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off\n\nGet a 15-day free trial for unlimited backup at https://backblaze.com/WAN\n\nStart building your credit with debit today at https://www.extra.app/wanshow\nExtra debit card is issued by Evolve Bank and Trust, member of FDIC\n\nPodcast Download: TBD\n\nTimestamps: TBD",
-          "link": "https://yewtu.be/watch?v=CYoWAjUAI7A",
-          "publishedOn": "2022-11-04T23:35:27.000Z",
-          "wordCount": 718,
-          "title": "I'm Frankly Disgusted - WAN Show November 4, 2022",
-          "imageUrl": "/vi/CYoWAjUAI7A/maxres.jpg"
         }
       ]
     }
