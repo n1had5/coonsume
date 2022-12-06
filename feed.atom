@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-05T01:01:20.005Z</updated>
+    <updated>2022-12-06T01:01:12.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What $1,000,000 of water cooling looks like - Building Shadow's Power Upgrade]]></title>
+        <id>https://yewtu.be/watch?v=RFzirpvTiOo</id>
+        <link href="https://yewtu.be/watch?v=RFzirpvTiOo"/>
+        <updated>2022-12-05T20:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to Shadow for sponsoring today's video! Get 20% off the first month of your Shadow PC subscription, with or without the Power Upgrade with code LTT at https://shdw.me/LTT_linus
+
+We partnered with Shadow to take a deep dive into how their Power Upgrade is made from assembly to deployment. Come join Luke Lafreniere in exploring OVHcloud's facilities in France and see what happens behind the scenes in a data center that's completely water-cooled!
+
+Discuss on the forum: https://linustechtips.com/topic/1472108-what-1000000-of-water-cooling-looks-like-building-shadows-power-upgrade/
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US …]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does WWW still belong in URLs?]]></title>
+        <id>https://css-tricks.com/?p=375184</id>
+        <link href="https://css-tricks.com/does-www-still-belong-in-urls/"/>
+        <updated>2022-12-05T15:20:22.000Z</updated>
+        <summary type="html"><![CDATA[For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …
+Does WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Pieter De Decker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It Took MONTHS to Solve This WiFi Problem… but I DID!]]></title>
         <id>https://yewtu.be/watch?v=f-dGcs6bb5U</id>
@@ -1168,27 +1201,6 @@ Buy a used hard drive on eBay: https://geni.us/7TkSVg
 Buy a used Seagate Exos: https://geni.us/Aioa
 
 Purchases mad…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia is Clearly Better, Right?]]></title>
-        <id>https://yewtu.be/watch?v=mkfFvEeVC4w</id>
-        <link href="https://yewtu.be/watch?v=mkfFvEeVC4w"/>
-        <updated>2022-11-05T17:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Play Enlisted for FREE on PC, Xbox Series X|S and PS®5: https://enplay.link/ltt. Follow the link to download the game and get your exclusive bonus now. See you in battle!
-
-Over the lifetime of RDNA2 AMD has apparently improved the experience a lot, making us wonder... should you actually choose Nvidia for your next GPU? Particularly when AMD left some performance on the table we hope to extract using the Radeon Monster Profile.
-
-Check our Hydra: https://www.overclock.net/threads/official-hydra-and-hydra-pro-thread.1796800/
-
-Check our 1usmus: https://twitter.com/1usmus?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
-
-Discuss on the forum: https://linustechtips.com/topic/1465647-nvidia-is-clearly-better-right/
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
         </author>
