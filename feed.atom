@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T01:01:12.183Z</updated>
+    <updated>2022-12-07T01:04:39.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My Smart Home is Stupid]]></title>
+        <id>https://yewtu.be/watch?v=QoC8R3KHk8E</id>
+        <link href="https://yewtu.be/watch?v=QoC8R3KHk8E"/>
+        <updated>2022-12-06T19:25:47.000Z</updated>
+        <summary type="html"><![CDATA[Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off
+
+Create your build at https://www.buildredux.com/linus
+
+My smart home has some interesting HVAC control systems, but unfortunately, we never got around to setting them up and with temperatures dropping into the negatives... it's time we finally set them up.
+
+Discuss on the forum: https://linustechtips.com/topic/1472332-my-smart-home-is-stupid/
+
+Buy Tasmota Flashed Relay Boards on Aliexpress: https://lmg.gg/sGcP3
+Buy Ecobee Smart Thermostats on Amazon: https://geni.us/MJriksw
+Buy Cat S62 Pro Rugged Smart Phone on Amazon: https://geni.us/fEekB
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS is OK, I guess.]]></title>
+        <id>https://css-tricks.com/?p=375747</id>
+        <link href="https://css-tricks.com/css-is-ok-i-guess/"/>
+        <updated>2022-12-06T15:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Nothing but ear-to-ear smiles as I was watching this video from @quayjn on YouTube. (No actual name in the byline, though I think it’s Brian Katz if my paper trail is correct).
+The best is this Pen you can …
+CSS is OK, I guess. originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible Front-End Patterns For Responsive Tables (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/</id>
+        <link href="https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/"/>
+        <updated>2022-12-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What $1,000,000 of water cooling looks like - Building Shadow's Power Upgrade]]></title>
         <id>https://yewtu.be/watch?v=RFzirpvTiOo</id>
@@ -1180,29 +1227,6 @@ Managing CSS Styles in a WordPress Block Theme originally published on CSS-Trick
         <summary type="html"><![CDATA[Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eBay is FULL of Cheap Hard Drives! What's the Catch?]]></title>
-        <id>https://yewtu.be/watch?v=xQMQW4sbXf8</id>
-        <link href="https://yewtu.be/watch?v=xQMQW4sbXf8"/>
-        <updated>2022-11-06T18:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Get $25 off all pairs of Vessi Footwear with offer code LinusTechTips at https://www.Vessi.com/LinusTechTips
-
-Save 10% and Free Worldwide Shipping at Ridge Wallet by using offer code LINUS at https://www.ridge.com/LINUS
-
-We’ve said more than once to never buy a used hard drive. But file sizes are increasing across the board, so could it actually make more sense to turn to the used market – like ebay or craigslist - for more storage capacity…even if the hard drives were used for crypto mining?
-
-Discuss on the forum: https://linustechtips.com/topic/1465898-i-found-cheap-hard-drives-on-ebay/
-
-Buy a new Seagate Exos: https://geni.us/fs97sH
-Buy a new WD Blue: https://geni.us/B5pJtA
-Buy a used hard drive on eBay: https://geni.us/7TkSVg
-Buy a used Seagate Exos: https://geni.us/Aioa
-
-Purchases mad…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
         </author>
     </entry>
 </feed>

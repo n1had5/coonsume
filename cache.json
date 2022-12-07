@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375747",
+          "author": "Geoff Graham",
+          "description": "Nothing but ear-to-ear smiles as I was watching this video from @quayjn on YouTube. (No actual name in the byline, though I think it’s Brian Katz if my paper trail is correct).\nThe best is this Pen you can …\nCSS is OK, I guess. originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-is-ok-i-guess/",
+          "publishedOn": "2022-12-06T15:37:50.000Z",
+          "wordCount": 845,
+          "title": "CSS is OK, I guess.",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375747"
+        },
+        {
           "id": "https://css-tricks.com/?p=375184",
           "author": "Pieter De Decker",
           "description": "For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …\nDoes WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -198,6 +208,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
+          "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
+          "publishedOn": "2022-12-06T12:00:00.000Z",
+          "wordCount": 6053,
+          "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
           "author": "hello@smashingmagazine.com (Dan Donald)",
@@ -400,6 +425,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=QoC8R3KHk8E",
+          "author": null,
+          "description": "Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off\n\nCreate your build at https://www.buildredux.com/linus\n\nMy smart home has some interesting HVAC control systems, but unfortunately, we never got around to setting them up and with temperatures dropping into the negatives... it's time we finally set them up.\n\nDiscuss on the forum: https://linustechtips.com/topic/1472332-my-smart-home-is-stupid/\n\nBuy Tasmota Flashed Relay Boards on Aliexpress: https://lmg.gg/sGcP3\nBuy Ecobee Smart Thermostats on Amazon: https://geni.us/MJriksw\nBuy Cat S62 Pro Rugged Smart Phone on Amazon: https://geni.us/fEekB\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.…",
+          "link": "https://yewtu.be/watch?v=QoC8R3KHk8E",
+          "publishedOn": "2022-12-06T19:25:47.000Z",
+          "wordCount": 1069,
+          "title": "My Smart Home is Stupid",
+          "imageUrl": "/vi/QoC8R3KHk8E/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=RFzirpvTiOo",
           "author": null,
@@ -739,16 +774,6 @@
           "wordCount": 1052,
           "title": "Double your FPS for FREE!*** - Nvidia DLSS 3.0",
           "imageUrl": "/vi/PUTsE1q1bYI/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=xQMQW4sbXf8",
-          "author": null,
-          "description": "Get $25 off all pairs of Vessi Footwear with offer code LinusTechTips at https://www.Vessi.com/LinusTechTips\n\nSave 10% and Free Worldwide Shipping at Ridge Wallet by using offer code LINUS at https://www.ridge.com/LINUS\n\nWe’ve said more than once to never buy a used hard drive. But file sizes are increasing across the board, so could it actually make more sense to turn to the used market – like ebay or craigslist - for more storage capacity…even if the hard drives were used for crypto mining?\n\nDiscuss on the forum: https://linustechtips.com/topic/1465898-i-found-cheap-hard-drives-on-ebay/\n\nBuy a new Seagate Exos: https://geni.us/fs97sH\nBuy a new WD Blue: https://geni.us/B5pJtA\nBuy a used hard drive on eBay: https://geni.us/7TkSVg\nBuy a used Seagate Exos: https://geni.us/Aioa\n\nPurchases mad…",
-          "link": "https://yewtu.be/watch?v=xQMQW4sbXf8",
-          "publishedOn": "2022-11-06T18:00:18.000Z",
-          "wordCount": 1113,
-          "title": "eBay is FULL of Cheap Hard Drives! What's the Catch?",
-          "imageUrl": "/vi/xQMQW4sbXf8/maxres.jpg"
         }
       ]
     }
