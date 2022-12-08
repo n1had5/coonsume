@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375412",
+          "author": "Ganesh Dahal",
+          "description": "The CSS box-shadow and outline properties gained theme.json support in WordPress 6.1. Let's look at a few examples of how it works in real themes, and what options we have to apply these styles to WordPress blocks and elements.\nAdding Box Shadows to WordPress Blocks and Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/adding-box-shadows-to-wordpress-blocks-and-elements/",
+          "publishedOn": "2022-12-07T13:59:50.000Z",
+          "wordCount": 1929,
+          "title": "Adding Box Shadows to WordPress Blocks and Elements",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375412"
+        },
+        {
           "id": "https://css-tricks.com/?p=375747",
           "author": "Geoff Graham",
           "description": "Nothing but ear-to-ear smiles as I was watching this video from @quayjn on YouTube. (No actual name in the byline, though I think it’s Brian Katz if my paper trail is correct).\nThe best is this Pen you can …\nCSS is OK, I guess. originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -190,16 +200,6 @@
           "wordCount": 1572,
           "title": "What CSS Do You Absolutely Have to Know in 2022?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374775"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374910",
-          "author": "Ganesh Dahal",
-          "description": "The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …\nManaging CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/",
-          "publishedOn": "2022-11-07T14:05:11.000Z",
-          "wordCount": 4131,
-          "title": "Managing CSS Styles in a WordPress Block Theme",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374910"
         }
       ]
     },
@@ -208,6 +208,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.",
+          "link": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
+          "publishedOn": "2022-12-07T11:00:00.000Z",
+          "wordCount": 5387,
+          "title": "Advent Calendars For Web Designers And Developers (2022 Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
@@ -402,21 +417,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/02e0d4d1-43d3-4d9d-8d3d-ad10bcc22b2c/design-systems-inspiration-resources-case-studies.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.",
-          "link": "https://smashingmagazine.com/2022/11/whats-new-nextjs-13/",
-          "publishedOn": "2022-11-07T14:00:00.000Z",
-          "wordCount": 4116,
-          "title": "What’s New In Next.js 13?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48e8a36f-2bd6-4fdf-8a56-acec206c23c8/whats-new-nextjs-13.jpg"
         }
       ]
     },
@@ -425,6 +425,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=W8snwlE93aE",
+          "author": null,
+          "description": "Check out Vessi's Holiday Sale at http://vessi.com/LinusTechTips or use code LinusTechTips at checkout if you just missed it for 15% off plus free shipping to CA, US, AU,JP, TW, KR, SGP via their store online.\n\nGet the best offer at http://ridge.com/LINUS and right now you can save up to 40% through December 22nd!\n\nGlittery Dells have been showing up on store shelves recently and we need to find out why! They're shiny, they're dusty, but are they worth the money?\n\nUpdate on the warranty: We called up the support line for Advanced Skytech (Treasure Box) secret shopper style. There was no wait time to get an agent, and they walked us through every step of fixing the issue including sending videos to assist us. They were patient and helpful overall. Pretty pleased with how it went.\n\nDiscuss o…",
+          "link": "https://yewtu.be/watch?v=W8snwlE93aE",
+          "publishedOn": "2022-12-07T19:04:11.000Z",
+          "wordCount": 1245,
+          "title": "This MUST be a Scam... \"Treasure Box\" Gaming PC",
+          "imageUrl": "/vi/W8snwlE93aE/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=QoC8R3KHk8E",
           "author": null,
@@ -764,16 +774,6 @@
           "wordCount": 1035,
           "title": "Your Router Sucks. Build Your Own Instead!",
           "imageUrl": "/vi/_IzyJTcnPu8/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=PUTsE1q1bYI",
-          "author": null,
-          "description": "Thanks to Mine for sponsoring this video! Discover where your data is, and take it back at https://bit.ly/Say-Mine-LTT\n\nGet Unlimited Data for $25/month at https://l.boostmobile.com/1hovqg\n\nNvidia’s new DLSS 3.0 promises smoother gameplay by doubling your FPS – But how can it do that, and can its fake frame generation possibly look any good? And is it worth buying an RTX 4090 for?\n\nDiscuss on the forum: https://linustechtips.com/topic/1466274-double-your-fps-for-free-nvidia-dlss-30/\n\nCheck out Comrade Stinger's Async Timewarp demo: https://drive.google.com/file/d/1YgYrJK7LhUr9ulQTO_qJxziZVhuo3QGU/view\nCheck out Comrade Stinger's YouTube channel: https://www.youtube.com/user/paimail21/\n2kliksphilip's YouTube channel: https://www.youtube.com/c/2kliksphilip\nGrowling Sidewinder's YouTube chann…",
-          "link": "https://yewtu.be/watch?v=PUTsE1q1bYI",
-          "publishedOn": "2022-11-08T09:32:15.000Z",
-          "wordCount": 1052,
-          "title": "Double your FPS for FREE!*** - Nvidia DLSS 3.0",
-          "imageUrl": "/vi/PUTsE1q1bYI/maxres.jpg"
         }
       ]
     }
