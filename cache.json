@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375697",
+          "author": "Preethi",
+          "description": "How often to do you reach for the CSS background-size property? If you’re like me — and probably lots of other front-end folks — then it’s usually when you background-size: cover an image to fill the space of an entire …\nAnimated Background Stripes That Transition on Hover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/animated-background-stripes-transition-hover/",
+          "publishedOn": "2022-12-08T15:36:21.000Z",
+          "wordCount": 2431,
+          "title": "Animated Background Stripes That Transition on Hover",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375697"
+        },
+        {
           "id": "https://css-tricks.com/?p=375412",
           "author": "Ganesh Dahal",
           "description": "The CSS box-shadow and outline properties gained theme.json support in WordPress 6.1. Let's look at a few examples of how it works in real themes, and what options we have to apply these styles to WordPress blocks and elements.\nAdding Box Shadows to WordPress Blocks and Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -190,16 +200,6 @@
           "wordCount": 3601,
           "title": "CSS Grid and Custom Shapes, Part 3",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374826"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374775",
-          "author": "Geoff Graham",
-          "description": "Sacha Greif openly wondered whether CSS has gotten to be, you know, too big. With all the goodies that’ve shipped in browsers the past couple of years — container queries! relative color syntax! cascade layers! logical properties…\nWhat CSS Do You Absolutely Have to Know in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/",
-          "publishedOn": "2022-11-08T13:51:48.000Z",
-          "wordCount": 1572,
-          "title": "What CSS Do You Absolutely Have to Know in 2022?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374775"
         }
       ]
     },
@@ -208,6 +208,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
+          "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
+          "publishedOn": "2022-12-08T13:00:00.000Z",
+          "wordCount": 3879,
+          "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
+          "enclosure": {
+            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -402,21 +417,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Everything design systems on accessibility, enterprise design systems, Figma kits, data visualization, motion design, multi-lingual design, naming, ROI calculator and UX writing.",
-          "link": "https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/",
-          "publishedOn": "2022-11-09T07:00:00.000Z",
-          "wordCount": 5636,
-          "title": "Design Systems: Useful Examples and Resources",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/02e0d4d1-43d3-4d9d-8d3d-ad10bcc22b2c/design-systems-inspiration-resources-case-studies.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/02e0d4d1-43d3-4d9d-8d3d-ad10bcc22b2c/design-systems-inspiration-resources-case-studies.jpg"
         }
       ]
     },
@@ -425,6 +425,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=qgK38sg1ws4",
+          "author": null,
+          "description": "Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off\n\nSignup for a Hetzner server and use code LTT22 to save $20 at: https://linustechtips.hetzner.com/en/cloud-usa-22\n\nA game developer for Google Stadia reached out and offered us a Stadia Dev Node! What secrets does it hold inside, how do you develop games for a dedicated cloud service, and what were they possible doing with this Radeon Pro V320 graphics card?\n\nDiscuss on the forum: https://linustechtips.com/topic/1472756-i%E2%80%99m-not-supposed-to-have-this/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: h…",
+          "link": "https://yewtu.be/watch?v=qgK38sg1ws4",
+          "publishedOn": "2022-12-08T19:33:03.000Z",
+          "wordCount": 980,
+          "title": "I’m NOT Supposed to Have This",
+          "imageUrl": "/vi/qgK38sg1ws4/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=W8snwlE93aE",
           "author": null,
@@ -764,16 +774,6 @@
           "wordCount": 1000,
           "title": "I couldn’t do my job without this.",
           "imageUrl": "/vi/232opnNPGNo/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=_IzyJTcnPu8",
-          "author": null,
-          "description": "Save 59% on a year of Bitdefender Premium Security at: https://lmg.gg/qMMV8\n\nDid you know that you can build your own router that can perform better than off-the-shelf products? It’s easier than you might think to build your own opnSense or pfSense router, and we’ll show you how!\n\nDiscuss on the forum: https://linustechtips.com/topic/1466389-your-router-sucks-build-your-own-instead-sponsored/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook…",
-          "link": "https://yewtu.be/watch?v=_IzyJTcnPu8",
-          "publishedOn": "2022-11-08T20:03:53.000Z",
-          "wordCount": 1035,
-          "title": "Your Router Sucks. Build Your Own Instead!",
-          "imageUrl": "/vi/_IzyJTcnPu8/maxres.jpg"
         }
       ]
     }
