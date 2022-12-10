@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375537",
+          "author": "Temani Afif",
+          "description": "In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …\nCSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/",
+          "publishedOn": "2022-12-09T14:26:39.000Z",
+          "wordCount": 3542,
+          "title": "CSS Infinite Slider Flipping Through Polaroid Images",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375537"
+        },
+        {
           "id": "https://css-tricks.com/?p=375697",
           "author": "Preethi",
           "description": "How often to do you reach for the CSS background-size property? If you’re like me — and probably lots of other front-end folks — then it’s usually when you background-size: cover an image to fill the space of an entire …\nAnimated Background Stripes That Transition on Hover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",

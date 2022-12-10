@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T01:03:12.942Z</updated>
+    <updated>2022-12-10T00:59:47.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Infinite Slider Flipping Through Polaroid Images]]></title>
+        <id>https://css-tricks.com/?p=375537</id>
+        <link href="https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/"/>
+        <updated>2022-12-09T14:26:39.000Z</updated>
+        <summary type="html"><![CDATA[In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …
+CSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’m NOT Supposed to Have This]]></title>
         <id>https://yewtu.be/watch?v=qgK38sg1ws4</id>
