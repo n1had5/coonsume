@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T01:08:18.588Z</updated>
+    <updated>2022-12-12T01:04:57.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I made my own RAM! - Micron Factory Tour]]></title>
+        <id>https://yewtu.be/watch?v=-EhDlXx3okU</id>
+        <link href="https://yewtu.be/watch?v=-EhDlXx3okU"/>
+        <updated>2022-12-11T18:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to Micron for sponsoring this video! Learn more about how Crucial by Micron can make upgrading your setup easy by checking them out at: http://crucial.gg/LTT
+
+Linus doesn't travel for projects often anymore, but when Micron invited him out to their 200,000 sq. ft. facilities in Boise, Idaho to make his own RAM from scratch, he knew that he had to go. Making RAM isn't easy, so sit back and take a look at how RAM goes from raw components to powering the device you're watching this on! 
+
+Discuss on the forum: https://linustechtips.com/topic/1473331-i-made-this-ram-you%E2%80%99ve-never-seen-before-micron-factory-tour-sponsored/
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCA…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Half-Price Gaming Cockpit]]></title>
         <id>https://yewtu.be/watch?v=Qqu3B97qb4w</id>
@@ -1190,58 +1209,6 @@ Buy an Apple Magic Mouse 2: https://geni.us/BUikcN
 Buy a Logitech MX Master 3S for Mac: https:/…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verified WAN Show - WAN Show November 11, 2022]]></title>
-        <id>https://yewtu.be/watch?v=hNXgJlPzkCQ</id>
-        <link href="https://yewtu.be/watch?v=hNXgJlPzkCQ"/>
-        <updated>2022-11-12T03:41:50.000Z</updated>
-        <summary type="html"><![CDATA[The first 200 people get 20% off their Brilliant annual premium subscription at https://www.brilliant.org/WAN/
-Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html
-Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off
-
-Podcast Download: TBD
-
-Timestamps: TBD]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This PC wasn't cleaned for 5 years...]]></title>
-        <id>https://yewtu.be/watch?v=EdyAdPXhxIw</id>
-        <link href="https://yewtu.be/watch?v=EdyAdPXhxIw"/>
-        <updated>2022-11-11T18:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Have a PC that's been building dust over several years? Canned Air might be the standard for PC cleaning, but there's a better way... 
-
-#SHORTS #pcgaming #pcbuilding #cleaning #gaming 
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-FOLLOW US 
----------------------------------------------------  
-Twitter: https://twitter.com/linustech
-Facebook: http://www.facebook.com/LinusTech
-Instagram: https://www.instagram.com/linustech
-TikTok: https://www.tiktok.com/@linustech
-Twitch: https://www.twitch.tv/linustech]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 3]]></title>
-        <id>https://css-tricks.com/?p=374826</id>
-        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-3/"/>
-        <updated>2022-11-11T14:42:04.000Z</updated>
-        <summary type="html"><![CDATA[After Part 1 and Part 2, I am back with a third article to explore more fancy shapes. Like the previous articles, we are going to combine CSS Grid with clipping and masking to create fancy layouts for image …
-CSS Grid and Custom Shapes, Part 3 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>

@@ -200,16 +200,6 @@
           "wordCount": 1355,
           "title": "Classy and Cool Custom CSS Scrollbars: A Showcase",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375019"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374826",
-          "author": "Temani Afif",
-          "description": "After Part 1 and Part 2, I am back with a third article to explore more fancy shapes. Like the previous articles, we are going to combine CSS Grid with clipping and masking to create fancy layouts for image …\nCSS Grid and Custom Shapes, Part 3 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-3/",
-          "publishedOn": "2022-11-11T14:42:04.000Z",
-          "wordCount": 3601,
-          "title": "CSS Grid and Custom Shapes, Part 3",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374826"
         }
       ]
     },
@@ -420,6 +410,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=-EhDlXx3okU",
+          "author": null,
+          "description": "Thanks to Micron for sponsoring this video! Learn more about how Crucial by Micron can make upgrading your setup easy by checking them out at: http://crucial.gg/LTT\n\nLinus doesn't travel for projects often anymore, but when Micron invited him out to their 200,000 sq. ft. facilities in Boise, Idaho to make his own RAM from scratch, he knew that he had to go. Making RAM isn't easy, so sit back and take a look at how RAM goes from raw components to powering the device you're watching this on! \n\nDiscuss on the forum: https://linustechtips.com/topic/1473331-i-made-this-ram-you%E2%80%99ve-never-seen-before-micron-factory-tour-sponsored/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCA…",
+          "link": "https://yewtu.be/watch?v=-EhDlXx3okU",
+          "publishedOn": "2022-12-11T18:00:19.000Z",
+          "wordCount": 1088,
+          "title": "I made my own RAM! - Micron Factory Tour",
+          "imageUrl": "/vi/-EhDlXx3okU/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=Qqu3B97qb4w",
           "author": null,
@@ -759,26 +759,6 @@
           "wordCount": 1149,
           "title": "Mac Users Deserve Better – 7 Unacceptable Problems with MacOS",
           "imageUrl": "/vi/uXu4TgKyth0/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=hNXgJlPzkCQ",
-          "author": null,
-          "description": "The first 200 people get 20% off their Brilliant annual premium subscription at https://www.brilliant.org/WAN/\nTry Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html\nVisit https://www.squarespace.com/WAN and use offer code WAN for 10% off\n\nPodcast Download: TBD\n\nTimestamps: TBD",
-          "link": "https://yewtu.be/watch?v=hNXgJlPzkCQ",
-          "publishedOn": "2022-11-12T03:41:50.000Z",
-          "wordCount": 725,
-          "title": "Verified WAN Show - WAN Show November 11, 2022",
-          "imageUrl": "/vi/hNXgJlPzkCQ/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=EdyAdPXhxIw",
-          "author": null,
-          "description": "Have a PC that's been building dust over several years? Canned Air might be the standard for PC cleaning, but there's a better way... \n\n#SHORTS #pcgaming #pcbuilding #cleaning #gaming \n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech",
-          "link": "https://yewtu.be/watch?v=EdyAdPXhxIw",
-          "publishedOn": "2022-11-11T18:00:06.000Z",
-          "wordCount": 716,
-          "title": "This PC wasn't cleaned for 5 years...",
-          "imageUrl": "/vi/EdyAdPXhxIw/maxres.jpg"
         }
       ]
     }
