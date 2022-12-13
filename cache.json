@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375722",
+          "author": "Geoff Graham",
+          "description": "Sara Soueidan with everything you need, from what screen reading options are out there all the way to setting up virtual machines for them, installing them, and confguring keyboard options. It’s truly a one-stop reference that pulls together disparate …\nSetting up a screen reader testing environment on your computer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/setting-up-a-screen-reader-testing-environment-on-your-computer/",
+          "publishedOn": "2022-12-12T20:56:58.000Z",
+          "wordCount": 807,
+          "title": "Setting up a screen reader testing environment on your computer",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375722"
+        },
+        {
+          "id": "https://css-tricks.com/?p=375577",
+          "author": "Manoj Kumar",
+          "description": "We’ve accomplished a bunch of stuff in this series! We created a custom WordPress block that fetches data from an external API and renders it on the front end. Then we took that work and extended it so the data …\nSaving Settings for a Custom WordPress Block in the Block Editor originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/saving-settings-for-a-custom-wordpress-block-in-the-block-editor/",
+          "publishedOn": "2022-12-12T14:06:39.000Z",
+          "wordCount": 1565,
+          "title": "Saving Settings for a Custom WordPress Block in the Block Editor",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375577"
+        },
+        {
           "id": "https://css-tricks.com/?p=375537",
           "author": "Temani Afif",
           "description": "In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …\nCSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -208,6 +228,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
+          "author": "hello@smashingmagazine.com (Keima Kai)",
+          "description": "In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.",
+          "link": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
+          "publishedOn": "2022-12-12T13:00:00.000Z",
+          "wordCount": 5849,
+          "title": "The Future Of Design: Human-Powered Or AI-Driven?",
+          "enclosure": {
+            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -410,6 +445,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=TBJ-vo6Ri9c",
+          "author": null,
+          "description": "Check out the MSI MAG Z790 TOMAHAWK WIFI Motherboard at https://geni.us/DPKSvO\n\nStart your FREE PDQ trial now! - https://lmg.gg/PDQOct\n\nAMD’s new RDNA3-based Radeon RX 7900 series GPUs are finally here to compete with Nvidia’s RTX 4080 and 4090! At a lower price point, can they live up to the hype?\n\nDiscuss on the forum: https://linustechtips.com/topic/1473515-this-video-will-not-age-well-amd-radeon-rx-7900-series-review/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://…",
+          "link": "https://yewtu.be/watch?v=TBJ-vo6Ri9c",
+          "publishedOn": "2022-12-12T14:00:00.000Z",
+          "wordCount": 1087,
+          "title": "This video will not age well... - AMD Radeon RX 7900 Series Review",
+          "imageUrl": "/vi/TBJ-vo6Ri9c/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=-EhDlXx3okU",
           "author": null,
@@ -749,16 +794,6 @@
           "wordCount": 1135,
           "title": "I Have to Pirate COLOURS Now??",
           "imageUrl": "/vi/qMWAY8Cdsz0/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=uXu4TgKyth0",
-          "author": null,
-          "description": "Try FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus\n\nTry Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html\n\nApple has a bigger presence at Linus Media Group than ever before: an increasing number of our staff are choosing their excellent M1 and M2 powered laptops as their work machine or use Macintosh systems at home. But this increased usage has led to more annoyances being discussed around the office… so we put together this list of some of the more noticeable omissions!\n\nDiscuss on the forum: https://linustechtips.com/topic/1467197-mac-users-deserve-better-%E2%80%93-7-unacceptable-problems-with-macos/\n\nBuy an Apple Magic Mouse 2: https://geni.us/BUikcN\nBuy a Logitech MX Master 3S for Mac: https:/…",
-          "link": "https://yewtu.be/watch?v=uXu4TgKyth0",
-          "publishedOn": "2022-11-12T18:00:25.000Z",
-          "wordCount": 1149,
-          "title": "Mac Users Deserve Better – 7 Unacceptable Problems with MacOS",
-          "imageUrl": "/vi/uXu4TgKyth0/maxres.jpg"
         }
       ]
     }

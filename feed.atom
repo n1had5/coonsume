@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T01:04:57.975Z</updated>
+    <updated>2022-12-13T01:07:12.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Setting up a screen reader testing environment on your computer]]></title>
+        <id>https://css-tricks.com/?p=375722</id>
+        <link href="https://css-tricks.com/setting-up-a-screen-reader-testing-environment-on-your-computer/"/>
+        <updated>2022-12-12T20:56:58.000Z</updated>
+        <summary type="html"><![CDATA[Sara Soueidan with everything you need, from what screen reading options are out there all the way to setting up virtual machines for them, installing them, and confguring keyboard options. It’s truly a one-stop reference that pulls together disparate …
+Setting up a screen reader testing environment on your computer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saving Settings for a Custom WordPress Block in the Block Editor]]></title>
+        <id>https://css-tricks.com/?p=375577</id>
+        <link href="https://css-tricks.com/saving-settings-for-a-custom-wordpress-block-in-the-block-editor/"/>
+        <updated>2022-12-12T14:06:39.000Z</updated>
+        <summary type="html"><![CDATA[We’ve accomplished a bunch of stuff in this series! We created a custom WordPress block that fetches data from an external API and renders it on the front end. Then we took that work and extended it so the data …
+Saving Settings for a Custom WordPress Block in the Block Editor originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Manoj Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This video will not age well... - AMD Radeon RX 7900 Series Review]]></title>
+        <id>https://yewtu.be/watch?v=TBJ-vo6Ri9c</id>
+        <link href="https://yewtu.be/watch?v=TBJ-vo6Ri9c"/>
+        <updated>2022-12-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out the MSI MAG Z790 TOMAHAWK WIFI Motherboard at https://geni.us/DPKSvO
+
+Start your FREE PDQ trial now! - https://lmg.gg/PDQOct
+
+AMD’s new RDNA3-based Radeon RX 7900 series GPUs are finally here to compete with Nvidia’s RTX 4080 and 4090! At a lower price point, can they live up to the hype?
+
+Discuss on the forum: https://linustechtips.com/topic/1473515-this-video-will-not-age-well-amd-radeon-rx-7900-series-review/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future Of Design: Human-Powered Or AI-Driven?]]></title>
+        <id>https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/</id>
+        <link href="https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/"/>
+        <updated>2022-12-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Keima Kai)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I made my own RAM! - Micron Factory Tour]]></title>
         <id>https://yewtu.be/watch?v=-EhDlXx3okU</id>
@@ -1188,25 +1248,6 @@ Purchases made through some store links may provide some compensation to Linus M
 
 FOLLOW US 
 --------------------------…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac Users Deserve Better – 7 Unacceptable Problems with MacOS]]></title>
-        <id>https://yewtu.be/watch?v=uXu4TgKyth0</id>
-        <link href="https://yewtu.be/watch?v=uXu4TgKyth0"/>
-        <updated>2022-11-12T18:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Try FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus
-
-Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html
-
-Apple has a bigger presence at Linus Media Group than ever before: an increasing number of our staff are choosing their excellent M1 and M2 powered laptops as their work machine or use Macintosh systems at home. But this increased usage has led to more annoyances being discussed around the office… so we put together this list of some of the more noticeable omissions!
-
-Discuss on the forum: https://linustechtips.com/topic/1467197-mac-users-deserve-better-%E2%80%93-7-unacceptable-problems-with-macos/
-
-Buy an Apple Magic Mouse 2: https://geni.us/BUikcN
-Buy a Logitech MX Master 3S for Mac: https:/…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
         </author>
