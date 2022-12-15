@@ -12,6 +12,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376201",
+          "author": "Geoff Graham",
+          "description": "Every so often, I find that the links I save to read later fall into natural groups or patterns that reveal common threads of interest. The past couple of weeks have produced a lot of thoughts about ChatGPT, an …\nSome Links on AI-Related Stuff originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-links-on-ai-related-stuff/",
+          "publishedOn": "2022-12-14T21:34:06.000Z",
+          "wordCount": 1292,
+          "title": "Some Links on AI-Related Stuff",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376201"
+        },
+        {
+          "id": "https://css-tricks.com/?p=375952",
+          "author": "Geoff Graham",
+          "description": "Suzy Naschansky from the HTMHell Advent Calendar:\n<h2 id=\"article1-heading\"All About Dragons</h2<pI like dragons. Blah blah blah blah blah.</p<p<a id=\"article1-read-more\" aria-labelledby=\"article1-read-more article1-heading\"Read more</a</p\nSee that aria-labelledby attribute? It chains two IDs from the …\nUnchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/",
+          "publishedOn": "2022-12-14T14:08:20.000Z",
+          "wordCount": 1173,
+          "title": "Unchain My Inaccessibly-Labelled Heart",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375952"
+        },
+        {
           "id": "https://css-tricks.com/?p=376229",
           "author": "Geoff Graham",
           "description": "We’ve got ourselves a real holiday treat! Join host Alex Trost from the Frontend Horse community for the Holiday Snowtacular 2022 this Friday, December 16.\nThere’s a lineup of 12 awesome speakers — including Chris Coyier, Cassidy Williams, Kevin …\nHoliday Snowtacular 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -230,16 +250,6 @@
           "wordCount": 2643,
           "title": "Behind the CSScenes, November 2022",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375066"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375019",
-          "author": "Saleh Mubashar",
-          "description": "In this article we will be diving into the world of scrollbars. I know, it doesn’t sound too glamorous, but trust me, a well-designed page goes hand-in-hand with a matching scrollbar. The old-fashioned chrome scrollbar just doesn’t fit in as …\nClassy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/classy-and-cool-custom-css-scrollbars-a-showcase/",
-          "publishedOn": "2022-11-14T13:54:26.000Z",
-          "wordCount": 1355,
-          "title": "Classy and Cool Custom CSS Scrollbars: A Showcase",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375019"
         }
       ]
     },
@@ -472,21 +482,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
-          "author": "hello@smashingmagazine.com (Cristian Díaz)",
-          "description": "In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.",
-          "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/",
-          "publishedOn": "2022-11-14T14:00:00.000Z",
-          "wordCount": 8427,
-          "title": "A Guide To Keyboard Accessibility: HTML And CSS (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg"
         }
       ]
     },
@@ -495,6 +490,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=4TwfM3s2Wdw",
+          "author": null,
+          "description": "Thanks to Supermicro for sponsoring this video! Check out Supermicro's H13 System Portfolio, powered by AMD EPYC™ 9004 Series Processors, at https://geni.us/q3l95Jp\n\nFun Fact: In a 2-socket server, you need 4 threads pegged at 100% to get 1% CPU utilization.\n\nAMD's new SP5 socket, and HUGE new Epyc Genoa CPUs are crazy! Using Supermicro's servers, we set a bunch of World Records on a bunch of benchmarks. Intel is gonna be sweating, unless their upcoming Sapphire Rapids platform can magically compete. Intel's Raptor Lake CPUs might win against Ryzen in the mainstream, it's a whole different story in the datacenter.\n\nDiscuss on the forum: https://linustechtips.com/topic/1473798-the-fastest-cpu-on-the-planet-again/\n\nPurchases made through some store links may provide some compensation to Linu…",
+          "link": "https://yewtu.be/watch?v=4TwfM3s2Wdw",
+          "publishedOn": "2022-12-14T17:59:30.000Z",
+          "wordCount": 1104,
+          "title": "The FASTEST CPU on the Planet... AGAIN",
+          "imageUrl": "/vi/4TwfM3s2Wdw/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=1BLU-tnFOXk",
           "author": null,
@@ -834,16 +839,6 @@
           "wordCount": 1029,
           "title": "We Found One Good Thing About the GeForce RTX 4080...",
           "imageUrl": "/vi/0CunGt3cQXc/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=kfaHJwcG2mg",
-          "author": null,
-          "description": "Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off\n\nCreate your build at https://www.buildredux.com/linus\n\nThe Hak5 Rubber Ducky is a dangerous hacking tool that disguises itself as an unassuming USB flash drive. It delivers payloads by injecting keystrokes while appearing to its host system as a regular old keyboard.\n\nDiscuss on the forum: https://linustechtips.com/topic/1467579-do-not-plug-this-into-anything-%E2%80%93-hak5-rubber-ducky/\n\nBuy the Hak5 Rubber Ducky here: https://shop.hak5.org/products/usb-rubber-ducky\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCA…",
-          "link": "https://yewtu.be/watch?v=kfaHJwcG2mg",
-          "publishedOn": "2022-11-14T18:38:51.000Z",
-          "wordCount": 995,
-          "title": "Do NOT Plug This Into Anything – Hak5 Rubber Ducky",
-          "imageUrl": "/vi/kfaHJwcG2mg/maxres.jpg"
         }
       ]
     }
