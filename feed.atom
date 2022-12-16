@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T01:04:05.346Z</updated>
+    <updated>2022-12-16T00:59:30.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can Your Monitor Do This? - Xeneon Flex Full Review]]></title>
+        <id>https://yewtu.be/watch?v=S0zpKHvEKXc</id>
+        <link href="https://yewtu.be/watch?v=S0zpKHvEKXc"/>
+        <updated>2022-12-15T18:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Communicative effectively with the right tone at work! Sign up for an account and get 20% off Grammarly Premium: https://grammarly.com/LTT
+
+SmartDeploy: Claim your FREE IT software (worth $580!) at https://lmg.gg/SDOct
+
+We've had bendable phones for a few years now, but flexible monitors and TVs have remained unobtainable until now. The Corsair Xeneon Flex is a 240Hz ultrawide OLED monitor, and while it's expensive, it offers a pretty cool trick that we didn't know we wanted until we tried it.
+
+Buy Corsair Xeneon Flex Monitor: https://geni.us/rsqQI
+
+Discuss on the forum: https://linustechtips.com/topic/1474207-i-am-not-breaking-this/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: ht…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So, you’d like to animate the display property]]></title>
+        <id>https://css-tricks.com/?p=375714</id>
+        <link href="https://css-tricks.com/so-youd-like-to-animate-the-display-property/"/>
+        <updated>2022-12-15T15:41:06.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.
+It’s a bit of a brain-twister to reason …
+So, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Prioritize User Security When Collecting Offline Data]]></title>
+        <id>https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/</id>
+        <link href="https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/"/>
+        <updated>2022-12-15T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Concerns over online privacy and security are nothing new. In this article, Suzanne Scacca explores how the right CSV importer can help businesses better prioritize user security.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Suzanne Scacca)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some Links on AI-Related Stuff]]></title>
         <id>https://css-tricks.com/?p=376201</id>
@@ -1248,43 +1293,6 @@ Finding Front-End Development Scholarships originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Noah Mashni and Mark Steadman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
-        <id>https://css-tricks.com/?p=375066</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-november-2022/"/>
-        <updated>2022-11-15T15:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …
-Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Found One Good Thing About the GeForce RTX 4080...]]></title>
-        <id>https://yewtu.be/watch?v=0CunGt3cQXc</id>
-        <link href="https://yewtu.be/watch?v=0CunGt3cQXc"/>
-        <updated>2022-11-15T13:59:59.000Z</updated>
-        <summary type="html"><![CDATA[Signup for Karma today and get $10 added to your account at: https://lpkarmanow.onelink.me/nSgX/Linusyt
-
-Check out Karma's mind-blowing commercial here: https://lpkarmanow.onelink.me/nSgX/Linuswatch
-
-Nvidia’s GeForce RTX 4080 is the latest Ada Lovelace GPU, but it’s got significantly less hardware than the bigger 4090. Can it deliver impressive gaming performance, or is it full of more hot air?
-
-Discuss on the forum: https://linustechtips.com/topic/1467746-nvidia-lied-in-a-good-way-rtx-4080-review/
-
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-
-FOLL…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
         </author>
     </entry>
 </feed>
