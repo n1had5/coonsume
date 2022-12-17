@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375621",
+          "author": "Temani Afif",
+          "description": "In this series, we’ve been making image sliders with nothing but HTML and CSS. The idea is that we can use the same markup but different CSS to get wildly different results, no matter how many images we toss …\nCSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-infinite-3d-sliders/",
+          "publishedOn": "2022-12-16T14:58:08.000Z",
+          "wordCount": 2796,
+          "title": "CSS Infinite 3D Sliders",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375621"
+        },
+        {
           "id": "https://css-tricks.com/?p=375714",
           "author": "Geoff Graham",
           "description": "The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.\nIt’s a bit of a brain-twister to reason …\nSo, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -230,26 +240,6 @@
           "wordCount": 2768,
           "title": "Creating a Settings UI for a Custom WordPress Block",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375098"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375385",
-          "author": "Haley Mills",
-          "description": "Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …\nDigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/",
-          "publishedOn": "2022-11-16T23:38:36.000Z",
-          "wordCount": 910,
-          "title": "DigitalOcean Welcomes Cloudways to the Family",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375385"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374792",
-          "author": "Geoff Graham",
-          "description": "I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …\nFinding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/finding-front-end-development-scholarships/",
-          "publishedOn": "2022-11-16T14:11:11.000Z",
-          "wordCount": 1598,
-          "title": "Finding Front-End Development Scholarships",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374792"
         }
       ]
     },
@@ -258,6 +248,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
+          "author": "hello@smashingmagazine.com (Ashish Bogawat)",
+          "description": "In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.",
+          "link": "https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/",
+          "publishedOn": "2022-12-16T10:00:00.000Z",
+          "wordCount": 5647,
+          "title": "Optimizing Your Design Workflow With Tools",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fea883cf-c97a-43dc-b537-bc2147183cde/optimizing-design-workflow-tools.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/",
           "author": "hello@smashingmagazine.com (Suzanne Scacca)",
@@ -467,36 +472,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
-          "author": "hello@smashingmagazine.com (Alba Silvente)",
-          "description": "In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.",
-          "link": "https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/",
-          "publishedOn": "2022-11-17T10:00:00.000Z",
-          "wordCount": 10808,
-          "title": "A Guide To Image Optimization On Jamstack Sites",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6a9dda06-3ade-4d24-8141-91d12660a174/guide-image-optimization-jamstack-sites.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
-          "author": "hello@smashingmagazine.com (Noah Mashni and Mark Steadman)",
-          "description": "In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.",
-          "link": "https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/",
-          "publishedOn": "2022-11-16T14:00:00.000Z",
-          "wordCount": 5489,
-          "title": "Using Automated Test Results To Improve Accessibility",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/610e188c-5a93-432a-a156-cd9f3a674e7e/automated-test-results-improve-accessibility.jpg"
         }
       ]
     },
@@ -505,6 +480,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=QFaejpKvghs",
+          "author": null,
+          "description": "Want to get more FPS without having to buy anything? Here are three ways you can squeeze more performance out of your current PC gaming rig, and you'll be surprised how easy they are!\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech",
+          "link": "https://yewtu.be/watch?v=QFaejpKvghs",
+          "publishedOn": "2022-12-16T18:30:16.000Z",
+          "wordCount": 759,
+          "title": "3 Ways to Boost Your FPS NOW!",
+          "imageUrl": "/vi/QFaejpKvghs/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=S0zpKHvEKXc",
           "author": null,
@@ -844,16 +829,6 @@
           "wordCount": 949,
           "title": "Being an Early Adopter SUCKS",
           "imageUrl": "/vi/k-6yc1dA--0/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=M0VddWcJDe8",
-          "author": null,
-          "description": "Check out what you can fix with iFixit at https://www.iFixit.com/LTT\n\nOur staff often get to be hands-on with the newest tech before most people have a chance to order it… but what about at home? What sort of tech do they splurge on for passion projects and hobbies? It’s time for another round of show and tell!\n\nDiscuss on the forum: https://linustechtips.com/topic/1468025-tech-show-and-tell-%E2%80%93-our-team%E2%80%99s-coolest-gear/\n\nBuy a Hario V60 Buono Kettle: https://geni.us/ebRBtK\nBuy a Bonavita Digital Kettle: https://geni.us/7lQsINR\nBuy a Hario Pour Over Set: https://geni.us/byAKSjF\nBuy a 1Zpresso JX-Pro Grinder: https://geni.us/SZaVg\nBuy a Timemore Coffee Scale: https://geni.us/l9T0Y\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET…",
-          "link": "https://yewtu.be/watch?v=M0VddWcJDe8",
-          "publishedOn": "2022-11-16T21:52:00.000Z",
-          "wordCount": 1086,
-          "title": "Tech Show and Tell – Our Team’s Coolest Gear!",
-          "imageUrl": "/vi/M0VddWcJDe8/maxres.jpg"
         }
       ]
     }

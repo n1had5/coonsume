@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T00:59:30.872Z</updated>
+    <updated>2022-12-17T00:57:48.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 Ways to Boost Your FPS NOW!]]></title>
+        <id>https://yewtu.be/watch?v=QFaejpKvghs</id>
+        <link href="https://yewtu.be/watch?v=QFaejpKvghs"/>
+        <updated>2022-12-16T18:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Want to get more FPS without having to buy anything? Here are three ways you can squeeze more performance out of your current PC gaming rig, and you'll be surprised how easy they are!
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Infinite 3D Sliders]]></title>
+        <id>https://css-tricks.com/?p=375621</id>
+        <link href="https://css-tricks.com/css-infinite-3d-sliders/"/>
+        <updated>2022-12-16T14:58:08.000Z</updated>
+        <summary type="html"><![CDATA[In this series, we’ve been making image sliders with nothing but HTML and CSS. The idea is that we can use the same markup but different CSS to get wildly different results, no matter how many images we toss …
+CSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing Your Design Workflow With Tools]]></title>
+        <id>https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/</id>
+        <link href="https://smashingmagazine.com/2022/12/optimizing-design-workflow-tools/"/>
+        <updated>2022-12-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ashish Bogawat shares some of his favorite ways how to boost productivity and do things faster, better, and probably more fun by using efficient tools and workflows.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ashish Bogawat)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can Your Monitor Do This? - Xeneon Flex Full Review]]></title>
         <id>https://yewtu.be/watch?v=S0zpKHvEKXc</id>
@@ -1228,71 +1272,6 @@ Purchases made through some store links may provide some compensation to Linus M
 Creating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Manoj Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Image Optimization On Jamstack Sites]]></title>
-        <id>https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/</id>
-        <link href="https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/"/>
-        <updated>2022-11-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alba Silvente)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigitalOcean Welcomes Cloudways to the Family]]></title>
-        <id>https://css-tricks.com/?p=375385</id>
-        <link href="https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/"/>
-        <updated>2022-11-16T23:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …
-DigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Haley Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Show and Tell – Our Team’s Coolest Gear!]]></title>
-        <id>https://yewtu.be/watch?v=M0VddWcJDe8</id>
-        <link href="https://yewtu.be/watch?v=M0VddWcJDe8"/>
-        <updated>2022-11-16T21:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Check out what you can fix with iFixit at https://www.iFixit.com/LTT
-
-Our staff often get to be hands-on with the newest tech before most people have a chance to order it… but what about at home? What sort of tech do they splurge on for passion projects and hobbies? It’s time for another round of show and tell!
-
-Discuss on the forum: https://linustechtips.com/topic/1468025-tech-show-and-tell-%E2%80%93-our-team%E2%80%99s-coolest-gear/
-
-Buy a Hario V60 Buono Kettle: https://geni.us/ebRBtK
-Buy a Bonavita Digital Kettle: https://geni.us/7lQsINR
-Buy a Hario Pour Over Set: https://geni.us/byAKSjF
-Buy a 1Zpresso JX-Pro Grinder: https://geni.us/SZaVg
-Buy a Timemore Coffee Scale: https://geni.us/l9T0Y
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding Front-End Development Scholarships]]></title>
-        <id>https://css-tricks.com/?p=374792</id>
-        <link href="https://css-tricks.com/finding-front-end-development-scholarships/"/>
-        <updated>2022-11-16T14:11:11.000Z</updated>
-        <summary type="html"><![CDATA[I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …
-Finding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Automated Test Results To Improve Accessibility]]></title>
-        <id>https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/</id>
-        <link href="https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/"/>
-        <updated>2022-11-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Noah Mashni and Mark Steadman)</name>
         </author>
     </entry>
 </feed>
