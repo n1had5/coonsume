@@ -230,16 +230,6 @@
           "wordCount": 1869,
           "title": "Making Static Noise From a Weird CSS Gradient Bug",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374993"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375098",
-          "author": "Manoj Kumar",
-          "description": "So far, we’ve covered how to work with data from an external API in a custom WordPress block. We walked through the process of fetching that data for use on the front end of a WordPress site, and how to …\nCreating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-a-settings-ui-for-a-custom-wordpress-block/",
-          "publishedOn": "2022-11-17T13:48:26.000Z",
-          "wordCount": 2768,
-          "title": "Creating a Settings UI for a Custom WordPress Block",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375098"
         }
       ]
     },
@@ -457,21 +447,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode we’re talking about User Journey Mapping. What is it, and how does it help us build better digital products? Vitaly talks to expert Stéphanie Walter to find out.",
-          "link": "https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/",
-          "publishedOn": "2022-11-18T07:00:00.000Z",
-          "wordCount": 10609,
-          "title": "Smashing Podcast Episode 54 With Stéphanie Walter: What Is User Journey Mapping?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e0de1b7-3f55-483d-a637-9c63e0f6864a/smashing-podcast-episode-54.png"
         }
       ]
     },
@@ -480,6 +455,26 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=VMXonRuD_zw",
+          "author": null,
+          "description": "🌏Get Exclusive NordSecurity deals here ➼ https://nordsecurity.com/linus All products are risk-free with Nord's 30-day money-back guarantee!✌\n\nThe Radeon RX 7900 XTX and XT are advanced graphics cards for gamers and creators for under $1000. Click on the link to learn more: https://www.amd.com/en/graphics/radeon-rx-graphics\n\nCheck out Hacksmith's video building the cooler!! - https://youtu.be/jsTcP_vTZuw\n\nThe Hacksmith are here and they want to subzero cool a computer using..... Fire??? Yes that is correct, by using liquid propane this computer should be wicked fast.\n\nDiscuss on the forum: https://linustechtips.com/topic/1474597-this-pc-is-cooled-byflames/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPO…",
+          "link": "https://yewtu.be/watch?v=VMXonRuD_zw",
+          "publishedOn": "2022-12-17T18:04:27.000Z",
+          "wordCount": 1040,
+          "title": "This PC is cooled by FLAMES - Hacksmith Collab",
+          "imageUrl": "/vi/VMXonRuD_zw/maxres.jpg"
+        },
+        {
+          "id": "https://yewtu.be/watch?v=Wx-9FZmT_0g",
+          "author": null,
+          "description": "Check out OVHcloud's deals going on right now and find the right solution for your needs at https://geni.us/OVHWANDec\nCheck out MSI's deals and special Holiday offers today at:\nhttps://msi.gm/3NzyMO3\nTry Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html\n\nCome to LTX 2023! Website: https://lmg.gg/ltx2023\n\nPodcast Download: TBD\n\nTimestamps: TBD",
+          "link": "https://yewtu.be/watch?v=Wx-9FZmT_0g",
+          "publishedOn": "2022-12-17T06:08:38.000Z",
+          "wordCount": 747,
+          "title": "YouTube Will Remove Your Comments And So Will I - WAN Show December 16, 2022",
+          "imageUrl": "/vi/Wx-9FZmT_0g/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=QFaejpKvghs",
           "author": null,
@@ -819,16 +814,6 @@
           "wordCount": 725,
           "title": "Never forget THIS when building a PC...",
           "imageUrl": "/vi/i8MVxsDL_FA/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=k-6yc1dA--0",
-          "author": null,
-          "description": "Amazon: https://amzn.to/3X3qaUb\nWebsite: https://bit.ly/3txiFqY\n\nhttps://www.msi.com/Graphics-Card/GeForce-RTX-4080-16GB-SUPRIM-X\n\nDell-Alienware JUST launched the AW3423DW earlier this year, so how could the $200-cheaper DWF refresh possibly be any different? We did some digging to find out, and you might be surprised by how much of a difference a few months can make when working with a new technology.\n\nDiscuss on the forum: https://linustechtips.com/topic/1468211-being-an-early-adopter-sucks/\n\nBuy an Alienware AW3423DW: https://lmg.gg/A3q28\n\nBuy an Alienware AW3423DWF: https://lmg.gg/4tQLc\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, …",
-          "link": "https://yewtu.be/watch?v=k-6yc1dA--0",
-          "publishedOn": "2022-11-17T19:18:44.000Z",
-          "wordCount": 949,
-          "title": "Being an Early Adopter SUCKS",
-          "imageUrl": "/vi/k-6yc1dA--0/maxres.jpg"
         }
       ]
     }

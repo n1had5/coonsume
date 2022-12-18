@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T00:57:48.476Z</updated>
+    <updated>2022-12-18T00:59:24.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This PC is cooled by FLAMES - Hacksmith Collab]]></title>
+        <id>https://yewtu.be/watch?v=VMXonRuD_zw</id>
+        <link href="https://yewtu.be/watch?v=VMXonRuD_zw"/>
+        <updated>2022-12-17T18:04:27.000Z</updated>
+        <summary type="html"><![CDATA[🌏Get Exclusive NordSecurity deals here ➼ https://nordsecurity.com/linus All products are risk-free with Nord's 30-day money-back guarantee!✌
+
+The Radeon RX 7900 XTX and XT are advanced graphics cards for gamers and creators for under $1000. Click on the link to learn more: https://www.amd.com/en/graphics/radeon-rx-graphics
+
+Check out Hacksmith's video building the cooler!! - https://youtu.be/jsTcP_vTZuw
+
+The Hacksmith are here and they want to subzero cool a computer using..... Fire??? Yes that is correct, by using liquid propane this computer should be wicked fast.
+
+Discuss on the forum: https://linustechtips.com/topic/1474597-this-pc-is-cooled-byflames/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPO…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Will Remove Your Comments And So Will I - WAN Show December 16, 2022]]></title>
+        <id>https://yewtu.be/watch?v=Wx-9FZmT_0g</id>
+        <link href="https://yewtu.be/watch?v=Wx-9FZmT_0g"/>
+        <updated>2022-12-17T06:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Check out OVHcloud's deals going on right now and find the right solution for your needs at https://geni.us/OVHWANDec
+Check out MSI's deals and special Holiday offers today at:
+https://msi.gm/3NzyMO3
+Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html
+
+Come to LTX 2023! Website: https://lmg.gg/ltx2023
+
+Podcast Download: TBD
+
+Timestamps: TBD]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Ways to Boost Your FPS NOW!]]></title>
         <id>https://yewtu.be/watch?v=QFaejpKvghs</id>
@@ -1224,54 +1266,6 @@ Twitch: https://www.twitch.tv/linustech]]></summary>
 Making Static Noise From a Weird CSS Gradient Bug originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 54 With Stéphanie Walter: What Is User Journey Mapping?]]></title>
-        <id>https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/</id>
-        <link href="https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/"/>
-        <updated>2022-11-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode we’re talking about User Journey Mapping. What is it, and how does it help us build better digital products? Vitaly talks to expert Stéphanie Walter to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Being an Early Adopter SUCKS]]></title>
-        <id>https://yewtu.be/watch?v=k-6yc1dA--0</id>
-        <link href="https://yewtu.be/watch?v=k-6yc1dA--0"/>
-        <updated>2022-11-17T19:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Amazon: https://amzn.to/3X3qaUb
-Website: https://bit.ly/3txiFqY
-
-https://www.msi.com/Graphics-Card/GeForce-RTX-4080-16GB-SUPRIM-X
-
-Dell-Alienware JUST launched the AW3423DW earlier this year, so how could the $200-cheaper DWF refresh possibly be any different? We did some digging to find out, and you might be surprised by how much of a difference a few months can make when working with a new technology.
-
-Discuss on the forum: https://linustechtips.com/topic/1468211-being-an-early-adopter-sucks/
-
-Buy an Alienware AW3423DW: https://lmg.gg/A3q28
-
-Buy an Alienware AW3423DWF: https://lmg.gg/4tQLc
-
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, …]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Settings UI for a Custom WordPress Block]]></title>
-        <id>https://css-tricks.com/?p=375098</id>
-        <link href="https://css-tricks.com/creating-a-settings-ui-for-a-custom-wordpress-block/"/>
-        <updated>2022-11-17T13:48:26.000Z</updated>
-        <summary type="html"><![CDATA[So far, we’ve covered how to work with data from an external API in a custom WordPress block. We walked through the process of fetching that data for use on the front end of a WordPress site, and how to …
-Creating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Manoj Kumar</name>
         </author>
     </entry>
 </feed>
