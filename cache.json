@@ -220,16 +220,6 @@
           "wordCount": 2164,
           "title": "Taming the Cascade With BEM and Modern CSS Selectors",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375144"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374993",
-          "author": "Temani Afif",
-          "description": "What I will be doing here is kind of an experiment to explore tricks that leverage a bug with the way CSS gradients handle sub-pixel rendering to create a static noise effect — like you might see on a TV with no signal.\nMaking Static Noise From a Weird CSS Gradient Bug originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/",
-          "publishedOn": "2022-11-18T13:55:24.000Z",
-          "wordCount": 1869,
-          "title": "Making Static Noise From a Weird CSS Gradient Bug",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374993"
         }
       ]
     },
@@ -455,6 +445,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=RRwDkyStFzY",
+          "author": null,
+          "description": "Make device repair a breeze with iFixit's FixMat at https://www.iFixit.com/LTT\n\nMake device repair a breeze with iFixit's FixMat at https://www.iFixit.com/LTT\n\nWe bought more counterfeit merch to see if things have gotten any better over the last couple of years. Now that we've launched more products, we're seeing more non-clothing items, but that doesn't mean they're any good.\n\nDiscuss on the forum: https://linustechtips.com/topic/1474764-the-worst-counterfeit-merch-ive-ever-seen/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n----------…",
+          "link": "https://yewtu.be/watch?v=RRwDkyStFzY",
+          "publishedOn": "2022-12-18T17:59:00.000Z",
+          "wordCount": 1002,
+          "title": "This is NOT Worth It - Unboxing Counterfeit Merch 2022",
+          "imageUrl": "/vi/RRwDkyStFzY/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=VMXonRuD_zw",
           "author": null,
@@ -794,26 +794,6 @@
           "wordCount": 987,
           "title": "Dell’s Proprietary laptop RAM is a GOOD thing - CAMM Explained",
           "imageUrl": "/vi/WXp4g-KzdAI/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=vKZXiQOO52I",
-          "author": null,
-          "description": "Get Zerto Disaster Recovery and Replication by OVHcloud free for 30 days at https://bit.ly/3OfTu5W\nVessi is giving away a pair of socks to the first 100 shoes sold using code SocksWanshow at https://Vessi.com/wanshow\nCheck out 45Drives Storage Solutions: https://lmg.gg/45DrivesWAN\n\nPodcast Download: TBD\n\nTimestamps: TBD",
-          "link": "https://yewtu.be/watch?v=vKZXiQOO52I",
-          "publishedOn": "2022-11-18T22:53:30.000Z",
-          "wordCount": 720,
-          "title": "We've Made Some Big Mistakes - WAN Show November 18, 2022",
-          "imageUrl": "/vi/vKZXiQOO52I/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=i8MVxsDL_FA",
-          "author": null,
-          "description": "Every PC builder talks about thermal paste, but is it really necessary? Well, it can help your CPU perform significantly better, and this is why...\n\n#pcbuilding #pcgaming #thermalpaste #cpucooler #techtips \n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech",
-          "link": "https://yewtu.be/watch?v=i8MVxsDL_FA",
-          "publishedOn": "2022-11-18T18:00:19.000Z",
-          "wordCount": 725,
-          "title": "Never forget THIS when building a PC...",
-          "imageUrl": "/vi/i8MVxsDL_FA/maxres.jpg"
         }
       ]
     }

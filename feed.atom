@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T00:59:24.553Z</updated>
+    <updated>2022-12-19T00:57:22.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This is NOT Worth It - Unboxing Counterfeit Merch 2022]]></title>
+        <id>https://yewtu.be/watch?v=RRwDkyStFzY</id>
+        <link href="https://yewtu.be/watch?v=RRwDkyStFzY"/>
+        <updated>2022-12-18T17:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Make device repair a breeze with iFixit's FixMat at https://www.iFixit.com/LTT
+
+Make device repair a breeze with iFixit's FixMat at https://www.iFixit.com/LTT
+
+We bought more counterfeit merch to see if things have gotten any better over the last couple of years. Now that we've launched more products, we're seeing more non-clothing items, but that doesn't mean they're any good.
+
+Discuss on the forum: https://linustechtips.com/topic/1474764-the-worst-counterfeit-merch-ive-ever-seen/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+----------…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This PC is cooled by FLAMES - Hacksmith Collab]]></title>
         <id>https://yewtu.be/watch?v=VMXonRuD_zw</id>
@@ -1214,58 +1241,6 @@ CHAPTERS
 10:50 - Outro]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We've Made Some Big Mistakes - WAN Show November 18, 2022]]></title>
-        <id>https://yewtu.be/watch?v=vKZXiQOO52I</id>
-        <link href="https://yewtu.be/watch?v=vKZXiQOO52I"/>
-        <updated>2022-11-18T22:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Get Zerto Disaster Recovery and Replication by OVHcloud free for 30 days at https://bit.ly/3OfTu5W
-Vessi is giving away a pair of socks to the first 100 shoes sold using code SocksWanshow at https://Vessi.com/wanshow
-Check out 45Drives Storage Solutions: https://lmg.gg/45DrivesWAN
-
-Podcast Download: TBD
-
-Timestamps: TBD]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never forget THIS when building a PC...]]></title>
-        <id>https://yewtu.be/watch?v=i8MVxsDL_FA</id>
-        <link href="https://yewtu.be/watch?v=i8MVxsDL_FA"/>
-        <updated>2022-11-18T18:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Every PC builder talks about thermal paste, but is it really necessary? Well, it can help your CPU perform significantly better, and this is why...
-
-#pcbuilding #pcgaming #thermalpaste #cpucooler #techtips 
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-FOLLOW US 
----------------------------------------------------  
-Twitter: https://twitter.com/linustech
-Facebook: http://www.facebook.com/LinusTech
-Instagram: https://www.instagram.com/linustech
-TikTok: https://www.tiktok.com/@linustech
-Twitch: https://www.twitch.tv/linustech]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Static Noise From a Weird CSS Gradient Bug]]></title>
-        <id>https://css-tricks.com/?p=374993</id>
-        <link href="https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/"/>
-        <updated>2022-11-18T13:55:24.000Z</updated>
-        <summary type="html"><![CDATA[What I will be doing here is kind of an experiment to explore tricks that leverage a bug with the way CSS gradients handle sub-pixel rendering to create a static noise effect — like you might see on a TV with no signal.
-Making Static Noise From a Weird CSS Gradient Bug originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>
