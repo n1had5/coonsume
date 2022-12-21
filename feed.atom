@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T01:01:03.506Z</updated>
+    <updated>2022-12-21T00:57:21.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tech Support Challenge: Linus vs. Jake!]]></title>
+        <id>https://yewtu.be/watch?v=jGT37X3H_MA</id>
+        <link href="https://yewtu.be/watch?v=jGT37X3H_MA"/>
+        <updated>2022-12-20T18:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to 3CX for sponsoring this video! You can learn more about their live chat at: https://www.3cx.com/live-chat/free/?src=ltt
+
+3CX is back again to sponsor yet another tech support video, but this time with a twist! Linus and Jake will go head to head to see who can resolve the most tickets. Who do you think will win?
+
+Discuss on the forum: https://linustechtips.com/topic/1475168-we-solve-your-tech-problems-head-to-head/
+
+Buy an Intel i7-6950X: https://geni.us/95RXnmx
+Buy a AMD 6900 XT: https://geni.us/wjj4
+Buy a GeForce RTX 3090: https://geni.us/uEDJA
+Buy a TP-Link SG105 Network Switch: https://geni.us/WMZX
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.c…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help choose the syntax for CSS Nesting]]></title>
+        <id>https://css-tricks.com/?p=376319</id>
+        <link href="https://css-tricks.com/help-choose-the-syntax-for-css-nesting/"/>
+        <updated>2022-12-20T16:04:54.000Z</updated>
+        <summary type="html"><![CDATA[CSS Nesting is making the rounds yet again. Remember earlier this year when Adam and Mia put three syntax options up for a vote? Those results were tallied and it wasn’t even even close.
+Now there’s another chance …
+Help choose the syntax for CSS Nesting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Accessibility And Usability Examples To Help Improve Your Designs]]></title>
+        <id>https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/</id>
+        <link href="https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/"/>
+        <updated>2022-12-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung is Hiding This Monitor’s Best Feature – Odyssey OLED G8]]></title>
         <id>https://yewtu.be/watch?v=PR-1tMih0fM</id>
@@ -1190,40 +1236,6 @@ Personally, I think …
 Taming the Cascade With BEM and Modern CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Liam Johnston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Keyboard Accessibility: JavaScript (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/</id>
-        <link href="https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/"/>
-        <updated>2022-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Bought HD Movies on Cassette Tape and They're AMAZING!]]></title>
-        <id>https://yewtu.be/watch?v=papQ8xQxizA</id>
-        <link href="https://yewtu.be/watch?v=papQ8xQxizA"/>
-        <updated>2022-11-20T17:59:48.000Z</updated>
-        <summary type="html"><![CDATA[Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!
-
-Check out ORIGIN PC’s New EVO Thin and Light Laptops here: https://bit.ly/3vtppXI
-
-DVHS was a flash in the pan in the early 2000s, bringing 1080i content to tape. Why did it fail, who bought these things, and most importantly was it even any good?
-
-Discuss on the forum: https://linustechtips.com/topic/1468854-we-bought-hd-movies-on-cassette-tape/
-
-Buy Denzel Washington’s The Hurricane on Blu-Ray: https://geni.us/3mjh0Fs
-
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376319",
+          "author": "Geoff Graham",
+          "description": "CSS Nesting is making the rounds yet again. Remember earlier this year when Adam and Mia put three syntax options up for a vote? Those results were tallied and it wasn’t even even close.\nNow there’s another chance …\nHelp choose the syntax for CSS Nesting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/help-choose-the-syntax-for-css-nesting/",
+          "publishedOn": "2022-12-20T16:04:54.000Z",
+          "wordCount": 835,
+          "title": "Help choose the syntax for CSS Nesting",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376319"
+        },
+        {
           "id": "https://css-tricks.com/?p=376297",
           "author": "Geoff Graham",
           "description": "Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.\nThe friction of uploading files has gotten …\nWordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -239,6 +249,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
+          "author": "hello@smashingmagazine.com (Thomas Bohm)",
+          "description": "In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.",
+          "link": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
+          "publishedOn": "2022-12-20T12:00:00.000Z",
+          "wordCount": 8297,
+          "title": "Useful Accessibility And Usability Examples To Help Improve Your Designs",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
           "author": "hello@smashingmagazine.com (Masha Shaposhnikova)",
           "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
@@ -447,21 +472,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
-          "author": "hello@smashingmagazine.com (Cristian Díaz)",
-          "description": "This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.",
-          "link": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
-          "publishedOn": "2022-11-21T10:00:00.000Z",
-          "wordCount": 8287,
-          "title": "A Guide To Keyboard Accessibility: JavaScript (Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a82e6cd4-ff56-4c9f-b2ba-dc9ce1403ccf/guide-keyboard-accessibility-javascript-part2.jpg"
         }
       ]
     },
@@ -470,6 +480,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=jGT37X3H_MA",
+          "author": null,
+          "description": "Thanks to 3CX for sponsoring this video! You can learn more about their live chat at: https://www.3cx.com/live-chat/free/?src=ltt\n\n3CX is back again to sponsor yet another tech support video, but this time with a twist! Linus and Jake will go head to head to see who can resolve the most tickets. Who do you think will win?\n\nDiscuss on the forum: https://linustechtips.com/topic/1475168-we-solve-your-tech-problems-head-to-head/\n\nBuy an Intel i7-6950X: https://geni.us/95RXnmx\nBuy a AMD 6900 XT: https://geni.us/wjj4\nBuy a GeForce RTX 3090: https://geni.us/uEDJA\nBuy a TP-Link SG105 Network Switch: https://geni.us/WMZX\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.c…",
+          "link": "https://yewtu.be/watch?v=jGT37X3H_MA",
+          "publishedOn": "2022-12-20T18:00:16.000Z",
+          "wordCount": 1078,
+          "title": "Tech Support Challenge: Linus vs. Jake!",
+          "imageUrl": "/vi/jGT37X3H_MA/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=PR-1tMih0fM",
           "author": null,
@@ -809,16 +829,6 @@
           "wordCount": 1207,
           "title": "We Built a PC for the Price of a Steam Deck!",
           "imageUrl": "/vi/qixXsJBmyd8/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=papQ8xQxizA",
-          "author": null,
-          "description": "Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!\n\nCheck out ORIGIN PC’s New EVO Thin and Light Laptops here: https://bit.ly/3vtppXI\n\nDVHS was a flash in the pan in the early 2000s, bringing 1080i content to tape. Why did it fail, who bought these things, and most importantly was it even any good?\n\nDiscuss on the forum: https://linustechtips.com/topic/1468854-we-bought-hd-movies-on-cassette-tape/\n\nBuy Denzel Washington’s The Hurricane on Blu-Ray: https://geni.us/3mjh0Fs\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg…",
-          "link": "https://yewtu.be/watch?v=papQ8xQxizA",
-          "publishedOn": "2022-11-20T17:59:48.000Z",
-          "wordCount": 1015,
-          "title": "We Bought HD Movies on Cassette Tape and They're AMAZING!",
-          "imageUrl": "/vi/papQ8xQxizA/maxres.jpg"
         }
       ]
     }
