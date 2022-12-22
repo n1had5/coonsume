@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375869",
+          "author": "Geoff Graham",
+          "description": "We’ve started making a tradition of rounding up the latest front-end research at the end of each year. We did it in 2020 and again in 2021. Reports are released throughout the year by a bunch of different companies …\n2022 Roundup of Web Research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/2022-roundup-of-web-research/",
+          "publishedOn": "2022-12-21T15:03:50.000Z",
+          "wordCount": 6054,
+          "title": "2022 Roundup of Web Research",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375869"
+        },
+        {
           "id": "https://css-tricks.com/?p=376319",
           "author": "Geoff Graham",
           "description": "CSS Nesting is making the rounds yet again. Remember earlier this year when Adam and Mia put three syntax options up for a vote? Those results were tallied and it wasn’t even even close.\nNow there’s another chance …\nHelp choose the syntax for CSS Nesting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -230,16 +240,6 @@
           "wordCount": 988,
           "title": "WordPress Developer Blog",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375599"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375144",
-          "author": "Liam Johnston",
-          "description": "BEM. Like seemingly all techniques in the world of front-end development, writing CSS in a BEM format can be polarizing. But it is – at least in my Twitter bubble – one of the better-liked CSS methodologies.\nPersonally, I think …\nTaming the Cascade With BEM and Modern CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/taming-the-cascade-with-bem-and-modern-css-selectors/",
-          "publishedOn": "2022-11-21T13:59:15.000Z",
-          "wordCount": 2164,
-          "title": "Taming the Cascade With BEM and Modern CSS Selectors",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375144"
         }
       ]
     },
@@ -480,6 +480,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=IYt8vjM0lq8",
+          "author": null,
+          "description": "Thanks to Intel for sponsoring this series! Buy an Intel i7 12700K: https://geni.us/QT2EN\n\nBuy an e-Project Mag B660 Tomahawk: https://geni.us/ydtUA3P\n\nBuy a ROG Strix Geforce RTX 3080 Eva Edition: https://geni.us/dqrwLsY\n\nBuy a ROG Thor 1000W Plat II Eva Edition: https://geni.us/Yvc51z\n\nGuy an MPG Gungnir 110R Eva Edition ATX Mid Tower: https://geni.us/29RsdA\n\nBuy a kit of Fury Beast 32gb DDR5 RAM: https://geni.us/yWLHN\n\nBuy a Crucial P5 Plus 2TB SSD: https://geni.us/LYO0O8o\n\nBuy an e-Project Mag Coreliquid c240: https://geni.us/DiQX\n\nBuy some Mackie CR3-XBT 3\" Monitors: https://geni.us/6tNRB7\n\nBuy a Rog Scabbard II Eva Mouse Pad: https://geni.us/8zHLkJ\n\nBuy a Sony A80J OLED TV: https://geni.us/gdphVrB\n\nPurchases made through some store links may provide some compensation to Linus Media G…",
+          "link": "https://yewtu.be/watch?v=IYt8vjM0lq8",
+          "publishedOn": "2022-12-21T18:00:17.000Z",
+          "wordCount": 1126,
+          "title": "His Money Management Skills Are VERY Questionable - Intel $5,000 Extreme Tech Upgrade",
+          "imageUrl": "/vi/IYt8vjM0lq8/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=jGT37X3H_MA",
           "author": null,
@@ -819,16 +829,6 @@
           "wordCount": 1030,
           "title": "We Downgraded our Computers – Switching to Intel Arc Pt. 1",
           "imageUrl": "/vi/5nI0AI8k8cU/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=qixXsJBmyd8",
-          "author": null,
-          "description": "Thanks Jackery for sponsoring today's video! \nSave up to $1,080 during their Black Friday Sales from Nov 24th to Nov 28th! Also, stay tuned for Jackery's Crazy Monday sweepstake with prizes worth $250,000 in total in Jackery Livestream on Nov 28th, 2:30PM PST! Every order placed during the Black Friday Sales will get a chance to win A TRAVEL TRAILER!\nAmazon: https://amzn.to/3X3qaUb\nWebsite: https://bit.ly/3txiFqY\n\nDiscuss on the forum: https://linustechtips.com/topic/1469063-is-building-a-pc-dumb-when-the-steam-deck-exists/\n\nBuy a GTX 1070: https://geni.us/Dmi3qN\nBuy an Intel Core i3 12100F: https://geni.us/c2hXr\nBuy a 256GB Steam Deck: https://lmg.gg/62oFY\nBuy an MSI PRO B660M-G mATX Motherboard: https://geni.us/gHNh\nBuy a kit of Silicon Power Gaming DDR4 16GB: https://geni.us/lnu7QS\nBuy …",
-          "link": "https://yewtu.be/watch?v=qixXsJBmyd8",
-          "publishedOn": "2022-11-21T17:59:14.000Z",
-          "wordCount": 1207,
-          "title": "We Built a PC for the Price of a Steam Deck!",
-          "imageUrl": "/vi/qixXsJBmyd8/maxres.jpg"
         }
       ]
     }
