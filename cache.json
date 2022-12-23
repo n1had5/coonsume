@@ -230,16 +230,6 @@
           "wordCount": 1075,
           "title": "Apple Messages & Color Contrast",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375343"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375599",
-          "author": "Geoff Graham",
-          "description": "Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:\nThe Make Core blog has a heavy \n…\nWordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wordpress-developer-blog/",
-          "publishedOn": "2022-11-22T18:36:12.000Z",
-          "wordCount": 988,
-          "title": "WordPress Developer Blog",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375599"
         }
       ]
     },
@@ -457,21 +447,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
-          "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
-          "publishedOn": "2022-11-22T16:00:00.000Z",
-          "wordCount": 5535,
-          "title": "Optimizing A Vue App",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg"
         }
       ]
     },
@@ -480,6 +455,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=kuTTAuUorsI",
+          "author": null,
+          "description": "A portion of this video is sponsored by HubSpot CRM. Learn more about HubSpot CRM at: https://clickhubspot.com/ocb\n\nHave you ever wondered what would happen if you asked AI to build you a gaming PC? No? Well, we did, and with ChatGPT it became a reality.\n\nDiscuss on the forum: https://linustechtips.com/topic/1475683-i-have-to-do-everything-this-ai-says/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n0:10 Introducing ChatGPT\n1:16 HubSpot\n1:28 Help me build a PC\n4:35 Prepping the motherboard\n5:46 ChatGPT gives us a CPU cooler\n8:23 HubSpot\n9:05 Installing storage\n11:15 ChatGPT has failed us\n13:10 Redemption\n16:22 Peripherals\n17:44 Conclusion",
+          "link": "https://yewtu.be/watch?v=kuTTAuUorsI",
+          "publishedOn": "2022-12-22T18:00:33.000Z",
+          "wordCount": 979,
+          "title": "I Have to Do Everything this AI Says",
+          "imageUrl": "/vi/kuTTAuUorsI/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=IYt8vjM0lq8",
           "author": null,
@@ -819,16 +804,6 @@
           "wordCount": 1172,
           "title": "I Bought the Two FASTEST CPUs... but I'm only keeping the winner",
           "imageUrl": "/vi/sF9MrFyEF5E/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=5nI0AI8k8cU",
-          "author": null,
-          "description": "Vessi is giving away a pair of socks of your choice to the first 100 shoes sold using code SocksLinusTechTips at http://Vessi.com/LinusTechTips\n\nGet Unlimited Data for $25/month at https://l.boostmobile.com/1hovqg\n\nFor the first time on this channel we're performing a downgrade.. so Linus and Luke can try Intel Arc!  \n\nDiscuss on the forum: https://linustechtips.com/topic/1469334-we-downgraded-our-computers-%E2%80%93-switching-to-intel-arc-pt-1/\n\nBuy an Intel Arc A770: https://geni.us/AChNbx\nBuy a Logitech G Cloud: https://geni.us/l6AJu\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST …",
-          "link": "https://yewtu.be/watch?v=5nI0AI8k8cU",
-          "publishedOn": "2022-11-22T19:12:48.000Z",
-          "wordCount": 1030,
-          "title": "We Downgraded our Computers – Switching to Intel Arc Pt. 1",
-          "imageUrl": "/vi/5nI0AI8k8cU/maxres.jpg"
         }
       ]
     }
