@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T00:59:06.027Z</updated>
+    <updated>2022-12-24T00:54:51.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Right Cooler for Your CPU]]></title>
+        <id>https://yewtu.be/watch?v=xu-0ByG0jJs</id>
+        <link href="https://yewtu.be/watch?v=xu-0ByG0jJs"/>
+        <updated>2022-12-23T20:30:04.000Z</updated>
+        <summary type="html"><![CDATA[Looking to build a new PC or thinking about swapping your cooling system for something else? Here are some of the benefits of AIO coolers, air coolers, and custom water loops!
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying CSS Logical Properties On Web Apps]]></title>
+        <id>https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/</id>
+        <link href="https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/"/>
+        <updated>2022-12-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nicolas Hoffmann)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Have to Do Everything this AI Says]]></title>
         <id>https://yewtu.be/watch?v=kuTTAuUorsI</id>
@@ -1191,73 +1224,6 @@ Purchases made through some store links may pro…]]></summary>
         <summary type="html"><![CDATA[In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Pearl Akpan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Goes on Behind the Scenes of the WAN Show?]]></title>
-        <id>https://yewtu.be/watch?v=0BHNeSQvhCQ</id>
-        <link href="https://yewtu.be/watch?v=0BHNeSQvhCQ"/>
-        <updated>2022-11-23T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thanks Insta360 for sponsoring this video! How does the WAN Show set work? Take a quick tour with Bell and the Insta360 Link. 
-
-Watch our full ShortCircuit video on the Insta360 Link or get one here: https://linktr.ee/linustech
-https://store.insta360.com/product/link?insrc=INRYAAB
-
-#shorts #wanshow #linustechtips #studiotour #settour
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-FOLLOW US 
----------------------------------------------------  
-Twitter: https://twitter.com/linustech
-Facebook: http://www.facebook.com/LinusTech
-Instagram: https://www.instagram.com/linustech
-TikTok: https://www.tiktok.com/@linustech
-Twitch: https://www.twitch.tv/linustech]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Bought the Two FASTEST CPUs... but I'm only keeping the winner]]></title>
-        <id>https://yewtu.be/watch?v=sF9MrFyEF5E</id>
-        <link href="https://yewtu.be/watch?v=sF9MrFyEF5E"/>
-        <updated>2022-11-23T18:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Check out MSI's holiday deals and the #TYMSI giveaway at https://msi.gm/3NzyMO3
-
-Try SimpleMDM FREE for 30 days on unlimited devices at https://lmg.gg/SimpleMDMSept
-
-Linus is going to upgrade to the next generation, but does he stick with AMD or has Intel clawed their way back on top? We built overkill computers for each team and drag raced them in his favorite games to determine the winner.
-
-Discuss on the forum: https://linustechtips.com/topic/1469551-i-need-a-new-cpu/
-
-Buy a Corsair 5000D Airflow Case: https://geni.us/PXITxIN
-
-Buy an H150i Elite Capellix 360mm AIO Cooler: https://geni.us/cAQEwrx
-
-Buy a Seasonic Prime TX-1300 PSU: https://geni.us/dqrj0hS
-
-Buy a Sabrent Rocket 4+ 8TB NVMe SSD: https://geni.us/AmCm
-
-Buy an RTX 4090 Founders Edition: https://geni.us/yxLdP
-
-Buy a Ryzen 9 795…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Messages & Color Contrast]]></title>
-        <id>https://css-tricks.com/?p=375343</id>
-        <link href="https://css-tricks.com/apple-messages-color-contrast/"/>
-        <updated>2022-11-23T14:25:03.000Z</updated>
-        <summary type="html"><![CDATA[Well, color me this! I was griping to myself last night about just how gosh dang hard it is to read text messages in Apple Messages. You know, not the blue bubbles that you get when messaging other iPhone users. …
-Apple Messages & Color Contrast originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
