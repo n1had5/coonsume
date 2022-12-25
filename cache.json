@@ -437,21 +437,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-          "author": "hello@smashingmagazine.com (Pearl Akpan)",
-          "description": "In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.",
-          "link": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
-          "publishedOn": "2022-11-24T16:00:00.000Z",
-          "wordCount": 7296,
-          "title": "Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc4a72f3-9b53-4aea-9948-b344efd2cf4a/document-object-model-geometry-guide.jpg"
         }
       ]
     },
@@ -460,6 +445,26 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=GgK1o5ytXr8",
+          "author": null,
+          "description": "Thanks VRLA Tech for sponsoring today's video! The 200 customers who use code LINUS can get $100 off their PC order!\nVRLA Tech Helios Gaming PC - https://geni.us/VRLAHelios\nVRLA Tech Workstations - https://lmg.gg/VLRAWorkstations \nVRLA Tech Gaming PCs - https://lmg.gg/VRLAGaming\n\nDiscuss on the forum: https://linustechtips.com/topic/1475931-tiktok-tech-tips-are-terrible/\n\nBuy a Can of 2X Spray Paint: https://geni.us/MSDkv\nBuy 99% Isopropyl Alcohol: https://geni.us/zna60\nBuy Purrell Hand Sanitizer: https://geni.us/hwdY\nBuy a Rainbow Film: https://geni.us/x4FxBX\nBuy Hand Warmers: https://geni.us/fSwldVv\nBuy an AirPods Holder Case: https://geni.us/bXZBCV\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US…",
+          "link": "https://yewtu.be/watch?v=GgK1o5ytXr8",
+          "publishedOn": "2022-12-24T18:00:04.000Z",
+          "wordCount": 1108,
+          "title": "TikTok Tech Tips are Terrible",
+          "imageUrl": "/vi/GgK1o5ytXr8/maxres.jpg"
+        },
+        {
+          "id": "https://yewtu.be/watch?v=TXsw_92Y2e0",
+          "author": null,
+          "description": "Get a Seasonic Prime TX-1600: https://geni.us/BvwnpCr\nTry Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html\nSave $25 with our offer code WANSHOW at https://vessi.com/WANSHOW\n\nCome to LTX 2023! Website: https://lmg.gg/ltx2023\n\nPodcast Download: TBD\n\nTimestamps: TBD",
+          "link": "https://yewtu.be/watch?v=TXsw_92Y2e0",
+          "publishedOn": "2022-12-24T08:20:37.000Z",
+          "wordCount": 691,
+          "title": "We Talked To A VP At Microsoft - WAN Show December 23, 2022",
+          "imageUrl": "/vi/TXsw_92Y2e0/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=xu-0ByG0jJs",
           "author": null,
@@ -789,16 +794,6 @@
           "wordCount": 794,
           "title": "here in my garage",
           "imageUrl": "/vi/9_6MA0IACi0/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=VDsfO2b6_Hc",
-          "author": null,
-          "description": "Shop Micro Center’s Black Friday Deals: https://micro.center/hku\nCheck out Micro Center’s PC Builder: https://micro.center/ctx\nSubmit your Build to Micro Center’s Build Showcase: https://micro.center/0fx\nVisit Micro Center’s Community Forum: https://micro.center/m2q\n\nJackery has amazing discounts up to $1080 OFF during Black Friday Sales from Nov 24th to Nov 28th!\nAmazon: https://amzn.to/3X3qaUb\nWebsite: https://bit.ly/3txiFqY\n\nMy rack-mounted gaming computers are putting out major HEAT into my mechanical room and I only have one way to cool this mess: water cooling the whole room using a PT Cruiser radiator in my backyard. It's not as stupid as it sounds!\n\nDiscuss on the forum: https://linustechtips.com/topic/1469785-water-cooling-my-house/\n\nPurchases made through some store links may pro…",
-          "link": "https://yewtu.be/watch?v=VDsfO2b6_Hc",
-          "publishedOn": "2022-11-24T18:04:00.000Z",
-          "wordCount": 1046,
-          "title": "Water Cooling My House",
-          "imageUrl": "/vi/VDsfO2b6_Hc/maxres.jpg"
         }
       ]
     }

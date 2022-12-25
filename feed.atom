@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T00:54:51.630Z</updated>
+    <updated>2022-12-25T01:02:25.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTok Tech Tips are Terrible]]></title>
+        <id>https://yewtu.be/watch?v=GgK1o5ytXr8</id>
+        <link href="https://yewtu.be/watch?v=GgK1o5ytXr8"/>
+        <updated>2022-12-24T18:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Thanks VRLA Tech for sponsoring today's video! The 200 customers who use code LINUS can get $100 off their PC order!
+VRLA Tech Helios Gaming PC - https://geni.us/VRLAHelios
+VRLA Tech Workstations - https://lmg.gg/VLRAWorkstations 
+VRLA Tech Gaming PCs - https://lmg.gg/VRLAGaming
+
+Discuss on the forum: https://linustechtips.com/topic/1475931-tiktok-tech-tips-are-terrible/
+
+Buy a Can of 2X Spray Paint: https://geni.us/MSDkv
+Buy 99% Isopropyl Alcohol: https://geni.us/zna60
+Buy Purrell Hand Sanitizer: https://geni.us/hwdY
+Buy a Rainbow Film: https://geni.us/x4FxBX
+Buy Hand Warmers: https://geni.us/fSwldVv
+Buy an AirPods Holder Case: https://geni.us/bXZBCV
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Talked To A VP At Microsoft - WAN Show December 23, 2022]]></title>
+        <id>https://yewtu.be/watch?v=TXsw_92Y2e0</id>
+        <link href="https://yewtu.be/watch?v=TXsw_92Y2e0"/>
+        <updated>2022-12-24T08:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Get a Seasonic Prime TX-1600: https://geni.us/BvwnpCr
+Try Zoho One free for 30 days with no credit card required here: https://www.zoho.com/one/lp/linus.html
+Save $25 with our offer code WANSHOW at https://vessi.com/WANSHOW
+
+Come to LTX 2023! Website: https://lmg.gg/ltx2023
+
+Podcast Download: TBD
+
+Timestamps: TBD]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Choose the Right Cooler for Your CPU]]></title>
         <id>https://yewtu.be/watch?v=xu-0ByG0jJs</id>
@@ -1191,39 +1236,6 @@ CHAPTERS
 0:00 Intro]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Water Cooling My House]]></title>
-        <id>https://yewtu.be/watch?v=VDsfO2b6_Hc</id>
-        <link href="https://yewtu.be/watch?v=VDsfO2b6_Hc"/>
-        <updated>2022-11-24T18:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Shop Micro Center’s Black Friday Deals: https://micro.center/hku
-Check out Micro Center’s PC Builder: https://micro.center/ctx
-Submit your Build to Micro Center’s Build Showcase: https://micro.center/0fx
-Visit Micro Center’s Community Forum: https://micro.center/m2q
-
-Jackery has amazing discounts up to $1080 OFF during Black Friday Sales from Nov 24th to Nov 28th!
-Amazon: https://amzn.to/3X3qaUb
-Website: https://bit.ly/3txiFqY
-
-My rack-mounted gaming computers are putting out major HEAT into my mechanical room and I only have one way to cool this mess: water cooling the whole room using a PT Cruiser radiator in my backyard. It's not as stupid as it sounds!
-
-Discuss on the forum: https://linustechtips.com/topic/1469785-water-cooling-my-house/
-
-Purchases made through some store links may pro…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide]]></title>
-        <id>https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/</id>
-        <link href="https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/"/>
-        <updated>2022-11-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Pearl Akpan)</name>
         </author>
     </entry>
 </feed>
