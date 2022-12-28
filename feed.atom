@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T01:00:02.156Z</updated>
+    <updated>2022-12-28T00:59:05.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This is a $20,000 Computer]]></title>
+        <id>https://yewtu.be/watch?v=_xh4k9fwgtc</id>
+        <link href="https://yewtu.be/watch?v=_xh4k9fwgtc"/>
+        <updated>2022-12-27T18:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Join us in War Thunder for FREE at https://playwt.link/joinltt
+Get an exclusive bonus using our link - thanks for supporting the channel!
+
+Our editors are used to editing off of a top-of-the-line NVMe-based network storage server, but when we travel for big events like CES, we don't have that luxury.... until now.
+
+Discuss on the forum: https://linustechtips.com/topic/1476840-this-is-a-20000-computer-the-portanas/
+
+Buy AMD Ryzen 7 5700X - https://geni.us/GwgwULs
+Buy NEMIX DDR4 ECC RAM - https://geni.us/hkE4S
+Buy ASRock X570D4U-2L2T - https://geni.us/0q8YR5y
+Buy INWIN Win CJ712 Case - https://geni.us/f9sojBs
+Buy Silverstone FX350-G PSU - https://geni.us/6YsS
+Buy Noctua NF-A8 Fans - https://geni.us/ANmg
+Buy Noctua NH-L9a Low Profile CPU Cooler - https://geni.us/BfjDq12
+Buy KIOXIA CM6-R NVMe …]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Command-Line Data Manipulation]]></title>
+        <id>https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/</id>
+        <link href="https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/"/>
+        <updated>2022-12-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alvin Bryan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Most Average PC 2022]]></title>
         <id>https://yewtu.be/watch?v=0U1oNI1lHIM</id>
@@ -1165,26 +1199,6 @@ Buy an…]]></summary>
 Newer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit told me to buy this – PTM7950 Thermal Pad]]></title>
-        <id>https://yewtu.be/watch?v=2BhKx0iQ4K8</id>
-        <link href="https://yewtu.be/watch?v=2BhKx0iQ4K8"/>
-        <updated>2022-11-27T18:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!
-
-PTM7950 looks like any other thermal paste that you might find pre-applied to a heatsink or squeeze out of a tube… only it’s not, because once this material gets above 45 degrees, it starts to MELT! But what does that actually mean the components you would use it on?
-
-Discuss on the forum: https://linustechtips.com/topic/1470425-reddit-told-me-to-buy-this-%E2%80%93-ptm7950-thermal-pad/
-
-Buy Noctua NT-H2 Thermal Compound: https://geni.us/ILGpc
-Buy Thermal Grizzly Conductonaut Liquid Metal: https://geni.us/t4QPe0
-Buy IC Graphite Thermal Pad: https://geni.us/ofvCl
-Buy Honeywell PTM7950 from modDIY: https://lmg.gg/iBCQ1
-Purchases made through some store lin…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
         </author>
     </entry>
 </feed>

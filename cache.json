@@ -229,6 +229,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
+          "author": "hello@smashingmagazine.com (Alvin Bryan)",
+          "description": "No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.",
+          "link": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
+          "publishedOn": "2022-12-27T11:00:00.000Z",
+          "wordCount": 4880,
+          "title": "A Guide To Command-Line Data Manipulation",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9865d051-a600-4de7-a961-8b39a9226757/guide-command-line-data-manipulation-cli-miller.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/",
           "author": "hello@smashingmagazine.com (Nicolas Hoffmann)",
           "description": "You may have already heard of CSS logical properties or RTL adaptations but are still deciding whether to deploy them widely. To help raise your awareness of their possibilities, Nicolas Hoffmann shares his experience of how he and his team at Proton carried out a massive move from CSS logical props to production and how you can consider them from a different perspective in your very own projects.",
@@ -445,6 +460,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=_xh4k9fwgtc",
+          "author": null,
+          "description": "Join us in War Thunder for FREE at https://playwt.link/joinltt\nGet an exclusive bonus using our link - thanks for supporting the channel!\n\nOur editors are used to editing off of a top-of-the-line NVMe-based network storage server, but when we travel for big events like CES, we don't have that luxury.... until now.\n\nDiscuss on the forum: https://linustechtips.com/topic/1476840-this-is-a-20000-computer-the-portanas/\n\nBuy AMD Ryzen 7 5700X - https://geni.us/GwgwULs\nBuy NEMIX DDR4 ECC RAM - https://geni.us/hkE4S\nBuy ASRock X570D4U-2L2T - https://geni.us/0q8YR5y\nBuy INWIN Win CJ712 Case - https://geni.us/f9sojBs\nBuy Silverstone FX350-G PSU - https://geni.us/6YsS\nBuy Noctua NF-A8 Fans - https://geni.us/ANmg\nBuy Noctua NH-L9a Low Profile CPU Cooler - https://geni.us/BfjDq12\nBuy KIOXIA CM6-R NVMe …",
+          "link": "https://yewtu.be/watch?v=_xh4k9fwgtc",
+          "publishedOn": "2022-12-27T18:00:10.000Z",
+          "wordCount": 1075,
+          "title": "This is a $20,000 Computer",
+          "imageUrl": "/vi/_xh4k9fwgtc/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=0U1oNI1lHIM",
           "author": null,
@@ -764,16 +789,6 @@
           "wordCount": 1186,
           "title": "They sent this for a sponsorship. I reviewed it instead lol – Logitech G Cloud",
           "imageUrl": "/vi/tdhNpxyQLGo/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=2BhKx0iQ4K8",
-          "author": null,
-          "description": "Join us in War Thunder for FREE at https://playwt.link/joinltt Get an exclusive bonus using our link - thanks for supporting the channel!\n\nPTM7950 looks like any other thermal paste that you might find pre-applied to a heatsink or squeeze out of a tube… only it’s not, because once this material gets above 45 degrees, it starts to MELT! But what does that actually mean the components you would use it on?\n\nDiscuss on the forum: https://linustechtips.com/topic/1470425-reddit-told-me-to-buy-this-%E2%80%93-ptm7950-thermal-pad/\n\nBuy Noctua NT-H2 Thermal Compound: https://geni.us/ILGpc\nBuy Thermal Grizzly Conductonaut Liquid Metal: https://geni.us/t4QPe0\nBuy IC Graphite Thermal Pad: https://geni.us/ofvCl\nBuy Honeywell PTM7950 from modDIY: https://lmg.gg/iBCQ1\nPurchases made through some store lin…",
-          "link": "https://yewtu.be/watch?v=2BhKx0iQ4K8",
-          "publishedOn": "2022-11-27T18:00:20.000Z",
-          "wordCount": 1101,
-          "title": "Reddit told me to buy this – PTM7950 Thermal Pad",
-          "imageUrl": "/vi/2BhKx0iQ4K8/maxres.jpg"
         }
       ]
     }
