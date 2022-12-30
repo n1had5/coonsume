@@ -210,16 +210,6 @@
           "wordCount": 2774,
           "title": "Using The New Constrained Layout In WordPress Block Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375278"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375190",
-          "author": "Geoff Graham",
-          "description": "I’m a sucker for anything about front-end job titles.\nAnselm Hannemann:\nCSS evolved and we’re beyond the point where everyone can just do it as a side interest. We all can learn it and build amazing stuff with it, \n…\nMore Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/more-than-slapping-paint-on-a-website/",
-          "publishedOn": "2022-11-29T15:03:20.000Z",
-          "wordCount": 1078,
-          "title": "More Than “Slapping Paint on a Website”",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375190"
         }
       ]
     },
@@ -228,6 +218,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/",
+          "author": "hello@smashingmagazine.com (Paul Matvienko)",
+          "description": "Space is one of the core elements in design that is often overlooked. Proper spatial organization helps to achieve consistency between screens, pages, or even products. It also creates visual rhythm, limits decision-making, and helps to achieve better readability and scannability. In this guide, Paul Matvienko discusses the basics of defining a spatial system.",
+          "link": "https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/",
+          "publishedOn": "2022-12-29T13:00:00.000Z",
+          "wordCount": 4978,
+          "title": "An Ultimate Guide On Sizing, Spacing, Grids And Layout In Web And UI/UX Design",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/492d4955-5970-4ea0-ae9a-10414d7afad2/guide-sizing-spacing-grids-layout-web-ui-ux-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/492d4955-5970-4ea0-ae9a-10414d7afad2/guide-sizing-spacing-grids-layout-web-ui-ux-design.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/",
           "author": "hello@smashingmagazine.com (Alvin Bryan)",
@@ -437,21 +442,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.",
-          "link": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
-          "publishedOn": "2022-11-30T11:15:00.000Z",
-          "wordCount": 5139,
-          "title": "Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png"
         }
       ]
     },
@@ -460,6 +450,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=JIfPIgwpJSg",
+          "author": null,
+          "description": "Thanks to EcoFlow for sponsoring this video! Check out their power kits at: https://us.ecoflow.com/?aff=620\n\nThese days, it’s possible to game almost anywhere if you are willing to make some compromises. But what if you’re not? What if you want high end hardware everywhere you go? In this episode of the ultimate gaming minivan, we set our van up to accommodate the PCs!\n\nDiscuss on the forum: https://linustechtips.com/topic/1477361-the-ultimate-gaming-minivan-part-1-sponsored/\n\nBuy an AMD EPYC 7543P: https://geni.us/B6nWs9\n\nBuy a kit of 256GB RAM 3200 (8x32): https://geni.us/52Hm\n\nBuy an ASUS TUF RTX 3080 Ti: https://geni.us/lMKg\n\nBuy an ASRock REMED8-2T Motherboard: https://geni.us/Yal9EZ1\n\nBuy a Corsair AX1600i PSU: https://geni.us/6jLCN3W\n\nBuy a 2TB 970 Evo Plus SSD: https://geni.us/3tcK…",
+          "link": "https://yewtu.be/watch?v=JIfPIgwpJSg",
+          "publishedOn": "2022-12-29T18:00:15.000Z",
+          "wordCount": 1062,
+          "title": "The Ultimate Gaming Minivan - Part 1",
+          "imageUrl": "/vi/JIfPIgwpJSg/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=b0vy1VzFbf8",
           "author": null,
@@ -779,16 +779,6 @@
           "wordCount": 1125,
           "title": "USB4 is a Glorious Mess",
           "imageUrl": "/vi/C6aCCp-Umcw/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=xfv6xX0kLLY",
-          "author": null,
-          "description": "Check out Secret Lab at https://lmg.gg/SecretLabLTT\n\nSmartDeploy: Claim your FREE IT software (worth $580!) at https://lmg.gg/SDOct\n\nPart 1 of Switching to Intel Arc ended up being almost entirely hardware-related, and Luke has a lot of complaints on the software side of things only one week into the 30-day challenge. Intel usually makes software that works, just how bad could Arc Control be?\n\nDiscuss on the forum: https://linustechtips.com/topic/1470904-we-forgot-about-luke-switching-to-intel-arc-pt-2/\n\nBuy an Intel Arc a770: https://geni.us/rhzygCx\n\nBuy an Intel Arc a750: https://geni.us/thR3r\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIAT…",
-          "link": "https://yewtu.be/watch?v=xfv6xX0kLLY",
-          "publishedOn": "2022-11-29T19:31:41.000Z",
-          "wordCount": 1048,
-          "title": "We Forgot About Luke - Switching to Intel Arc Pt. 2",
-          "imageUrl": "/vi/xfv6xX0kLLY/maxres.jpg"
         }
       ]
     }
