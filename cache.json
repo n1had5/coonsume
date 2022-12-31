@@ -200,16 +200,6 @@
           "wordCount": 2245,
           "title": "Digging Deeper Into Container Style Queries",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375607"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375278",
-          "author": "Ganesh Dahal",
-          "description": "One of the main goals of the WordPress Site Editor (and, yes, that is now the “official” name) is to move basic block styling from CSS to structured JSON. JSON files are machine-readable, which makes it consumable by …\nUsing The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-the-new-constrained-layout-in-wordpress-block-themes/",
-          "publishedOn": "2022-11-30T14:11:10.000Z",
-          "wordCount": 2774,
-          "title": "Using The New Constrained Layout In WordPress Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375278"
         }
       ]
     },
@@ -218,6 +208,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
+          "author": "hello@smashingmagazine.com (Ruslan Yevych)",
+          "description": "In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.",
+          "link": "https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/",
+          "publishedOn": "2022-12-30T15:00:00.000Z",
+          "wordCount": 4672,
+          "title": "Fluid Typography: Predicting A Problem With Your User’s Zoom-In",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e896f9f1-7437-48c5-9481-483ae087a622/fluid-typography-predict-problem-users-zoom-in.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/",
           "author": "hello@smashingmagazine.com (Paul Matvienko)",
@@ -427,21 +432,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
-          "author": "hello@smashingmagazine.com (Fabienne Bielmann)",
-          "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
-          "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
-          "publishedOn": "2022-12-01T09:00:00.000Z",
-          "wordCount": 4976,
-          "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg"
         }
       ]
     },
@@ -769,16 +759,6 @@
           "wordCount": 1088,
           "title": "I’m Embarrassed I Didn’t Think of This.. - Asynchronous Reprojection",
           "imageUrl": "/vi/IvqrlgKuowE/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=C6aCCp-Umcw",
-          "author": null,
-          "description": "Thanks to ORIGIN PC for sponsoring this video! Check out the VOYAGER – ORIGIN Edition at https://bit.ly/3PNcvfr\n\nUSB has never been easy to understand, and USB4 is no exception. How compatible is it with Thunderbolt 3? What about Thunderbolt 4? What cables can and can’t be used? Is a USB4 cable interchangeable with a Thunderbolt 4 cable?\n\nBuy a CalDigit TB4/USB4 Element Hub: https://geni.us/P2wVa\n\nBuy a CalDigit TS3: https://geni.us/OlDKmxA\n\nBuy a CalDigit TS4: https://geni.us/Uqke\n\nBuy a CalDigit Connect 10G: https://geni.us/T83obF6\n\nBuy a Sabrent M.2 NVMe Thunderbolt 3 Enclosure: https://geni.us/HobsT\n\nBuy a Satechi USB4 Multiport Adapter: https://geni.us/tpH7\n\nBuy Infinite Cables USB4 240W Cable: https://geni.us/SHl39Ky\n\nDiscuss on the forum: https://linustechtips.com/topic/1471105-usb4…",
-          "link": "https://yewtu.be/watch?v=C6aCCp-Umcw",
-          "publishedOn": "2022-11-30T18:00:17.000Z",
-          "wordCount": 1125,
-          "title": "USB4 is a Glorious Mess",
-          "imageUrl": "/vi/C6aCCp-Umcw/maxres.jpg"
         }
       ]
     }
