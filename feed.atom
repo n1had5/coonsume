@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T01:09:22.053Z</updated>
+    <updated>2023-01-02T01:00:49.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brown Star for Effort – This AliExpress Gaming Laptop is HILARIOUS]]></title>
+        <id>https://yewtu.be/watch?v=Um0l6ZSxfTE</id>
+        <link href="https://yewtu.be/watch?v=Um0l6ZSxfTE"/>
+        <updated>2023-01-01T18:15:11.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to MANSCAPED for sponsoring the video! Get 20% OFF + Free Shipping at https://www.manscaped.com/TECH
+
+Check out Bitdefender Premium Security at: https://lmg.gg/RdE52
+
+From the far shores of AliExpress comes another strange and confusing product – there are other gaming laptops with mechanical keyboards, but none are quite like this one! Let’s take a look at some of its more unique features.
+
+Discuss on the forum: https://linustechtips.com/topic/1478029-brown-star-for-effort-%E2%80%93-this-aliexpress-gaming-laptop-is-hilarious/
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+--------------------------------------------------…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This PC Will Break YouTube]]></title>
         <id>https://yewtu.be/watch?v=pdsy1F5dqTU</id>
@@ -1169,35 +1194,6 @@ FOLLOW US
 ----------------------------…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Do I Keep Getting Called Out - WAN Show December 2, 2022]]></title>
-        <id>https://yewtu.be/watch?v=Luz82RG5PqA</id>
-        <link href="https://yewtu.be/watch?v=Luz82RG5PqA"/>
-        <updated>2022-12-03T04:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off
-Check out Newegg at https://newegg.io/linustt2022
-Start building your credit with debit today at https://www.extra.app/wanshow
-
-Extra is a technology company. The Extra Debit Card is issued by Evolve Bank & Trust, Member FDIC, pursuant to a license from Mastercard USA. Extra reports on time and late payments, which may negatively impact your credit score. Credit scores are independently determined by credit bureaus based on a number of factors, including your other financial transactions. Extra reports to Experian® and Equifax®. Please refer to extra.app/policies for additional details.
-
-Podcast Download: TBD
-
-Timestamps: TBD]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Infinite and Circular Rotating Image Slider]]></title>
-        <id>https://css-tricks.com/?p=375308</id>
-        <link href="https://css-tricks.com/css-only-infinite-and-circular-image-slider/"/>
-        <updated>2022-12-02T14:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Image sliders (also called carousels) are everywhere. There are a lot of CSS tricks to create the common slider where the images slide from left to right (or the opposite). It’s the same deal with the many JavaScript libraries out …
-CSS Infinite and Circular Rotating Image Slider originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>

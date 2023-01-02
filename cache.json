@@ -180,16 +180,6 @@
           "wordCount": 1667,
           "title": "Does WWW still belong in URLs?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375184"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375308",
-          "author": "Temani Afif",
-          "description": "Image sliders (also called carousels) are everywhere. There are a lot of CSS tricks to create the common slider where the images slide from left to right (or the opposite). It’s the same deal with the many JavaScript libraries out …\nCSS Infinite and Circular Rotating Image Slider originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-only-infinite-and-circular-image-slider/",
-          "publishedOn": "2022-12-02T14:12:57.000Z",
-          "wordCount": 2394,
-          "title": "CSS Infinite and Circular Rotating Image Slider",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375308"
         }
       ]
     },
@@ -430,6 +420,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=Um0l6ZSxfTE",
+          "author": null,
+          "description": "Thanks to MANSCAPED for sponsoring the video! Get 20% OFF + Free Shipping at https://www.manscaped.com/TECH\n\nCheck out Bitdefender Premium Security at: https://lmg.gg/RdE52\n\nFrom the far shores of AliExpress comes another strange and confusing product – there are other gaming laptops with mechanical keyboards, but none are quite like this one! Let’s take a look at some of its more unique features.\n\nDiscuss on the forum: https://linustechtips.com/topic/1478029-brown-star-for-effort-%E2%80%93-this-aliexpress-gaming-laptop-is-hilarious/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n--------------------------------------------------…",
+          "link": "https://yewtu.be/watch?v=Um0l6ZSxfTE",
+          "publishedOn": "2023-01-01T18:15:11.000Z",
+          "wordCount": 1034,
+          "title": "Brown Star for Effort – This AliExpress Gaming Laptop is HILARIOUS",
+          "imageUrl": "/vi/Um0l6ZSxfTE/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=pdsy1F5dqTU",
           "author": null,
@@ -749,16 +749,6 @@
           "wordCount": 1024,
           "title": "Microsoft is Forcing me to Buy MacBooks - Windows Modern Standby",
           "imageUrl": "/vi/OHKKcd3sx2c/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=Luz82RG5PqA",
-          "author": null,
-          "description": "Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off\nCheck out Newegg at https://newegg.io/linustt2022\nStart building your credit with debit today at https://www.extra.app/wanshow\n\nExtra is a technology company. The Extra Debit Card is issued by Evolve Bank & Trust, Member FDIC, pursuant to a license from Mastercard USA. Extra reports on time and late payments, which may negatively impact your credit score. Credit scores are independently determined by credit bureaus based on a number of factors, including your other financial transactions. Extra reports to Experian® and Equifax®. Please refer to extra.app/policies for additional details.\n\nPodcast Download: TBD\n\nTimestamps: TBD",
-          "link": "https://yewtu.be/watch?v=Luz82RG5PqA",
-          "publishedOn": "2022-12-03T04:31:48.000Z",
-          "wordCount": 836,
-          "title": "Why Do I Keep Getting Called Out - WAN Show December 2, 2022",
-          "imageUrl": "/vi/Luz82RG5PqA/maxres.jpg"
         }
       ]
     }
