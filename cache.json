@@ -189,6 +189,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/usability-2023/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
+          "link": "https://smashingmagazine.com/2023/01/usability-2023/",
+          "publishedOn": "2023-01-02T09:00:00.000Z",
+          "wordCount": 3541,
+          "title": "The State Of Usability In 2023 🎊",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/12/desktop-wallpaper-calendars-january-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2023!",
@@ -420,6 +435,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=_cLsK2YZwDU",
+          "author": null,
+          "description": "Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off\n\nCheck out SignalRGB and sync all your RGB peripherals at https://bit.ly/LinusRGBTips\n\nWhy use HDMI and DisplayPort when you can go WIRELESS? This GPU technology existed over 10 years ago, but no one has used it since. Is it a hidden gem, or is there a reason it died on the vine?\n\nDiscuss on the forum: https://linustechtips.com/topic/1478291-this-gpu-is-wireless/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwit…",
+          "link": "https://yewtu.be/watch?v=_cLsK2YZwDU",
+          "publishedOn": "2023-01-02T20:16:01.000Z",
+          "wordCount": 1043,
+          "title": "This GPU is WIRELESS?!",
+          "imageUrl": "/vi/_cLsK2YZwDU/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=Um0l6ZSxfTE",
           "author": null,
@@ -739,16 +764,6 @@
           "wordCount": 1031,
           "title": "It Took MONTHS to Solve This WiFi Problem… but I DID!",
           "imageUrl": "/vi/f-dGcs6bb5U/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=OHKKcd3sx2c",
-          "author": null,
-          "description": "Vessi is giving away a pair of socks of your choice to the first 100 shoes sold using code SocksLinusTechTips at http://Vessi.com/LinusTechTips\n\nCreate your build at https://www.buildredux.com/linus\n\nFor the last THREE years Windows laptops have been plagued by terrible battery drain while the user ISN'T EVEN DOING ANYTHING. It's gotten to the point where we can't recommend using a Windows laptop because of Windows Modern Standby.\n\nDiscuss on the forum: https://linustechtips.com/topic/1471711-microsoft-is-forcing-me-to-buy-macbooks-windows-modern-standby/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n----------------------------…",
-          "link": "https://yewtu.be/watch?v=OHKKcd3sx2c",
-          "publishedOn": "2022-12-03T18:33:14.000Z",
-          "wordCount": 1024,
-          "title": "Microsoft is Forcing me to Buy MacBooks - Windows Modern Standby",
-          "imageUrl": "/vi/OHKKcd3sx2c/maxres.jpg"
         }
       ]
     }

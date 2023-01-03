@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T01:00:49.059Z</updated>
+    <updated>2023-01-03T00:59:30.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This GPU is WIRELESS?!]]></title>
+        <id>https://yewtu.be/watch?v=_cLsK2YZwDU</id>
+        <link href="https://yewtu.be/watch?v=_cLsK2YZwDU"/>
+        <updated>2023-01-02T20:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off
+
+Check out SignalRGB and sync all your RGB peripherals at https://bit.ly/LinusRGBTips
+
+Why use HDMI and DisplayPort when you can go WIRELESS? This GPU technology existed over 10 years ago, but no one has used it since. Is it a hidden gem, or is there a reason it died on the vine?
+
+Discuss on the forum: https://linustechtips.com/topic/1478291-this-gpu-is-wireless/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twit…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State Of Usability In 2023 🎊]]></title>
+        <id>https://smashingmagazine.com/2023/01/usability-2023/</id>
+        <link href="https://smashingmagazine.com/2023/01/usability-2023/"/>
+        <updated>2023-01-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brown Star for Effort – This AliExpress Gaming Laptop is HILARIOUS]]></title>
         <id>https://yewtu.be/watch?v=Um0l6ZSxfTE</id>
@@ -1167,31 +1205,6 @@ Check out MetaGeek products: https://www.metageek.com/
 Purchases made through some store links may provide some compensation to Linus Media Group.
 
 ► GET MERCH: https://lt…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft is Forcing me to Buy MacBooks - Windows Modern Standby]]></title>
-        <id>https://yewtu.be/watch?v=OHKKcd3sx2c</id>
-        <link href="https://yewtu.be/watch?v=OHKKcd3sx2c"/>
-        <updated>2022-12-03T18:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Vessi is giving away a pair of socks of your choice to the first 100 shoes sold using code SocksLinusTechTips at http://Vessi.com/LinusTechTips
-
-Create your build at https://www.buildredux.com/linus
-
-For the last THREE years Windows laptops have been plagued by terrible battery drain while the user ISN'T EVEN DOING ANYTHING. It's gotten to the point where we can't recommend using a Windows laptop because of Windows Modern Standby.
-
-Discuss on the forum: https://linustechtips.com/topic/1471711-microsoft-is-forcing-me-to-buy-macbooks-windows-modern-standby/
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-
-FOLLOW US 
-----------------------------…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
         </author>
