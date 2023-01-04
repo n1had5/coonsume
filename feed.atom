@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T00:59:30.245Z</updated>
+    <updated>2023-01-04T01:01:10.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We've made some BIG mistakes... - Reacting to our WORST Videos]]></title>
+        <id>https://yewtu.be/watch?v=0E44CQ-8ooI</id>
+        <link href="https://yewtu.be/watch?v=0E44CQ-8ooI"/>
+        <updated>2023-01-03T21:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Check out Vessi's Holiday Sale at http://vessi.com/LinusTechTips or use code LinusTechTips at checkout if you just missed it for 15% off plus free shipping to CA, US, AU,JP, TW, KR, SGP via their store online.
+
+Create your build at https://www.buildredux.com/linus
+
+LinusTechTips has made a LOT of videos over the years, from hardware reviews to yelling at Apple to strange watercooling experiments and more yelling at Apple. But they weren't all winners. So join us as we react to some of our worst, most embarrassing and downright BAD videos.
+
+Discuss on the forum: https://linustechtips.com/topic/1478586-reacting-to-our-worst-videos/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https:…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This GPU is WIRELESS?!]]></title>
         <id>https://yewtu.be/watch?v=_cLsK2YZwDU</id>
@@ -1183,30 +1204,6 @@ FOLLOW US …]]></summary>
 Does WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Pieter De Decker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Took MONTHS to Solve This WiFi Problem… but I DID!]]></title>
-        <id>https://yewtu.be/watch?v=f-dGcs6bb5U</id>
-        <link href="https://yewtu.be/watch?v=f-dGcs6bb5U"/>
-        <updated>2022-12-04T17:54:18.000Z</updated>
-        <summary type="html"><![CDATA[Try FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus
-
-Learn more about Seasonic Power Supplies at https://www.seasonic.com
-
-My family has been hounding me to figure out an audio issue that's ruining our movie nights. Problem is, it's really a Wi-Fi issue, and diagnosing it - even with cool Wi-Spy tools from MetaGeek - could be quite the rabbithole...
-
-Educational Materials: https://www.digikey.ca/en/articles/learn-the-fundamentals-of-software-defined-radio
-
-Discuss on the forum: https://linustechtips.com/topic/1471905-it-took-months-to-solve-this-wifi-problem%E2%80%A6-but-i-did/
-
-Check out MetaGeek products: https://www.metageek.com/
-
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET MERCH: https://lt…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
         </author>
     </entry>
 </feed>
