@@ -170,16 +170,6 @@
           "wordCount": 845,
           "title": "CSS is OK, I guess.",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375747"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375184",
-          "author": "Pieter De Decker",
-          "description": "For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …\nDoes WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/does-www-still-belong-in-urls/",
-          "publishedOn": "2022-12-05T15:20:22.000Z",
-          "wordCount": 1667,
-          "title": "Does WWW still belong in URLs?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375184"
         }
       ]
     },
@@ -412,21 +402,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
-          "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
-          "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6053,
-          "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg"
         }
       ]
     },
@@ -435,6 +410,26 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=jKmmugnOEME",
+          "author": null,
+          "description": "Check out Jackery’s Solar Generator 1000 Pro at\nhttps://geni.us/aL7Ys\n\nSave 10% and Free Worldwide Shipping at Ridge Wallet by using offer code LINUS at https://www.ridge.com/LINUS\n\nWhen Nvidia unlaunched the 12GB RTX 4080, gamers rejoiced – But now that GPU is back as the RTX 4070 Ti. “Starting at” $799, is it the win we all hoped it would be, or is it too expensive for a 70-series graphics card?\n\nDiscuss on the forum: https://linustechtips.com/topic/1478773-nvidia-is-lying-to-you/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------…",
+          "link": "https://yewtu.be/watch?v=jKmmugnOEME",
+          "publishedOn": "2023-01-04T14:00:00.000Z",
+          "wordCount": 1114,
+          "title": "Nvidia is lying to you - RTX 4070 Ti Full Review",
+          "imageUrl": "/vi/jKmmugnOEME/maxres.jpg"
+        },
+        {
+          "id": "https://yewtu.be/watch?v=dA5W3T-f4Ig",
+          "author": null,
+          "description": "Ever want a heated PC mouse? A cooled mouse? How about a mouse with a screen? Well, we didn't either, but here we are...\n\n#SHORTS #pcgaming #gamingmouse #mouse\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech",
+          "link": "https://yewtu.be/watch?v=dA5W3T-f4Ig",
+          "publishedOn": "2023-01-04T06:00:13.000Z",
+          "wordCount": 705,
+          "title": "These Gaming Mice are WEIRD…",
+          "imageUrl": "/vi/dA5W3T-f4Ig/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=0E44CQ-8ooI",
           "author": null,
@@ -754,16 +749,6 @@
           "wordCount": 1069,
           "title": "My Smart Home is Stupid",
           "imageUrl": "/vi/QoC8R3KHk8E/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=RFzirpvTiOo",
-          "author": null,
-          "description": "Thanks to Shadow for sponsoring today's video! Get 20% off the first month of your Shadow PC subscription, with or without the Power Upgrade with code LTT at https://shdw.me/LTT_linus\n\nWe partnered with Shadow to take a deep dive into how their Power Upgrade is made from assembly to deployment. Come join Luke Lafreniere in exploring OVHcloud's facilities in France and see what happens behind the scenes in a data center that's completely water-cooled!\n\nDiscuss on the forum: https://linustechtips.com/topic/1472108-what-1000000-of-water-cooling-looks-like-building-shadows-power-upgrade/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US …",
-          "link": "https://yewtu.be/watch?v=RFzirpvTiOo",
-          "publishedOn": "2022-12-05T20:11:27.000Z",
-          "wordCount": 1102,
-          "title": "What $1,000,000 of water cooling looks like - Building Shadow's Power Upgrade",
-          "imageUrl": "/vi/RFzirpvTiOo/maxres.jpg"
         }
       ]
     }

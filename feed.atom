@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T01:01:10.306Z</updated>
+    <updated>2023-01-05T01:03:07.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nvidia is lying to you - RTX 4070 Ti Full Review]]></title>
+        <id>https://yewtu.be/watch?v=jKmmugnOEME</id>
+        <link href="https://yewtu.be/watch?v=jKmmugnOEME"/>
+        <updated>2023-01-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out Jackery’s Solar Generator 1000 Pro at
+https://geni.us/aL7Ys
+
+Save 10% and Free Worldwide Shipping at Ridge Wallet by using offer code LINUS at https://www.ridge.com/LINUS
+
+When Nvidia unlaunched the 12GB RTX 4080, gamers rejoiced – But now that GPU is back as the RTX 4070 Ti. “Starting at” $799, is it the win we all hoped it would be, or is it too expensive for a 70-series graphics card?
+
+Discuss on the forum: https://linustechtips.com/topic/1478773-nvidia-is-lying-to-you/
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------…]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These Gaming Mice are WEIRD…]]></title>
+        <id>https://yewtu.be/watch?v=dA5W3T-f4Ig</id>
+        <link href="https://yewtu.be/watch?v=dA5W3T-f4Ig"/>
+        <updated>2023-01-04T06:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Ever want a heated PC mouse? A cooled mouse? How about a mouse with a screen? Well, we didn't either, but here we are...
+
+#SHORTS #pcgaming #gamingmouse #mouse
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We've made some BIG mistakes... - Reacting to our WORST Videos]]></title>
         <id>https://yewtu.be/watch?v=0E44CQ-8ooI</id>
@@ -1161,49 +1214,6 @@ The best is this Pen you can …
 CSS is OK, I guess. originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible Front-End Patterns For Responsive Tables (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/</id>
-        <link href="https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/"/>
-        <updated>2022-12-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What $1,000,000 of water cooling looks like - Building Shadow's Power Upgrade]]></title>
-        <id>https://yewtu.be/watch?v=RFzirpvTiOo</id>
-        <link href="https://yewtu.be/watch?v=RFzirpvTiOo"/>
-        <updated>2022-12-05T20:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to Shadow for sponsoring today's video! Get 20% off the first month of your Shadow PC subscription, with or without the Power Upgrade with code LTT at https://shdw.me/LTT_linus
-
-We partnered with Shadow to take a deep dive into how their Power Upgrade is made from assembly to deployment. Come join Luke Lafreniere in exploring OVHcloud's facilities in France and see what happens behind the scenes in a data center that's completely water-cooled!
-
-Discuss on the forum: https://linustechtips.com/topic/1472108-what-1000000-of-water-cooling-looks-like-building-shadows-power-upgrade/
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCAST GEAR: https://lmg.gg/podcastgear
-
-
-FOLLOW US …]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does WWW still belong in URLs?]]></title>
-        <id>https://css-tricks.com/?p=375184</id>
-        <link href="https://css-tricks.com/does-www-still-belong-in-urls/"/>
-        <updated>2022-12-05T15:20:22.000Z</updated>
-        <summary type="html"><![CDATA[For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …
-Does WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Pieter De Decker</name>
         </author>
     </entry>
 </feed>
