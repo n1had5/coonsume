@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T01:03:07.975Z</updated>
+    <updated>2023-01-06T01:03:34.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I wish I didn't need this gaming PC - MSI Trident X2]]></title>
+        <id>https://yewtu.be/watch?v=IO3_ATgy52c</id>
+        <link href="https://yewtu.be/watch?v=IO3_ATgy52c"/>
+        <updated>2023-01-05T18:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to MSI for sponsoring this video. Check out the featured products through the links below:
+Trident X2 product link: https://msi.gm/Trident_X2_product
+Trident X2 purchase link: https://msi.gm/Trident_X2_purchase
+MPG321UR-QD product link: https://msi.gm/MPG321UR_QD_product
+MPG321UR-QD purchase link: https://msi.gm/MPG321UR_QD_purchase
+
+All is not well in the tech house after downgrading to Intel Arc: there are some missing features that mean Linus and his family are missing out on their theater room! Fortunately, we have the solution: a top-of-the-line PC from MSI… and it has a few trick up its sleeve.
+
+Discuss on the forum: https://linustechtips.com/topic/1479147-i-wish-i-didnt-need-this-gaming-pc/
+
+Purchases made through some store links may provide some compensation to Linus Media …]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Getting Data Visualization Right]]></title>
+        <id>https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/</id>
+        <link href="https://smashingmagazine.com/2023/01/guide-getting-data-visualization-right/"/>
+        <updated>2023-01-05T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Sara Dholakia presents a guide on how to choose just the right type of data visualization, with guidelines and things to keep in mind.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sara Dholakia)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia is lying to you - RTX 4070 Ti Full Review]]></title>
         <id>https://yewtu.be/watch?v=jKmmugnOEME</id>
@@ -1167,53 +1197,6 @@ Discuss o…]]></summary>
 Adding Box Shadows to WordPress Blocks and Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advent Calendars For Web Designers And Developers (2022 Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/</id>
-        <link href="https://smashingmagazine.com/2022/12/tech-advent-calendars-web-developers-web-designers-2022/"/>
-        <updated>2022-12-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready for the countdown to Christmas? This year, the web community was once again busy creating tech advent calendars jam-packed with fantastic content to sweeten your days. But which ones to follow? We help you find the right one, whether you’re a front-end dev, UX designer, or content strategist.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Smart Home is Stupid]]></title>
-        <id>https://yewtu.be/watch?v=QoC8R3KHk8E</id>
-        <link href="https://yewtu.be/watch?v=QoC8R3KHk8E"/>
-        <updated>2022-12-06T19:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off
-
-Create your build at https://www.buildredux.com/linus
-
-My smart home has some interesting HVAC control systems, but unfortunately, we never got around to setting them up and with temperatures dropping into the negatives... it's time we finally set them up.
-
-Discuss on the forum: https://linustechtips.com/topic/1472332-my-smart-home-is-stupid/
-
-Buy Tasmota Flashed Relay Boards on Aliexpress: https://lmg.gg/sGcP3
-Buy Ecobee Smart Thermostats on Amazon: https://geni.us/MJriksw
-Buy Cat S62 Pro Rugged Smart Phone on Amazon: https://geni.us/fEekB
-
-Purchases made through some store links may provide some compensation to Linus Media Group.
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS is OK, I guess.]]></title>
-        <id>https://css-tricks.com/?p=375747</id>
-        <link href="https://css-tricks.com/css-is-ok-i-guess/"/>
-        <updated>2022-12-06T15:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Nothing but ear-to-ear smiles as I was watching this video from @quayjn on YouTube. (No actual name in the byline, though I think it’s Brian Katz if my paper trail is correct).
-The best is this Pen you can …
-CSS is OK, I guess. originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
