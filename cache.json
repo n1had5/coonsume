@@ -150,16 +150,6 @@
           "wordCount": 2431,
           "title": "Animated Background Stripes That Transition on Hover",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375697"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375412",
-          "author": "Ganesh Dahal",
-          "description": "The CSS box-shadow and outline properties gained theme.json support in WordPress 6.1. Let's look at a few examples of how it works in real themes, and what options we have to apply these styles to WordPress blocks and elements.\nAdding Box Shadows to WordPress Blocks and Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/adding-box-shadows-to-wordpress-blocks-and-elements/",
-          "publishedOn": "2022-12-07T13:59:50.000Z",
-          "wordCount": 1929,
-          "title": "Adding Box Shadows to WordPress Blocks and Elements",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375412"
         }
       ]
     },
@@ -377,21 +367,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
-          "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
-          "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3879,
-          "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg"
         }
       ]
     },
@@ -729,16 +704,6 @@
           "wordCount": 980,
           "title": "I’m NOT Supposed to Have This",
           "imageUrl": "/vi/qgK38sg1ws4/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=W8snwlE93aE",
-          "author": null,
-          "description": "Check out Vessi's Holiday Sale at http://vessi.com/LinusTechTips or use code LinusTechTips at checkout if you just missed it for 15% off plus free shipping to CA, US, AU,JP, TW, KR, SGP via their store online.\n\nGet the best offer at http://ridge.com/LINUS and right now you can save up to 40% through December 22nd!\n\nGlittery Dells have been showing up on store shelves recently and we need to find out why! They're shiny, they're dusty, but are they worth the money?\n\nUpdate on the warranty: We called up the support line for Advanced Skytech (Treasure Box) secret shopper style. There was no wait time to get an agent, and they walked us through every step of fixing the issue including sending videos to assist us. They were patient and helpful overall. Pretty pleased with how it went.\n\nDiscuss o…",
-          "link": "https://yewtu.be/watch?v=W8snwlE93aE",
-          "publishedOn": "2022-12-07T19:04:11.000Z",
-          "wordCount": 1245,
-          "title": "This MUST be a Scam... \"Treasure Box\" Gaming PC",
-          "imageUrl": "/vi/W8snwlE93aE/maxres.jpg"
         }
       ]
     }
