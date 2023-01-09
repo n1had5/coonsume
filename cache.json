@@ -130,16 +130,6 @@
           "wordCount": 1565,
           "title": "Saving Settings for a Custom WordPress Block in the Block Editor",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375577"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375537",
-          "author": "Temani Afif",
-          "description": "In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …\nCSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/",
-          "publishedOn": "2022-12-09T14:26:39.000Z",
-          "wordCount": 3542,
-          "title": "CSS Infinite Slider Flipping Through Polaroid Images",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375537"
         }
       ]
     },
@@ -365,6 +355,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=-PD0FZt9-VU",
+          "author": null,
+          "description": "Check out Acer's Earthion initiative through the link below:\nhttps://lmg.gg/wkFRz\n\nThis year at CES MSI unveiled a bunch of new laptops and shockingly they're super well built!\n\nDiscuss on the forum: https://linustechtips.com/topic/1479947-msi-made-the-gram-lg-couldnt/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 - Intro\n0:21 - Stealth 14 Studio\n2:00 - Stealth 16 Studio\n4:20 - Raider GE78 HX\n7:00 - Titan GT77 HX\n7:40 - Cyborg 15\n8:50 - GRAM KILLER Prestige 13 Evo\n10:54 - Prestige 14 & 16\n11:33 - Creator Z17\n12:59 - Acer!",
+          "link": "https://yewtu.be/watch?v=-PD0FZt9-VU",
+          "publishedOn": "2023-01-08T21:58:09.000Z",
+          "wordCount": 932,
+          "title": "MSI Made the Gram LG Couldn't",
+          "imageUrl": "/vi/-PD0FZt9-VU/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=k3LlyLx-2b8",
           "author": null,
@@ -684,26 +684,6 @@
           "wordCount": 982,
           "title": "The Half-Price Gaming Cockpit",
           "imageUrl": "/vi/Qqu3B97qb4w/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=Qt4x6HQPoow",
-          "author": null,
-          "description": "Check out Vessi's Holiday Sale at http://vessi.com/WANSHOW or use code WANSHOW at checkout if you just missed it for 15% off plus free shipping to select countries\nCheck out Newegg at https://newegg.io/linustt2022\nVisit https://www.brilliant.org/WAN/ to get started learning STEM for free, and the first 200 people will get 20% off their annual premium subscription.\n\nCome to LTX 2023! Website: https://lmg.gg/ltx2023\n\nPodcast Download: TBD\n\nTimestamps: TBD",
-          "link": "https://yewtu.be/watch?v=Qt4x6HQPoow",
-          "publishedOn": "2022-12-10T05:00:59.000Z",
-          "wordCount": 765,
-          "title": "I Want To Smuggle CPUs - WAN Show December 9, 2022",
-          "imageUrl": "/vi/Qt4x6HQPoow/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=pvEZELnbPoI",
-          "author": null,
-          "description": "Next time you need to access or move files to your Valve Steam Deck, try SSH! It's so simple, we can walk you through it in under a minute.\n\n#shorts #ssh #steamdeck #pcgaming #tutorial #techtips \n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech",
-          "link": "https://yewtu.be/watch?v=pvEZELnbPoI",
-          "publishedOn": "2022-12-09T18:30:38.000Z",
-          "wordCount": 744,
-          "title": "Wireless Steam Deck file transfer is THIS easy!",
-          "imageUrl": "/vi/pvEZELnbPoI/maxres.jpg"
         }
       ]
     }
