@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://n1had5.github.io/coonsume/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T01:04:53.034Z</updated>
+    <updated>2023-01-11T01:02:37.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://n1had5.github.io/coonsume/index.html"/>
     <link rel="self" href="https://n1had5.github.io/coonsume/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YOU Get a Supercomputer!]]></title>
+        <id>https://yewtu.be/watch?v=aSxomAgD8s4</id>
+        <link href="https://yewtu.be/watch?v=aSxomAgD8s4"/>
+        <updated>2023-01-10T18:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Find out more about Acer's SpatialLabs branch through the link below:
+https://lmg.gg/PN3Vk
+
+Check out the Predator Helios 300 SpatialLabs Edition with the link below:
+https://lmg.gg/fYoBM
+
+Supermicro is coming out with a new workstation designed for the heaviest AI workloads... except... it's also designed to be quiet enough to run in your house. Holy shit.
+
+Discuss on the forum: https://linustechtips.com/topic/1480419-you-get-a-supercomputer/
+
+Check out Supermicro Workstations: https://lmg.gg/7G1kF
+
+Purchases made through some store links may provide some compensation to Linus Media Group.
+
+► GET MERCH: https://lttstore.com
+► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
+► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
+► PODCAST GEAR: https://lmg.gg/podcastgear
+
+
+FOLLOW US 
+---------------------------------------------------  
+Twitter: https://twitter.com/linustech
+Facebook: http://www.facebook.com/LinusTech
+Instagram: https://www.instagram.com/linustech
+TikTok: https://www.tiktok.com/@linustech
+Twitch: https://www.twitch.tv/linustech
+
+MUSIC CREDIT
+---------------------------------------------------
+Intro: Laszlo - Supernova
+Video Link: https://www.youtube.com/watch?v=PKfxmFU3lWY
+iTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712
+Artist Link: https://soundcloud.com/laszlomusic
+
+Outro: Approaching Nirvana - Sugar High
+Video Link: https://www.youtube.com/watch?v=ngsGBSCDwcI
+Listen on Spotify: http://spoti.fi/UxWkUw
+Artist Link: http://www.youtube.com/approachingnirvana
+
+Intro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/
+Monitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp
+Mechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4
+Mouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE
+
+CHAPTERS
+---------------------------------------------------
+0:00 Intro]]></summary>
+        <author>
+            <name>Linus Tech Tips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faking Min Width on a Table Column]]></title>
+        <id>https://css-tricks.com/?p=376307</id>
+        <link href="https://css-tricks.com/faking-min-width-on-a-table-column/"/>
+        <updated>2023-01-10T15:11:20.000Z</updated>
+        <summary type="html"><![CDATA[The good ol’ <table> tag is the most semantic HTML for showing tabular data. But I find it very hard to control how the table is presented, particularly column widths in a dynamic environment where you might not know how …
+Faking Min Width on a Table Column originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Anders Pedersen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Your Collaboration Problems Go Away By Sharing Components]]></title>
+        <id>https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/</id>
+        <link href="https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/"/>
+        <updated>2023-01-10T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently UXPin has extended its powerful Merge technology by adding npm integration, allowing designers to sync React component libraries without requiring any developer input. This new step aims to improve collaboration between designers and developers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shane Hudson)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bought AMD? You got played – Ryzen 7000 non-X Review]]></title>
         <id>https://yewtu.be/watch?v=CTiRNnSg0jA</id>
@@ -1188,35 +1266,6 @@ Purchases made through some store links may provide some compensation to Linus M
 FOLLOW US 
 ---------------------------------------------------  
 Twitter: https://…]]></summary>
-        <author>
-            <name>Linus Tech Tips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future Of Design: Human-Powered Or AI-Driven?]]></title>
-        <id>https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/</id>
-        <link href="https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/"/>
-        <updated>2022-12-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Keima Kai)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made my own RAM! - Micron Factory Tour]]></title>
-        <id>https://yewtu.be/watch?v=-EhDlXx3okU</id>
-        <link href="https://yewtu.be/watch?v=-EhDlXx3okU"/>
-        <updated>2022-12-11T18:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to Micron for sponsoring this video! Learn more about how Crucial by Micron can make upgrading your setup easy by checking them out at: http://crucial.gg/LTT
-
-Linus doesn't travel for projects often anymore, but when Micron invited him out to their 200,000 sq. ft. facilities in Boise, Idaho to make his own RAM from scratch, he knew that he had to go. Making RAM isn't easy, so sit back and take a look at how RAM goes from raw components to powering the device you're watching this on! 
-
-Discuss on the forum: https://linustechtips.com/topic/1473331-i-made-this-ram-you%E2%80%99ve-never-seen-before-micron-factory-tour-sponsored/
-
-► GET MERCH: https://lttstore.com
-► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt
-► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors
-► PODCA…]]></summary>
         <author>
             <name>Linus Tech Tips</name>
         </author>

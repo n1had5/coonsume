@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376307",
+          "author": "Anders Pedersen",
+          "description": "The good ol’ <table> tag is the most semantic HTML for showing tabular data. But I find it very hard to control how the table is presented, particularly column widths in a dynamic environment where you might not know how …\nFaking Min Width on a Table Column originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/faking-min-width-on-a-table-column/",
+          "publishedOn": "2023-01-10T15:11:20.000Z",
+          "wordCount": 1708,
+          "title": "Faking Min Width on a Table Column",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376307"
+        },
+        {
           "id": "https://css-tricks.com/?p=376237",
           "author": "Fränk Klein",
           "description": "A little while back, Ganesh Dahal penned a post here on CSS-Tricks responding to a tweet that asked about adding CSS box shadows on WordPress blocks and elements. There’s a lot of great stuff in there that leverages new features …\nStyling Buttons in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -148,6 +158,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
+          "author": "hello@smashingmagazine.com (Shane Hudson)",
+          "description": "Recently UXPin has extended its powerful Merge technology by adding npm integration, allowing designers to sync React component libraries without requiring any developer input. This new step aims to improve collaboration between designers and developers.",
+          "link": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
+          "publishedOn": "2023-01-10T11:30:00.000Z",
+          "wordCount": 3724,
+          "title": "Making Your Collaboration Problems Go Away By Sharing Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "author": "hello@smashingmagazine.com (Eric Burel)",
@@ -357,21 +382,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "author": "hello@smashingmagazine.com (Keima Kai)",
-          "description": "In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.",
-          "link": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "publishedOn": "2022-12-12T13:00:00.000Z",
-          "wordCount": 5849,
-          "title": "The Future Of Design: Human-Powered Or AI-Driven?",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg"
         }
       ]
     },
@@ -380,6 +390,16 @@
       "feedUrl": "https://yewtu.be/feed/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "siteUrl": "https://yewtu.be/channel/UCXuqSBlHAE6Xw-yeJA0Tunw",
       "articles": [
+        {
+          "id": "https://yewtu.be/watch?v=aSxomAgD8s4",
+          "author": null,
+          "description": "Find out more about Acer's SpatialLabs branch through the link below:\nhttps://lmg.gg/PN3Vk\n\nCheck out the Predator Helios 300 SpatialLabs Edition with the link below:\nhttps://lmg.gg/fYoBM\n\nSupermicro is coming out with a new workstation designed for the heaviest AI workloads... except... it's also designed to be quiet enough to run in your house. Holy shit.\n\nDiscuss on the forum: https://linustechtips.com/topic/1480419-you-get-a-supercomputer/\n\nCheck out Supermicro Workstations: https://lmg.gg/7G1kF\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro",
+          "link": "https://yewtu.be/watch?v=aSxomAgD8s4",
+          "publishedOn": "2023-01-10T18:09:57.000Z",
+          "wordCount": 940,
+          "title": "YOU Get a Supercomputer!",
+          "imageUrl": "/vi/aSxomAgD8s4/maxres.jpg"
+        },
         {
           "id": "https://yewtu.be/watch?v=CTiRNnSg0jA",
           "author": null,
@@ -699,16 +719,6 @@
           "wordCount": 1087,
           "title": "This video will not age well... - AMD Radeon RX 7900 Series Review",
           "imageUrl": "/vi/TBJ-vo6Ri9c/maxres.jpg"
-        },
-        {
-          "id": "https://yewtu.be/watch?v=-EhDlXx3okU",
-          "author": null,
-          "description": "Thanks to Micron for sponsoring this video! Learn more about how Crucial by Micron can make upgrading your setup easy by checking them out at: http://crucial.gg/LTT\n\nLinus doesn't travel for projects often anymore, but when Micron invited him out to their 200,000 sq. ft. facilities in Boise, Idaho to make his own RAM from scratch, he knew that he had to go. Making RAM isn't easy, so sit back and take a look at how RAM goes from raw components to powering the device you're watching this on! \n\nDiscuss on the forum: https://linustechtips.com/topic/1473331-i-made-this-ram-you%E2%80%99ve-never-seen-before-micron-factory-tour-sponsored/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCA…",
-          "link": "https://yewtu.be/watch?v=-EhDlXx3okU",
-          "publishedOn": "2022-12-11T18:00:19.000Z",
-          "wordCount": 1088,
-          "title": "I made my own RAM! - Micron Factory Tour",
-          "imageUrl": "/vi/-EhDlXx3okU/maxres.jpg"
         }
       ]
     }
